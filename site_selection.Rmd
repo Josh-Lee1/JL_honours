@@ -1,0 +1,24 @@
+---
+title: "First Script"
+output: html_notebook
+---
+
+```{r}
+library(raster)
+library(tiff)
+```
+
+
+```{r}
+tif<- "Data/Raw/keithveg/1keithclass.tif"
+keithdata <- raster(tif)
+tif2<- "Data/Raw/fesm1000.tif"
+fesm <- raster(tif2)
+plot(fesm)
+plot(keithdata)
+```
+
+```{r}
+
+```
+
