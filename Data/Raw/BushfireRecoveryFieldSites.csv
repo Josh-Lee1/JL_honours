@@ -1,0 +1,75 @@
+TEC,Site,Location text,Start Zone,Start Easting,Start Northing,End Zone,End Easting,End Northing,Observers (comma sep if >1),Date of samping,Quadrat Q or Transect T sample,Total sample area (sq.m),Subquadrat area,# subquadrats,Notes,GEEBAM3p1,FESM2p1,Lat,Long,Altitude,SoilType
+Subtrop Lowland RF,T_01_UNSW,"Terania Creek, Nightcap NP",56,530627,6840175,56,530643,6840200,Robert Kooyman,22_09_2020,Q (30 x 20m),600,100,6,Co-ordintes on centre line south (start) to north (end),,,,,,
+RF (non TEC?),AN2a,Peate's Mountain,56,536731,6838310,,,,,candidate,,,,,,3,1,-28.581605,153.375615,520,rhyolite
+RF (non TEC?),AN2b,Peate's Mountain,56,536748,6838149,,,,,candidate,,,,,,2,1,-28.58306,153.375791,499,rhyolite
+RF (non TEC?),AN2c,Peate's Mountain,56,536673,6838087,,,,,candidate,,,,,,2,1,-28.58362,153.375024,487,rhyolite
+RF (non TEC?),AN4b,Mt Nardi,56,528425,6842530,,,,,candidate,,,,,,0,2,-28.543722,153.290574,774,basalt
+RF (non TEC?),AW2a,Washpool,56,435540,6739086,,,,,candidate,,,,,,2,1,-29.476051,152.335134,890,basalt
+RF (non TEC?),AW2b,Washpool,56,435439,6739178,,,,,candidate,,,,,,2,1,-29.475215,152.334094,870,basalt
+RF (non TEC?),AW2c,Washpool,56,435392,6739316,,,,,candidate,,,,,,2,1,-29.473971,152.333619,877,basalt
+RF,BFEH1_s1, ,56,535337,6838378,,,,,candidate,,,,,,0,0, , ,0, 
+RF,BFEH2_s1, ,56,534319,6838864,,,,,candidate,,,,,,0,1, , ,0, 
+RF,BFEH3_s1, ,56,535058,6838442,,,,,candidate,,,,,,0,1, , ,0, 
+RF,BFEH4_s1, ,56,535008,6838455,,,,,candidate,,,,,,0,1, , ,0, 
+RF,BFEH5_s1, ,56,533918,6839432,,,,,candidate,,,,,,0,1, , ,0, 
+RF,BFESed1_s1, ,56,535433,6838516,,,,,candidate,,,,,,0,1, , ,0, 
+RF,Border Ranges 7, ,56,476028,6861599,,,,,candidate,,,,,,3,1,28 22.300,152 45.322,0, 
+RF,Border Ranges 8, ,56,472211,6864019,,,,,candidate,,,,,,3,1,28 20.987,152 42.987,0, 
+RF,MtJ_S1, ,56,534802,6844947,,,,,candidate,,,,,,2,1, , ,0, 
+RF,N15_NEBBT_S1, ,56,534041,6840540,,,,,candidate,,,,,,2,2, , ,0, 
+RF,N15_RF_S1, ,56,534041,6840540,,,,,candidate,,,,,,2,2, , ,0, 
+Subtrop Lowland RF,Nightcap 1, ,56,530446,6840367,,,,,candidate,,,,,,2,1,28 33.787,153 18.667,0, 
+Subtrop Lowland RF,Nightcap 2, ,56,530612,6840608,,,,,candidate,,,,,close to T_01_UNSW,2,1,28 33.662,153 18.775,0, 
+Subtrop Lowland RF,Nightcap 3, ,56,530952,6840634,,,,,candidate,,,,,,2,1,28 33.643,153 18.987,0, 
+RF,Nightcap 4, ,56,532699,6841310,,,,,candidate,,,,,,2,1,28 33.277,153 20.060,0, 
+RF,Nightcap 5, ,56,529376,6843006,,,,,candidate,,,,,,2,2,28 32.362,153 18.018,0, 
+RF,Nightcap 6, ,56,533944,6840357,,,,,candidate,,,,,,3,2,28 33.792,153 20.823,0, 
+,Nightcap BFEH1, ,56,535337,6838378,,,,,candidate,,,,,,0,0, , ,0, 
+RF,Nightcap BFEH2, ,56,534319,6838864,,,,,candidate,,,,,,0,1, , ,0, 
+RF,Nightcap BFEH3, ,56,535058,6838442,,,,,candidate,,,,,,0,1, , ,0, 
+RF,Nightcap BFEH4, ,56,535008,6838455,,,,,candidate,,,,,,0,1, , ,0, 
+RF,Nightcap BFEH5, ,56,533918,6839432,,,,,candidate,,,,,,0,1, , ,0, 
+RF,PMUA1_baseline, ,56,536734,6838382,,,,,candidate,,,,,,2,1, , ,0, 
+RF,PMUA2_s1, ,56,535283,6839640,,,,,candidate,,,,,,2,1, , ,0, 
+RF,PMUA3_baseline, ,56,535241,6839749,,,,,candidate,,,,,,2,2, , ,0, 
+RF,T29_S1, ,56,534694,6839746,,,,,candidate,,,,,,2,2, , ,0, 
+Subtrop Lowland RF,Tooloom 12, ,56,441282,6849127,,,,,candidate,,,,,,2,2,28 28.990,152 24.007,0, 
+Subtrop Lowland RF,Yabbra NP, ,56,449592,6827091,,,,,candidate,,,,,,2,0,28 40.945,152 29.042,0, 
+Littoral RF,WON2,"Baycliff, Nadgee, 524m N of carpark, hole in S side of headland",55,762954,5873226,,,,Jackie Miles,27/8/20,,100,33.3,3,"10x10m plot with marker in SE corner, subdivided into 3 strips",,,,,,
+Littoral RF,WON1,"Myrtle Cove, Wonboyn, W side of Hemingways Ck c. 70m upstream from Nadgee Rd",55,758731,5873208,,,,Jackie Miles,27/8/20,,100,12.5,8,"10x10m plot with marker in SE corner, subdivided into 3 strips",,,,,,
+Temperate Highland Peat Swamp,BS1,,56,241955,6302758,56,241947.18,6302775.48,David Keith,6/03/2020,T,20,1,20,valley side,,,,,1056,unmined
+Temperate Highland Peat Swamp,BS2,,56,241924,6302797,56,241936.31,6302812.93,David Keith,6/03/2020,T,20,1,20,valley floor,,,,,1053,unmined
+Temperate Highland Peat Swamp,CW1,,56,239339,6303190,56,239329.42,6303174.64,David Keith,4/03/2020,T,20,1,20,valley side,,,,,,mined
+Temperate Highland Peat Swamp,CW2,,56,239327,6303196,56,239315.55,6303181.48,David Keith,4/03/2020,T,20,1,20,valley floor,,,,,,mined
+Temperate Highland Peat Swamp,GGE1,,56,240219,6302325,56,240207.60,6302310.81,David Keith,5/03/2020,T,20,1,20,valley side,,,,,,mined
+Temperate Highland Peat Swamp,GGE2,,56,240201,6302334,56,240191.76,6302317.82,David Keith,5/03/2020,T,20,1,20,valley floor,,,,,,mined
+Temperate Highland Peat Swamp,GGW1,,56,240091,6303038,56,240072.81,6303033.79,David Keith,4/03/2020,T,20,1,20,valley side,,,,,,mined
+Temperate Highland Peat Swamp,GGW2,,56,240092,6303024,56,240072.25,6303020.13,David Keith,4/03/2020,T,20,1,20,valley floor,,,,,,mined
+Temperate Highland Peat Swamp,HV1,,56,241691,6297037,56,241672.24,6297031.31,David Keith,5/03/2020,T,20,1,20,valley side,,,,,,unmined
+Temperate Highland Peat Swamp,HV2,,56,241683,6297046,56,241664.34,6297044.98,David Keith,5/03/2020,T,20,1,20,valley floor,,,,,,unmined
+Temperate Highland Peat Swamp,MW1,,56,238810,6299346,56,238790.48,6299347.89,David Keith,6/03/2020,T,20,1,20,valley side,,,,,,unmined
+Temperate Highland Peat Swamp,MW2,,56,238784,6299327,56,238769.83,6299340.46,David Keith,6/03/2020,T,20,1,20,valley floor,,,,,,unmined
+Temperate Highland Peat Swamp,SS1,,56,237790,6304112,56,237800.20,6304095.83,David Keith,4/03/2020,T,20,1,20,valley side,,,,,,unmined
+Temperate Highland Peat Swamp,SS2,,56,237810,6304123,56,237818.14,6304104.20,David Keith,4/03/2020,T,20,1,20,valley floor,,,,,,unmined
+Temperate Highland Peat Swamp,CC1,,56,241187,6302715,56,241191.00,6302734.00,David Keith,24/08/2020,T,20,1,20,valley side,,,,,1074,mined
+Temperate Highland Peat Swamp,CC2,,56,241160,6302690,56,241169.00,6302708.00,David Keith,24/08/2020,T,20,1,20,valley floor,,,,,1076,mined
+Temperate Highland Peat Swamp,EW1,,56,235961,6304150,56,,,David Keith,24/08/2020,T,20,1,20,valley side,,,,,1108,mined
+Temperate Highland Peat Swamp,EW2,,56,235945,6304140,56,,,David Keith,24/08/2020,T,20,1,20,valley floor,,,,,1105,mined
+Milton-Ulladulla RF,MIL007B,,56,263638,6086050,,,,David Bain,candidate,Q,,,,Natural,,,-35.34083900000,150.39924200000,,
+Milton-Ulladulla RF,MIL012B,,56,266402,6089820,,,,David Bain,candidate,Q,,,,Natural,,,-35.30754800000,150.43070300000,,
+Milton-Ulladulla RF,MIL013B,,56,261771,6087420,,,,David Bain,candidate,Q,,,,Natural,,,-35.32811800000,150.37911500000,,
+Milton-Ulladulla RF,MIL021B,,56,267297,6089870,,,,David Bain,candidate,Q,,,,Natural,,,-35.30729700000,150.44055200000,,
+Milton-Ulladulla RF,SZ23101,,56,264722,6095450,,,,David Bain,candidate,Q,,,,Natural,,,-35.25645800000,150.41385500000,,
+Milton-Ulladulla RF,SCCJB13,,56,265010,6095610,,,,David Bain,candidate,Q,,,,Natural,,,-35.25510100000,150.41706600000,,
+Milton-Ulladulla RF,SCCJB37,,56,264922,6095620,,,,David Bain,candidate,Q,,,,Natural,,,-35.25493600000,150.41610400000,,
+Milton-Ulladulla RF,SCCRR25,,56,263736,6090370,,,,David Bain,candidate,Q,,,,Natural,,,0.00000000000,0.00000000000,,
+Milton-Ulladulla RF,MR_R1,Robert Miller,56,266798,6090195,,,,David Bain,candidate,Q,,,,Revegetation,,,,,,Mid-back
+Milton-Ulladulla RF,MR_R2,Robert Miller,56,266696,6090047,,,,David Bain,candidate,Q,,,,Revegetation,,,,,,Mid-back
+Milton-Ulladulla RF,MR_R3,Simon Katz,56,262352,6086685,,,,David Bain,candidate,Q,,,,Revegetation,,,,,,Mid-back
+Milton-Ulladulla RF,MR_N1,Council Reserve,56,266839,6089254,,,,David Bain,candidate,Q,,,,Natural,,,,,,Halfway along walking bridge; mid-back
+Milton-Ulladulla RF,MR_N2,RMS,56,266459,6089900,,,,David Bain,candidate,Q,,,,Natural,,,,,,Bottom of rocks;  mid-back
+Milton-Ulladulla RF,MR_N3,YatteYattah (creek),56,264918,6095650,,,,David Bain,candidate,Q,,,,Natural,,,,,,On creek bank; mid-back
+Milton-Ulladulla RF,MR_N4,YatteYattah (top),56,265210,6095564,,,,David Bain,candidate,Q,,,,Natural,,,,,,Slope near top; mid-back
+Milton-Ulladulla RF,MR_R5,Darren Roso,56,264678,6089906,,,,David Bain,candidate,Q,,,,Revegetation,,,,,,On flats; mid-back
+Milton-Ulladulla RF,MR_R4,David Bland,56,263735,6090341,,,,David Bain,candidate,Q,,,,Revegetation,,,,,,Clear area within rainforest; mid-back
+Milton-Ulladulla RF,MR_R6,Gaby Bonello,56,266922,6085825,,,,David Bain,candidate,Q,,,,Revegetation,,,,,,"Between creeks, below track area; mid-back"

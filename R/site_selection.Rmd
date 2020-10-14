@@ -1,0 +1,93 @@
+---
+title: "First Script"
+output: html_notebook
+---
+
+```{r}
+library(raster)
+library(tiff)
+library(sf)
+library(tidyverse)
+library(ggplot2)
+```
+
+
+```{r}
+tif<- "Data/Raw/keithveg/1keithclass.tif"
+keithdata <- raster(tif)
+tif2<- "../Data/Raw/fesm1000.tif"
+fesm <- raster(tif2)
+plot(fesm)
+plot(keithdata)
+```
+# Plan of attack
+# Convert fine scale veg map to points
+# crop points by fesm shapefile
+# assign severity to points using fesm raster
+# filter points by severity
+```{r}
+#r <- "../Data/Raw/rainfine.tif"
+#rfortif<- raster(r)
+
+#This seemed like the right thing but took forever to run
+rfor <- rasterToPoints(rfortif)
+
+```
+#Trying for 200m
+```{r}
+rr <- "../Data/Raw/rain200.tif"
+rain200 <- raster(rr)
+plot(rain200)
+rfor200 <-  rasterToPoints(rain200)
+
+rrr <- raster("../Data/Raw/rain200.tif") %>% 
+  as.data.frame(xy = T) %>% 
+  st_as_sf(coords = c("x", "y"), crs = 28356) %>% 
+  st_transform(crs = 4326)
+
+vegmap <- ggplot()+
+  geom_sf(data=rrr, aes())
+plot(vegmap)
+
+
+
+  pointsin <- fireshape %>% st_join(ebird_points) %>% 
+    st_set_geometry(NULL) %>% 
+    dplyr::select(SAMPLING.EVENT.IDENTIFIER) %>% 
+    mutate(in_fire="True")
+  
+  pointsinout <- baatrimmed %>%
+    left_join(., pointsin)
+```
+
+##corey file
+```{r}
+Aus<- st_read("../Data/Raw/1259030001_ste11aaust_shape/STE11aAust.shp")
+sites <- read.csv("../Data/Raw/BushfireRecoveryFieldSites.csv")
+
+#splitting files by zone
+
+sites56 <- filter(sites, Start.Zone==56)
+sites55 <- filter(sites, Start.Zone==55)
+
+#make sf object
+sitez56 <- st_as_sf(sites56, coords = c("Start.Easting", "Start.Northing"), crs = st_crs(28356))
+sitez55 <- st_as_sf(sites55, coords = c("Start.Easting", "Start.Northing"), crs = st_crs(28355))
+
+#crs transformation
+site_pts56 <- st_transform(x = sitez56, crs = 4326)
+site_pts55 <- st_transform(x = sitez55, crs = 4326)
+
+#bind together
+site_pts <- dplyr::bind_rows(site_pts56, site_pts55)
+
+
+map <- ggplot() +
+  geom_sf(data=Aus) +
+  geom_sf(data=site_pts, aes(colour = site_pts$TEC))+
+  xlim(140, 154)+
+  ylim(37, 28)
+
+plot(map)
+```
+
