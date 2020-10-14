@@ -9,6 +9,7 @@ library(tiff)
 library(sf)
 library(tidyverse)
 library(ggplot2)
+library(stars)
 ```
 
 
@@ -17,22 +18,19 @@ tif<- "Data/Raw/keithveg/1keithclass.tif"
 keithdata <- raster(tif)
 tif2<- "../Data/Raw/fesm1000.tif"
 fesm <- raster(tif2)
+
+tif1=read_stars(tif2)
+sf=st_as_sf(tif1)
+
+fesm<- st_read("../Data/Raw/fesm1000.tif")
+
+
+
 plot(fesm)
 plot(keithdata)
-```
-# Plan of attack
-# Convert fine scale veg map to points
-# crop points by fesm shapefile
-# assign severity to points using fesm raster
-# filter points by severity
-```{r}
-#r <- "../Data/Raw/rainfine.tif"
-#rfortif<- raster(r)
-
-#This seemed like the right thing but took forever to run
-rfor <- rasterToPoints(rfortif)
 
 ```
+
 #Trying for 200m
 ```{r}
 rr <- "../Data/Raw/rain200.tif"
@@ -65,6 +63,7 @@ plot(vegmap)
 Aus<- st_read("../Data/Raw/1259030001_ste11aaust_shape/STE11aAust.shp")
 sites <- read.csv("../Data/Raw/BushfireRecoveryFieldSites.csv")
 
+
 #splitting files by zone
 
 sites56 <- filter(sites, Start.Zone==56)
@@ -89,5 +88,14 @@ map <- ggplot() +
   ylim(37, 28)
 
 plot(map)
+
+mapzoom <- ggplot() +
+  geom_sf(data=Aus) +
+  geom_sf(data=site_pts, aes(colour = site_pts$TEC))+
+  xlim(152, 154)+
+  ylim(29.55, 28)
+
+plot(mapzoom)
+
 ```
 
