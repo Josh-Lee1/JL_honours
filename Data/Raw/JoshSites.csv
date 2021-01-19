@@ -1,0 +1,40 @@
+TEC,Site,Location text,Start Zone,Start Easting,Start Northing,GEEBAM3p1,FESM2p1,Lat,Long,Altitude,SoilType
+,BFEH_1_UNSW,,56,535345,6838364,,,,,,
+Rainforest with Lophostemon adjacent to wet sclero,,Gibbergunyah Range Road - Nightcap NP,56,531958,6835948,,hot?,,,390,basalt
+Subtrop Lowland RF,Terania _ 02,"Terania Creek, Nightcap NP",56,531072,6840508,,,,,,
+Subtrop Lowland RF,T_01_UNSW,"Terania Creek, Nightcap NP",56,530627,6840175,,,,,,
+RF (non TEC?),AN2a,Peate's Mountain,56,536731,6838310,3,1,-28.581605,153.375615,520,rhyolite
+RF (non TEC?),AN2b,Peate's Mountain,56,536748,6838149,2,1,-28.58306,153.375791,499,rhyolite
+RF (non TEC?),AN2c,Peate's Mountain,56,536673,6838087,2,1,-28.58362,153.375024,487,rhyolite
+RF (non TEC?),AN4b,Mt Nardi,56,528425,6842530,0,2,-28.543722,153.290574,774,basalt
+RF (non TEC?),AW2a,Washpool,56,435540,6739086,2,1,-29.476051,152.335134,890,basalt
+RF (non TEC?),AW2b,Washpool,56,435439,6739178,2,1,-29.475215,152.334094,870,basalt
+RF (non TEC?),AW2c,Washpool,56,435392,6739316,2,1,-29.473971,152.333619,877,basalt
+RF,BFEH1_s1, ,56,535337,6838378,0,0, , ,0, 
+RF,BFEH2_s1, ,56,534319,6838864,0,1, , ,0, 
+RF,BFEH3_s1, ,56,535058,6838442,0,1, , ,0, 
+RF,BFEH4_s1, ,56,535008,6838455,0,1, , ,0, 
+RF,BFEH5_s1, ,56,533918,6839432,0,1, , ,0, 
+RF,BFESed1_s1, ,56,535433,6838516,0,1, , ,0, 
+RF,Border Ranges 7, ,56,476028,6861599,3,1,28 22.300,152 45.322,0, 
+RF,Border Ranges 8, ,56,472211,6864019,3,1,28 20.987,152 42.987,0, 
+RF,MtJ_S1, ,56,534802,6844947,2,1, , ,0, 
+RF,N15_NEBBT_S1, ,56,534041,6840540,2,2, , ,0, 
+RF,N15_RF_S1, ,56,534041,6840540,2,2, , ,0, 
+Subtrop Lowland RF,Nightcap 1, ,56,530446,6840367,2,1,28 33.787,153 18.667,0, 
+Subtrop Lowland RF,Nightcap 2, ,56,530612,6840608,2,1,28 33.662,153 18.775,0, 
+Subtrop Lowland RF,Nightcap 3, ,56,530952,6840634,2,1,28 33.643,153 18.987,0, 
+RF,Nightcap 4, ,56,532699,6841310,2,1,28 33.277,153 20.060,0, 
+RF,Nightcap 5, ,56,529376,6843006,2,2,28 32.362,153 18.018,0, 
+RF,Nightcap 6, ,56,533944,6840357,3,2,28 33.792,153 20.823,0, 
+,Nightcap BFEH1, ,56,535337,6838378,0,0, , ,0, 
+RF,Nightcap BFEH2, ,56,534319,6838864,0,1, , ,0, 
+RF,Nightcap BFEH3, ,56,535058,6838442,0,1, , ,0, 
+RF,Nightcap BFEH4, ,56,535008,6838455,0,1, , ,0, 
+RF,Nightcap BFEH5, ,56,533918,6839432,0,1, , ,0, 
+RF,PMUA1_baseline, ,56,536734,6838382,2,1, , ,0, 
+RF,PMUA2_s1, ,56,535283,6839640,2,1, , ,0, 
+RF,PMUA3_baseline, ,56,535241,6839749,2,2, , ,0, 
+RF,T29_S1, ,56,534694,6839746,2,2, , ,0, 
+Subtrop Lowland RF,Tooloom 12, ,56,441282,6849127,2,2,28 28.990,152 24.007,0, 
+Subtrop Lowland RF,Yabbra NP, ,56,449592,6827091,2,0,28 40.945,152 29.042,0, 

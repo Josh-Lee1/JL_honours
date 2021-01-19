@@ -14,7 +14,7 @@ library(stars)
 
 
 ```{r}
-tif<- "Data/Raw/keithveg/1keithclass.tif"
+tif<- "../Data/Raw/keithveg/1keithclass.tif"
 keithdata <- raster(tif)
 tif2<- "../Data/Raw/fesm1000.tif"
 fesm <- raster(tif2)
@@ -76,7 +76,9 @@ sitez55 <- st_as_sf(sites55, coords = c("Start.Easting", "Start.Northing"), crs 
 #crs transformation
 site_pts56 <- st_transform(x = sitez56, crs = 4326)
 site_pts55 <- st_transform(x = sitez55, crs = 4326)
-
+site_ptcr <- st_transform(x = sitez55, crs = 4326)
+Auscrs <- st_transform(x = sitez55, crs = 4326)
+?sf::st_transform
 #bind together
 site_pts <- dplyr::bind_rows(site_pts56, site_pts55)
 

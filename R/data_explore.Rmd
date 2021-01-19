@@ -1,0 +1,119 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r}
+birds <- read.csv("../Data/Raw/Birds.csv")
+vegog <- read.csv("../Data/Raw/Veg.csv")
+
+```
+
+#make a new df from bird df with site info
+#attach site info df to veg
+```{r}
+siteinfo <- select(birds, "Site", "Longitude", "Latitude", "Elevation", "Location", "Formation", "Fire")
+veg <- vegog %>% 
+  left_join(siteinfo, by = "Site") %>% 
+  distinct()
+veg$Treatment<- with(veg, paste0(Formation, Fire))
+```
+
+
+```{r}
+ggplot(veg, aes(x = Treatment, y = Canopy.Cover)) + geom_boxplot() +ylab("Canopy Cover (%)")
+ggplot(veg, aes(x = Treatment, y = Litter.Cover)) + geom_boxplot() +ylab("Litter Cover (%)")
+ggplot(veg, aes(x = Treatment, y = Litter.Depth)) + geom_boxplot() +ylab("Litter Depth (mm)")
+ggplot(veg, aes(x = Treatment, y = Growth..2m)) + geom_boxplot() +ylab("Vegetation Height >2m (m)")
+```
+
+```{r}
+LD.aov <- aov(Litter.Depth ~ Fire * Formation, data = veg)
+summary(LD.aov)
+hist(LD.aov$residuals)
+plot(LD.aov, which=2)
+interaction.plot(veg$Fire, veg$Formation, veg$Litter.Depth)
+```
+
+```{r}
+LC.aov <- aov(Litter.Cover ~ Fire * Formation, data = veg)
+summary(LC.aov)
+hist(LC.aov$residuals)
+plot(LC.aov, which=2)
+interaction.plot(veg$Fire, veg$Formation, veg$Litter.Cover)
+```
+
+```{r}
+CC.aov <- aov(Canopy.Cover ~ Fire * Formation, data = veg)
+summary(CC.aov)
+hist(CC.aov$residuals)
+plot(CC.aov, which=2)
+interaction.plot(veg$Fire, veg$Formation, veg$Canopy.Cover)
+```
+#understorey points
+
+#keep loosing track of pt ids.. need to fix that
+```{r}
+veg %>% 
+  mutate(ind = row_number()) %>%
+  separate_rows(Undergrowth, sep=", ") %>%
+  mutate(Undergrowth = ifelse(is.na(Undergrowth),0, Undergrowth)) %>%
+  count(ind, Undergrowth) %>%
+  spread(Undergrowth, n, fill = 0) %>%
+  select(-2) %>%
+  as.data.frame() %>% 
+  write.csv("..//Data/Processed/growthpts.csv")
+
+growthpts <- read.csv("..//Data/Processed/growthptsfix.csv")
+
+vegwithpts<- merge(veg, growthpts, by = 0)
+vegwithpts <- vegwithpts[order(vegwithpts$X1.x),]
+
+ptsums <- data.frame( "Below 5" = apply(vegwithpts[21:25], 1, sum) ,
+                      "6-30" = apply(vegwithpts[26:50], 1, sum) ,
+                      "31-100" = apply(vegwithpts[51:120], 1, sum) ,
+                      "101-200" = apply(vegwithpts[121:218], 1, sum) )
+
+write.csv(ptsums, "..//Data/Processed/ptsums.csv")
+write.csv(vegwithpts, "..//Data/Processed/vegwp1.csv")
+
+vwp2<- read.csv("..//Data/Processed/vegwp2.csv")
+vwp2 <- select(vwp2, X.1:Treatment)
+vwp2<- mutate(vwp2, totalpts = X1.to.5  + X6.to.30 + X31.to.100 + X101.to.200)
+
+
+ggplot(vwp2, aes(Treatment, y = X1.to.5)) + geom_boxplot() + ylab("Veg Points 1-5cm")
+ggplot(vwp2, aes(Treatment, y = X6.to.30)) + geom_boxplot() + ylab("Veg Points 6-30cm")
+ggplot(vwp2, aes(Treatment, y = X31.to.100)) + geom_boxplot() + ylab("Veg Points 31-100cm")
+ggplot(vwp2, aes(Treatment, y = X101.to.200)) + geom_boxplot() + ylab("Veg Points 101-200cm")
+ggplot(vwp2, aes(Treatment, y = totalpts)) + geom_boxplot() + ylab("Veg Points 1-200cm")
+```
+
+
+#Birds
+
+#Species Richness
+```{r}
+birds <- birds %>%
+  group_by(Site) %>%
+  mutate(species_richness = n_distinct(Species))
+birds$Treatment<- with(birds, paste0(Formation, Fire))
+ggplot(birds, aes(x = Treatment, y = species_richness)) + geom_boxplot() +ylab("# species")
+ggplot(birds, aes(x = Location, y = species_richness, fill = Treatment)) + geom_boxplot() +ylab("# species")
+```
+#abundance birds
+```{r}
+birds1 <- birds %>%
+  group_by(Site) %>%
+  summarise("total_birds" = sum(Count, na.rm = TRUE)) %>% 
+  right_join(birds, by = "Site")
+ggplot(birds1, aes(x = Treatment, y = total_birds)) + geom_boxplot() +ylab("# birds")
+ggplot(birds1, aes(x = Location, y = total_birds, fill = Treatment)) + geom_boxplot() +ylab("# birds")
+```
+
