@@ -14,12 +14,16 @@ birds <- read.csv("../Data/Raw/Birds.csv")
 vegog <- read.csv("../Data/Raw/Veg.csv")
 
 ```
+#making sampling consistent to every 10m
+```{r}
+vegtrim <- filter(veg, Point == 10 | Point == 20 | Point == 30 | Point == 40 | Point == 50)
+```
 
 #make a new df from bird df with site info
 #attach site info df to veg
 ```{r}
 siteinfo <- select(birds, "Site", "Longitude", "Latitude", "Elevation", "Location", "Formation", "Fire")
-veg <- vegog %>% 
+veg <- vegtrim %>% 
   left_join(siteinfo, by = "Site") %>% 
   distinct()
 veg$Treatment<- with(veg, paste0(Formation, Fire))
@@ -57,8 +61,17 @@ plot(CC.aov, which=2)
 interaction.plot(veg$Fire, veg$Formation, veg$Canopy.Cover)
 ```
 #understorey points
+##average num points for 1-200
+```{r}
+vwp2trim <- filter(vwp2, Point == 10 | Point == 20 | Point == 30 | Point == 40 | Point == 50)
+meanpts <- aggregate(vwp2[25], list(vwp2$Site, vwp2$Treatment), mean, na.rm = TRUE) 
+ggplot(meanpts, aes(x = Group.2, y = totalpts)) + geom_boxplot() +ylab("Average # understorey Points")
 
-#keep loosing track of pt ids.. need to fix that
+```
+
+
+
+##keep loosing track of pt ids.. need to fix that
 ```{r}
 veg %>% 
   mutate(ind = row_number()) %>%
@@ -106,6 +119,10 @@ birds <- birds %>%
 birds$Treatment<- with(birds, paste0(Formation, Fire))
 ggplot(birds, aes(x = Treatment, y = species_richness)) + geom_boxplot() +ylab("# species")
 ggplot(birds, aes(x = Location, y = species_richness, fill = Treatment)) + geom_boxplot() +ylab("# species")
+
+lapply(split(birds$Species, birds$Location), unique)
+
+
 ```
 #abundance birds
 ```{r}
