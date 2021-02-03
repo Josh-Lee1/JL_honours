@@ -27,6 +27,7 @@ veg <- vegtrim %>%
   left_join(siteinfo, by = "Site") %>% 
   distinct()
 veg$Treatment<- with(veg, paste0(Formation, Fire))
+write.csv(veg, "..//Data/Processed/vegfull.csv")
 ```
 
 
