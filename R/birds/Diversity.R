@@ -1,6 +1,7 @@
 library(tidyverse)
 library(vegan)
 library(labdsv)
+library(iNEXT)
 
 
 #Species Richness
@@ -36,8 +37,20 @@ birdspread<- birds100 %>%
   select(Site, Species, Count) %>% 
   group_by(Site, Species) %>% 
   summarise_all(funs(sum)) %>% 
-  spread(Species, Count, fill = 0)
+  spread(Species, Count, fill = 0) %>% 
+  as.data.frame()
 
-#calculating diversity index
-vegan::diversity(birdspread, index = "shannon")
+write.csv("Data/Processed/birdspread.csv")
+
+birdspread1 <- birdspread[,-1]
+rownames(birdspread1) <- birdspread[,1]
+divdata <-  t(birdspread1)
+
+
+#calculating diversity indices
+diversity <- iNEXT(divdata, q=0, datatype = "abundance")
+ggiNEXT(diversity, type = 1)
+
+
+
 
