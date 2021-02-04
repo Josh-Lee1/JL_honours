@@ -1,4 +1,93 @@
 Site,Date,Start,Longitude,Latitude,Elevation,Location,Formation,Fire,Species,Count,Distance,Bearing,Time,Position,Notes,Site Notes
+BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Brown Gerygone,4,20,SE,,,Active Nest,Car and Plane in last 2min of survey
+BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Pale-yellow Robin,3,10,E,,Understory,Active Nest,
+GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Brush Cuckoo,1,50,E,,,Calling on the way out,
+MN-BR-01,18/12/2020,6:59,153.300273,-28.539307,335.035,Mount Nardi,Rainforest,Burnt,Glossy Black-Cockatoo,2,1,S,,Canopy,Directly above feeding on Casurina,
+MP-BS-01,28/12/2020,6:36,152.728173,-29.052441,288.301,Mount Pikapene,Dry Sclerophyll,Burnt,Bell Miner,30,10,All,,,Everywhere,
+BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Paradise Riflebird,2,10,SE,,,Female feeding juvinile out of Survey,Car and Plane in last 2min of survey
+GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Yellow-tufted Honeyeater,3,30,W,,Canopy,Fledgeling,
+WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Brown Gerygone,2,20,SE,,Midstorey,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
+WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Grey Fantail,1,20,SE,,,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
+WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Silvereye,4,20,SE,,Canopy,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
+WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,White-throated Treecreeper,1,20,SE,,Midstorey,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
+TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Painted Button-quail,2,50,E,,,Flushed on the walk out,"Private property, grazed. "
+GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Painted Button-quail,1,10,N,,Ground,Flushed on way in,Late Survey
+GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Cicadabird,5,10,E,,Flyover,Group flying around canopy ,
+GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Yellow-faced Honeyeater,1,10,E,13:10,Midstorey,"Late Survey, Steep gully NE",
+GI-US-01,4/12/2020,6:19,152.260034,-28.924348,674.786,Girard State Forest,Dry Sclerophyll,Unburnt,Yellow-tufted Honeyeater,1,70,NE,,,"Light/Moderate rain, light mist. Steep N facing slope",
+GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Australian Hobby,,,,,,Out of Survey,
+TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Bar-shouldered Dove,1,20,NE,,Flyover,Out of Survey,"Private property, grazed. "
+GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Bell Miner,,,,,,Out of Survey,Late Survey
+BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Black-faced Monarch,,,,,,Out of Survey,Moderate wind
+GI-US-05,6/12/2020,6:15,152.263953,-28.910469,650.985,Girard State Forest,Dry Sclerophyll,Unburnt,Brown Goshawk,1,,,,Flyover,Out of Survey,light wind
+FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Brown Thornbill,,,,,,Out of Survey,
+MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Brown Thornbill,,,,,,Out of Survey,
+MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Channel-billed Cuckoo,,,,,,Out of Survey,
+BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Cicadabird,,,,,,Out of Survey,"Large Patch, 60m S to UR"
+GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Cicadabird,1,100,NW,,,Out of Survey,
+GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Dollarbird,,,,,,Out of Survey,
+GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Eastern Rosella,1,,,,Flyover,Out of Survey,Light rain
+BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Eastern Yellow Robin,,,,,,Out of Survey,"Large Patch, 60m S to UR"
+BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Eastern Yellow Robin,,,,,,Out of Survey,40m N to UR (patchy) light-moderate wind
+MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Eastern Yellow Robin,,,,,,Out of Survey,
+GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Golden Whistler,1,,,,,Out of Survey,Light rain
+BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges,Rainforest,Burnt,Green Catbird,,,,,,Out of Survey,
+BF-BR-01,20/12/2020,6:32,153.360935,-28.58241,387.98,Blue Fig Road,Rainforest,Burnt,Grey Fantail,1,10,W,,,Out of Survey,Loud Cicadas
+GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Grey Fantail,,,,,,Out of Survey,
+TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,70,N,,,Out of Survey,
+BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Australian King-Parrot,,,,,,Out of Survey,40m N to UR (patchy) light-moderate wind
+MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Australian King-Parrot,,,,,,Out of Survey,
+GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Laughing Kookaburra,,,,,,Out of Survey,
+BF-UR-EH2,19/12/2020,6:33,153.351935,-28.577145,399.859,Blue Fig Road,Rainforest,Unburnt,Lewin's Honeyeater,,,,,,Out of Survey,Stream and Cicadas V/loud
+MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Little Lorikeet,,,,,,Out of Survey,100m to Dry Sclerophyll
+BF-UR-EH2,19/12/2020,6:33,153.351935,-28.577145,399.859,Blue Fig Road,Rainforest,Unburnt,Little Shrike-thrush,,,,,,Out of Survey,Stream and Cicadas V/loud
+TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Painted Button-quail,,,,,,Out of Survey,"Private property, grazed. 100m SE to Rainforest"
+GI-BS-05,6/12/2020,6:56,152.266421,-28.909995,653.914,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,,,,,,Out of Survey,
+GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Painted Button-quail,,,,,,Out of Survey,
+GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Painted Button-quail,,,,,,Out of Survey,
+BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Pied Currawong,,,,,,Out of Survey,40m N to UR (patchy) light-moderate wind
+GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Pied Currawong,,,,,,Out of Survey,Late Survey
+MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Rainbow Lorikeet,,,,,,Out of Survey,100m to Dry Sclerophyll
+GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Red-browed Finch,,,,,,Out of Survey,
+GG-BR-02,21/12/2020,6:41,153.331637,-28.576159,648.606,Gibbergunya Range Road,Rainforest,Burnt,Red-browed Finch,1,,,,,Out of Survey,Loud Cicadas
+TL-BR-01,21/11/2020,6:09,152.4001112,-28.48316031,,Tooloom,Rainforest,Burnt,Rose Robin,,,,6:18,,Out of Survey,
+MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Rufous Fantail,,,,,,Out of Survey,
+GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Sacred Kingfisher,,,,,,Out of Survey,
+GG-UR-02,21/12/2020,6:22,153.332983,-28.57652,652.949,Gibbergunya Range Road,Rainforest,Unburnt,Satin Bowerbird,,,,,,Out of Survey,
+GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Silvereye,10,60,E,,Flyover,Out of Survey,
+BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Spectacled Monarch,,,,,,Out of Survey,Moderate wind
+FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Striated Pardalote,,,,,,Out of Survey,
+BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Sulphur-crested Cockatoo,,,,,,Out of Survey,Moderate wind
+TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Sulphur-crested Cockatoo,,,,,,Out of Survey,"Private property, grazed. 100m SE to Rainforest"
+TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Torresian Crow,2,60,W,,,Out of Survey,"Private property, grazed. "
+MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Variegated Fairy-wren,,,,,,Out of Survey,
+FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Wedge-tailed Eagle,,,,,,Out of Survey,
+FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,White-cheeked Honeyeater,,,,,,Out of Survey,
+FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,White-naped Honeyeater,,,,,,Out of Survey,
+GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,White-naped Honeyeater,2,,,,,Out of Survey,Light rain
+GG-BR-03,22/12/2020,6:12,153.330889,-28.578052,614.213,Gibbergunya Range Road,Rainforest,Burnt,White-throated Treecreeper,2,40,S,,,Out of Survey,Strong winds
+GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Willie Wagtail,,,,,,Out of Survey,
+GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Willie Wagtail,,,,,,Out of Survey,
+GG-BR-02,21/12/2020,6:41,153.331637,-28.576159,648.606,Gibbergunya Range Road,Rainforest,Burnt,Yellow-throated Scrubwren,1,,,,,Out of Survey,Loud Cicadas
+GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Yellow-tufted Honeyeater,2,,,,,Out of Survey,Light rain
+BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Noisy Pitta,1,10,NW,,Ground,Present on arrival,
+BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Burnt,Painted Button-quail,1,,,,,Out of Survey,
+GI-US-05,6/12/2020,6:15,152.263953,-28.910469,650.985,Girard State Forest,Dry Sclerophyll,Unburnt,Painted Button-quail,3,,,,,Out of Survey,light wind
+BY-US-03,10/12/2020,7:19,153.001006,-29.381805,77.446,Banyabba,Dry Sclerophyll,Unburnt,Crested Shrike-tit,3,,,,,Out of Survey,
+BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Dusky Woodswallow,2,30,W,,,Out of Survey,
+BY-US-03,10/12/2020,7:19,153.001006,-29.381805,77.446,Banyabba,Dry Sclerophyll,Unburnt,Dusky Woodswallow,2,,,,,Out of Survey,
+BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,10,S,,,Out of Survey,
+BY-BS-02,10/12/2020,6:54,152.991093,-29.379926,72.411,Banyabba,Dry Sclerophyll,Burnt,Painted Button-quail,1,,,,,Out of Survey,
+BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Rainbow Lorikeet,5,,,,Flyover,Out of Survey,
+BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Rufous Fantail,1,10,NE,,,Out of Survey,
+TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Barred Cuckoo-shrike,3,70,W,,,Out of Survey,Unburnt RF 40m North
+TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Australian King-Parrot,1,,,,,Out of Survey,Unburnt RF 40m North
+TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Leaden Flycatcher,1,30,E,,,Out of Survey,Unburnt RF only 20m West
+TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Mistletoebird,1,,,,,Out of Survey,Unburnt RF 40m North
+TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Spangled Drongo,4,70,W,,,Out of Survey,Unburnt RF 40m North
+TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Pied Currawong,1,40,N,,,Swooping at Baza,100m E to Rainforest
+TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Bell Miner,20,70,E,,,Ubiquitous,
+TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,Bell Miner,20,50,NW,,,Ubiquitous W-N,80m to rainforest edge
 BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Albert's Lyrebird,1,100,SE,,,,
 BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Albert's Lyrebird,1,150,N,,,,Moderate wind
 MN-BR-01,18/12/2020,6:59,153.300273,-28.539307,335.035,Mount Nardi,Rainforest,Burnt,Albert's Lyrebird,1,50,W,6:59,,,
@@ -11,7 +100,6 @@ BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,
 BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges,Rainforest,Burnt,Australasian Figbird,1,50,N,,Canopy,,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Australasian Figbird,1,100,E,,,,"Private property, grazed. 100m SE to Rainforest"
 BF-UR-01,20/12/2020,6:12,153.360976,-28.581176,376.622,Blue Fig Road,Rainforest,Unburnt,Australian Brush-turkey,1,10,NW,,,,Stream and cicadas loud
-GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Australian Hobby,,,,,,Out of Survey,
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Australian King-Parrot,1,20,S,7:31,,,
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Australian King-Parrot,1,70,NW,6:06,,,"Private property, grazed. "
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Australian Magpie,2,100,N,,,,"Private property, grazed. 100m SE to Rainforest"
@@ -30,11 +118,9 @@ GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,U
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Australian Magpie,1,150,S,,,,Late Survey
 FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Australian Owlet-nightjar,1,50,E,7:02,,,
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Australian Wood Duck,1,,,,Flyover,,"Flowering trees at SE & E, had been grazed"
-TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Barred Cuckoo-shrike,3,70,W,,,Seen outside of survey period,Unburnt RF 40m North
 BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Barred Cuckoo-shrike,2,40,SE,,,,40m N to UR (patchy) light-moderate wind
 BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges,Rainforest,Burnt,Barred Cuckoo-shrike,1,60,N,,Canopy,,
 TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Bar-shouldered Dove,1,20,S,,,,
-TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Bar-shouldered Dove,1,20,NE,,Flyover,Out of Survey,"Private property, grazed. "
 MP-BS-01,28/12/2020,6:36,152.728173,-29.052441,288.301,Mount Pikapene,Dry Sclerophyll,Burnt,Bar-shouldered Dove,1,30,E,,Flyover,,
 MP-US-02,28/12/2020,5:52,152.711516,-29.059796,311.477,Mount Pikapene,Dry Sclerophyll,Unburnt,Bar-shouldered Dove,1,70,N,6:01,,,Cicada noise
 GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Bar-shouldered Dove,1,20,NE,6:51,Flyover,,
@@ -42,15 +128,11 @@ BR-BR-02,24/11/2020,6:16,152.711953,-28.344048,544.357,Border Ranges,Rainforest,
 BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Bell Miner,1,50,W,,,,Car and Plane in last 2min of survey
 BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Bell Miner,4,200,NW,6:45,,,"Large Patch, 60m S to UR"
 BR-UR-04,23/11/2020,6:33,152.755609,-28.370067,552.196,Border Ranges,Rainforest,Unburnt,Bell Miner,4,150,W,,,,Moderate wind
-TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,Bell Miner,20,50,NW,,,Ubiquitous W-N,80m to rainforest edge
-TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Bell Miner,20,70,E,,,Ubiquitous,
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Bell Miner,30,100,NW,,,,"Private property, grazed. "
 WP-UR-01,10/12/2020,18:39,152.334751,-29.475394,878.674,Washpool National Park,Rainforest,Unburnt,Bell Miner,1,100,SW,18:43,,,Afternoon Survey
-MP-BS-01,28/12/2020,6:36,152.728173,-29.052441,288.301,Mount Pikapene,Dry Sclerophyll,Burnt,Bell Miner,30,10,All,,,Everywhere,
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Bell Miner,10,50,NE,,,,100m to Dry Sclerophyll
 GL-US-01,29/12/2020,6:03,152.25763,-28.823581,636.352,Gilgury,Dry Sclerophyll,Unburnt,Bell Miner,10,80,N,,,,
 GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Bell Miner,10,120,NW,,,,
-GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Bell Miner,,,,,,Out of Survey,Late Survey
 GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,Unburnt,Bell Miner,30,60,W-NE,,,,Late Survey
 GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Sclerophyll,Burnt,Black-faced Cuckoo-shrike,1,150,N,,Flyover,,
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Black-faced Cuckoo-shrike,3,40,SW,,,,
@@ -65,7 +147,6 @@ TC-UR-04,23/12/2020,6:49,153.3164532,-28.56077769,,Terania Creek,Rainforest,Unbu
 BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Black-faced Monarch,1,60,N,,,,
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Black-faced Monarch,1,50,SE,,,,40m E to UR
 BR-UR-04,23/11/2020,6:33,152.755609,-28.370067,552.196,Border Ranges,Rainforest,Unburnt,Black-faced Monarch,1,100,N,,,,Moderate wind
-BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Black-faced Monarch,,,,,,Out of Survey,Moderate wind
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Black-faced Monarch,1,100,W,,,,
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Black-faced Monarch,1,30,N,,,,100m E to Rainforest
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Black-faced Monarch,1,20,N,,Midstorey,,
@@ -180,7 +261,6 @@ TC-UR-02,19/11/2020,8:18,153.315418,-28.56427,229.606,Terania Creek,Rainforest,U
 TC-UR-04,23/12/2020,6:49,153.3164532,-28.56077769,,Terania Creek,Rainforest,Unburnt,Brown Gerygone,4,40,NE,6:49,,,"Burnt 40m E, Cicadas and stream sound present throughout survey"
 BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Brown Gerygone,5,20,NW,,,,
 BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Brown Gerygone,2,40,N,,,,
-BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Brown Gerygone,4,20,SE,,,Active Nest,Car and Plane in last 2min of survey
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Brown Gerygone,3,60,NE,6:20,,,40m E to UR
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Brown Gerygone,1,40,S,,,,40m E to UR
 BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Brown Gerygone,1,30,NE,,,,40m N to UR (patchy) light-moderate wind
@@ -195,7 +275,6 @@ TL-BR-01,21/11/2020,6:09,152.4001112,-28.48316031,,Tooloom,Rainforest,Burnt,Brow
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Brown Gerygone,1,40,N,,,,
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Brown Gerygone,2,40,NW,,,,
 WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Brown Gerygone,2,50,NE,,Canopy,,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
-WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Brown Gerygone,2,20,SE,,Midstorey,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
 WP-UR-01,10/12/2020,18:39,152.334751,-29.475394,878.674,Washpool National Park,Rainforest,Unburnt,Brown Gerygone,4,20,S,,,,Afternoon Survey
 WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rainforest,Burnt,Brown Gerygone,2,10,SW,7:07,Midstorey,,Moderate rain
 WP-UR-02,11/12/2020,7:26,152.334534,-29.474164,854.056,Washpool National Park,Rainforest,Unburnt,Brown Gerygone,1,40,NE,,,,Moderate rain
@@ -215,7 +294,6 @@ GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainfo
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,Brown Gerygone,1,50,SW,,,,
 GG-UR-04,22/12/2020,6:59,153.327061,-28.606402,330.304,Gibbergunya Range Road,Rainforest,Unburnt,Brown Gerygone,2,40,SE,,,,
 GG-UR-04,22/12/2020,6:59,153.327061,-28.606402,330.304,Gibbergunya Range Road,Rainforest,Unburnt,Brown Gerygone,1,30,S,,,,
-GI-US-05,6/12/2020,6:15,152.263953,-28.910469,650.985,Girard State Forest,Dry Sclerophyll,Unburnt,Brown Goshawk,1,,,,Flyover,Out of Survey,light wind
 BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Brown Honeyeater,1,20,N,6:02,Canopy,,
 BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Brown Honeyeater,2,40,NW,6:03,Canopy,,
 BY-BS-02,10/12/2020,6:54,152.991093,-29.379926,72.411,Banyabba,Dry Sclerophyll,Burnt,Brown Honeyeater,6,10,NW,,Canopy,,
@@ -225,14 +303,12 @@ BY-US-03,10/12/2020,7:19,153.001006,-29.381805,77.446,Banyabba,Dry Sclerophyll,U
 FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophyll,Unburnt,Brown Honeyeater,1,10,N,,Canopy,,
 TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Brown Thornbill,1,80,E,,,,Unburnt RF 40m North
 TC-UR-03,19/11/2020,7:41,153.31387,-28.563739,217.431,Terania Creek,Rainforest,Unburnt,Brown Thornbill,1,30,W,,,,N+E veg shortened for creek
-FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Brown Thornbill,,,,,,Seen outside survey,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Brown Thornbill,1,5,S,7:46,Understory,,
 BR-BR-02,24/11/2020,6:16,152.711953,-28.344048,544.357,Border Ranges,Rainforest,Burnt,Brown Thornbill,1,20,W,,,,"Large patch, 60m+ around"
 BR-UR-04,23/11/2020,6:33,152.755609,-28.370067,552.196,Border Ranges,Rainforest,Unburnt,Brown Thornbill,2,30,SW,6:36,,,Moderate wind
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Brown Thornbill,2,40,NE,,,,
 TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Brown Thornbill,1,10,W,,,,
 BFEH2_s1,19/12/2020,5:56,153.3509299,-28.57666976,,Blue Fig Road,Rainforest,Burnt,Brown Thornbill,2,20,S,5:58,Canopy,,"Loud Creek, fire runs east to west unburnt RF across creek south"
-MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Brown Thornbill,,,,,,Out of Survey,
 GL-US-01,29/12/2020,6:03,152.25763,-28.823581,636.352,Gilgury,Dry Sclerophyll,Unburnt,Brown Thornbill,2,20,NW,,,,
 BY-BS-02,10/12/2020,6:54,152.991093,-29.379926,72.411,Banyabba,Dry Sclerophyll,Burnt,Brush Cuckoo,2,80,N,,,,
 BY-US-02,10/12/2020,6:35,152.992708,-29.382376,63.749,Banyabba,Dry Sclerophyll,Unburnt,Brush Cuckoo,1,120,S,,,,Gully
@@ -243,7 +319,6 @@ BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Brush Cuckoo,1,120,W,,,,100m E to Rainforest
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Brush Cuckoo,1,60,E,,,,
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Brush Cuckoo,1,130,S,7:34,,,
-GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Brush Cuckoo,1,50,E,,,Calling on the way out,
 MP-BS-01,28/12/2020,6:36,152.728173,-29.052441,288.301,Mount Pikapene,Dry Sclerophyll,Burnt,Brush Cuckoo,1,100,N,,,,
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Brush Cuckoo,1,100,S,6:17,,,100m to Dry Sclerophyll
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Brush Cuckoo,1,70,SE,,,,100m to Dry Sclerophyll
@@ -253,7 +328,6 @@ TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclero
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Channel-billed Cuckoo,1,200,W,,,,"Private property, grazed. "
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Channel-billed Cuckoo,1,150,N,,,,
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Channel-billed Cuckoo,1,150,E,,,,
-MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Channel-billed Cuckoo,,,,,,Out of Survey,
 TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Cicadabird,1,250,S,7:06,,,Unburnt RF 40m North
 TC-BR-03,19/11/2020,7:10,153.3131427,-28.56492853,,Terania Creek,Rainforest,Burnt,Cicadabird,1,100,E,,,,"30m radius patch, veg every 5m"
 BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Burnt,Cicadabird,1,90,SE,,,,
@@ -270,7 +344,6 @@ FC-BS-03,9/12/2020,7:27,152.839717,-29.44345,99.12,Fortis Creek,Dry Sclerophyll,
 BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Cicadabird,1,80,E,6:59,,,
 BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Cicadabird,1,80,S,6:41,,,
 BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Cicadabird,1,80,NE,6:59,,,Car and Plane in last 2min of survey
-BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Cicadabird,,,,,,Out of Survey,"Large Patch, 60m S to UR"
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Cicadabird,1,80,SE,,,,40m E to UR
 TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,Cicadabird,1,60,N,,,,80m to rainforest edge
 TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Cicadabird,1,60,S,,,,
@@ -279,7 +352,6 @@ GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Scle
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Cicadabird,1,100,W,,,,
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Cicadabird,1,150,S,,,,
 GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Cicadabird,1,60,W,,Canopy,,
-GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Cicadabird,5,10,E,,Flyover,Group flying around canopy ,
 GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Cicadabird,1,70,W,,,,
 GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Cicadabird,1,70,N,,,,
 GI-BS-05,6/12/2020,6:56,152.266421,-28.909995,653.914,Girard State Forest,Dry Sclerophyll,Burnt,Cicadabird,1,80,E,,,,
@@ -287,7 +359,6 @@ GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainfo
 MP-BS-01,28/12/2020,6:36,152.728173,-29.052441,288.301,Mount Pikapene,Dry Sclerophyll,Burnt,Cicadabird,1,80,SW,,,,
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Cicadabird,1,70,N,,,,100m to Dry Sclerophyll
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Cicadabird,1,20,S,,,,100m to Dry Sclerophyll
-GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Cicadabird,1,100,NW,,,Out of Survey,
 GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Cicadabird,2,70,W,,,,
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Cicadabird,1,100,N,11:15,,,Late Survey
 GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,Unburnt,Cicadabird,1,60,NE,10:22,,,Late Survey
@@ -296,7 +367,6 @@ GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Cicadabird,1,100,NE,13:17,,,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Cicadabird,1,100,N,,,,Steep gully NW facing
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Collared Sparrowhawk,1,40,N,,Canopy,,"Private property, grazed. 100m SE to Rainforest"
-BY-US-03,10/12/2020,7:19,153.001006,-29.381805,77.446,Banyabba,Dry Sclerophyll,Unburnt,Crested Shrike-tit,3,,,,,Seen outside of Survey,
 TC-BR-03,19/11/2020,7:10,153.3131427,-28.56492853,,Terania Creek,Rainforest,Burnt,Crimson Rosella,1,80,N,,Canopy,,"30m radius patch, veg every 5m"
 TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,Crimson Rosella,4,50,S,,Canopy,,80m to rainforest edge
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Crimson Rosella,1,60,E,,,,100m E to Rainforest
@@ -310,9 +380,6 @@ MN-UR-01,18/12/2020,6:32,153.301156,-28.540456,783.942,Mount Nardi,Rainforest,Un
 BF-UR-01,20/12/2020,6:12,153.360976,-28.581176,376.622,Blue Fig Road,Rainforest,Unburnt,Crimson Rosella,1,50,W,,,,Stream and cicadas loud
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,Crimson Rosella,4,50,NW,,Canopy,,Unburnt 60m NE
 GG-UR-02,21/12/2020,6:22,153.332983,-28.57652,652.949,Gibbergunya Range Road,Rainforest,Unburnt,Crimson Rosella,1,80,S,6:30,,,
-GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Dollarbird,,,,,,Out of Survey,
-BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Dusky Woodswallow,2,30,W,,,Seen outside of survey,
-BY-US-03,10/12/2020,7:19,153.001006,-29.381805,77.446,Banyabba,Dry Sclerophyll,Unburnt,Dusky Woodswallow,2,,,,,Seen outside of Survey,
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Dusky Woodswallow,2,30,S,,,,
 BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Burnt,Eastern Koel,1,150,NE,5:42,,,
 FC-US-01,9/12/2020,6:08,152.845428,-29.448756,142.444,Fortis Creek,Dry Sclerophyll,Unburnt,Eastern Koel,1,160,SE,,,,
@@ -326,7 +393,6 @@ TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerop
 GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Sclerophyll,Burnt,Eastern Koel,1,200,E,,,,
 GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Eastern Koel,1,200,SE,6:02,,,
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Eastern Koel,1,100,S,,,,100m to Dry Sclerophyll
-GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Eastern Rosella,1,,,,Flyover,Out of Survey,Light rain
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Eastern Rosella,1,50,N,5:53,,,"Flowering trees at SE & E, had been grazed"
 TC-UR-02,19/11/2020,8:18,153.315418,-28.56427,229.606,Terania Creek,Rainforest,Unburnt,Eastern Spinebill,1,50,S,,,,
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Eastern Spinebill,1,10,E,,Midstorey,,"Private property, grazed. "
@@ -405,8 +471,6 @@ BY-US-03,10/12/2020,7:19,153.001006,-29.381805,77.446,Banyabba,Dry Sclerophyll,U
 FC-BS-03,9/12/2020,7:27,152.839717,-29.44345,99.12,Fortis Creek,Dry Sclerophyll,Burnt,Eastern Yellow Robin,1,30,W,7:34,Midstorey,,
 BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Eastern Yellow Robin,1,40,SW,,,,
 BR-BR-02,24/11/2020,6:16,152.711953,-28.344048,544.357,Border Ranges,Rainforest,Burnt,Eastern Yellow Robin,1,10,SW,6:25,,,"Large patch, 60m+ around"
-BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Eastern Yellow Robin,,,,,,Out of Survey,"Large Patch, 60m S to UR"
-BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Eastern Yellow Robin,,,,,,Out of Survey,40m N to UR (patchy) light-moderate wind
 BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Eastern Yellow Robin,1,50,NW,7:39,,,Moderate wind
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Eastern Yellow Robin,1,10,NE,,Midstorey,,
 WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Eastern Yellow Robin,1,20,S,18:19,,,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
@@ -418,7 +482,6 @@ MN-UR-01,18/12/2020,6:32,153.301156,-28.540456,783.942,Mount Nardi,Rainforest,Un
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,Eastern Yellow Robin,1,10,NW,,Midstorey,,Unburnt 60m NE
 GG-UR-02,21/12/2020,6:22,153.332983,-28.57652,652.949,Gibbergunya Range Road,Rainforest,Unburnt,Eastern Yellow Robin,1,20,W,,,,
 MP-BS-01,28/12/2020,6:36,152.728173,-29.052441,288.301,Mount Pikapene,Dry Sclerophyll,Burnt,Eastern Yellow Robin,2,20,W,,Understorey,,
-MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Eastern Yellow Robin,,,,,,Out of Survey,
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Eastern Yellow Robin,1,50,SE,,,,Late Survey
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Eastern Yellow Robin,1,40,E,,Midstorey,,
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Brown-capped Emerald Dove,1,100,E,,,,Unburnt RF only 20m West
@@ -434,7 +497,6 @@ TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerop
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Fan-tailed Cuckoo,1,20,W,,Flyover,,"Private property, grazed. "
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Fan-tailed Cuckoo,1,60,N,,,,"Private property, grazed. "
 GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Fan-tailed Cuckoo,1,70,S,,,,
-MN-BR-01,18/12/2020,6:59,153.300273,-28.539307,335.035,Mount Nardi,Rainforest,Burnt,Glossy Black-Cockatoo,2,1,S,,Canopy,Directly above feeding on Casurina,
 TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Golden Whistler,1,150,W,,,,Unburnt RF only 20m West
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Golden Whistler,1,150,E,,,,Unburnt RF only 20m West
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Golden Whistler,1,80,S,6:30,,,Unburnt RF only 20m West
@@ -491,7 +553,6 @@ WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rain
 WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rainforest,Burnt,Golden Whistler,1,60,NW,,,,Moderate rain
 WP-UR-02,11/12/2020,7:26,152.334534,-29.474164,854.056,Washpool National Park,Rainforest,Unburnt,Golden Whistler,1,60,SW,,,,Moderate rain
 WP-UR-02,11/12/2020,7:26,152.334534,-29.474164,854.056,Washpool National Park,Rainforest,Unburnt,Golden Whistler,1,60,W,7:27,,,Moderate rain
-GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Golden Whistler,1,,,,,Out of Survey,Light rain
 GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Sclerophyll,Burnt,Golden Whistler,1,60,N,,,,
 GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Sclerophyll,Burnt,Golden Whistler,1,80,SE,,,,
 GI-US-02,4/12/2020,7:31,152.264911,-28.920657,691.665,Girard State Forest,Dry Sclerophyll,Unburnt,Golden Whistler,1,70,E,,,,
@@ -530,7 +591,6 @@ BR-BR-02,24/11/2020,6:16,152.711953,-28.344048,544.357,Border Ranges,Rainforest,
 BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Green Catbird,1,60,S,,,,Car and Plane in last 2min of survey
 BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Green Catbird,1,150,SE,6:42,,,"Large Patch, 60m S to UR"
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Green Catbird,1,80,NE,6:18,,,40m E to UR
-BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges,Rainforest,Burnt,Green Catbird,,,,,,Out of Survey,
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Green Catbird,1,30,NW,6:31,,,
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Green Catbird,1,30,SE,,Canopy,,
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Green Catbird,1,80,E,,,,
@@ -584,12 +644,10 @@ TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclero
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Grey Fantail,1,60,SW,7:39,,,
 TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Grey Fantail,1,20,W,,,,
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Grey Fantail,1,80,SE,,,,"Private property, grazed. "
-WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Grey Fantail,1,20,SE,,,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
 GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Grey Fantail,1,50,E,,,,Light rain
 GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Grey Fantail,1,60,N,,,,Light rain
 GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Grey Fantail,1,60,SE,6:51,Midstorey,,
 GI-BS-05,6/12/2020,6:56,152.266421,-28.909995,653.914,Girard State Forest,Dry Sclerophyll,Burnt,Grey Fantail,1,60,SW,,,,
-BF-BR-01,20/12/2020,6:32,153.360935,-28.58241,387.98,Blue Fig Road,Rainforest,Burnt,Grey Fantail,1,10,W,,,Out of Survey,Loud Cicadas
 BF-UR-01,20/12/2020,6:12,153.360976,-28.581176,376.622,Blue Fig Road,Rainforest,Unburnt,Grey Fantail,1,30,SW,6:16,,,Stream and cicadas loud
 BFEH2_s1,19/12/2020,5:56,153.3509299,-28.57666976,,Blue Fig Road,Rainforest,Burnt,Grey Fantail,2,30,NW,5:56,,,"Loud Creek, fire runs east to west unburnt RF across creek south"
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,Grey Fantail,1,10,W,,Midstorey,,Unburnt 60m NE
@@ -605,7 +663,6 @@ MP-US-02,28/12/2020,5:52,152.711516,-29.059796,311.477,Mount Pikapene,Dry Sclero
 MP-US-02,28/12/2020,5:52,152.711516,-29.059796,311.477,Mount Pikapene,Dry Sclerophyll,Unburnt,Grey Fantail,1,30,NE,,Canopy,,Cicada noise
 GL-US-01,29/12/2020,6:03,152.25763,-28.823581,636.352,Gilgury,Dry Sclerophyll,Unburnt,Grey Fantail,1,3,NW,,Midstorey,,
 GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Grey Fantail,1,30,SE,,Canopy,,
-GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Grey Fantail,,,,,,Out of Survey,
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Grey Fantail,2,30,W,,Midstorey,,Late Survey
 GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,Unburnt,Grey Fantail,1,100,SE,,,,Late Survey
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Grey Shrike-thrush,1,150,SE,6:36,,,Unburnt RF only 20m West
@@ -615,7 +672,6 @@ TC-UR-04,23/12/2020,6:49,153.3164532,-28.56077769,,Terania Creek,Rainforest,Unbu
 BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Burnt,Grey Shrike-thrush,1,80,S,,,,
 BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,80,NW,,,,
 BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,100,E,,,,
-BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,10,S,,,Seen outside of survey,
 BY-BS-02,10/12/2020,6:54,152.991093,-29.379926,72.411,Banyabba,Dry Sclerophyll,Burnt,Grey Shrike-thrush,1,60,S,7:01,,,
 BY-BS-02,10/12/2020,6:54,152.991093,-29.379926,72.411,Banyabba,Dry Sclerophyll,Burnt,Grey Shrike-thrush,1,70,SW,,,,
 BY-US-02,10/12/2020,6:35,152.992708,-29.382376,63.749,Banyabba,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,120,N,6:43,,,Gully
@@ -637,7 +693,6 @@ TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclero
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,100,NW,,,,100m E to Rainforest
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,50,N,6:58,,,100m E to Rainforest
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Grey Shrike-thrush,1,70,S,,,,
-TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,70,N,,,Out of Survey,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Grey Shrike-thrush,1,30,W,,,,"Private property, grazed. 100m SE to Rainforest"
 GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Grey Shrike-thrush,1,80,N,,,,Light rain
 GI-US-01,4/12/2020,6:19,152.260034,-28.924348,674.786,Girard State Forest,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,20,S,,Midstorey,,
@@ -680,12 +735,10 @@ GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Grey Shrike-thrush,1,20,NE,,Midstorey,,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Grey Shrike-thrush,1,100,W,,,,Steep gully NW facing
 TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Australian King-Parrot,1,80,W,6:56,Canopy,,Unburnt RF only 20m West
-TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Australian King-Parrot,1,,,,,Seen outside of survey period,Unburnt RF 40m North
 TC-BR-03,19/11/2020,7:10,153.3131427,-28.56492853,,Terania Creek,Rainforest,Burnt,Australian King-Parrot,2,,,,Flyover,,"30m radius patch, veg every 5m"
 TC-BR-04,23/12/2020,6:24,153.3176835,-28.56191216,,Terania Creek,Rainforest,Burnt,Australian King-Parrot,1,30,NE,,Flyover,,Unburnt edge 40m West
 TC-UR-04,23/12/2020,6:49,153.3164532,-28.56077769,,Terania Creek,Rainforest,Unburnt,Australian King-Parrot,1,70,NW,6:54,Flyover,,"Burnt 40m E, Cicadas and stream sound present throughout survey"
 BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Australian King-Parrot,1,60,E,,,,
-BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Australian King-Parrot,,,,,,Out of Survey,40m N to UR (patchy) light-moderate wind
 GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Australian King-Parrot,4,40,W,,Midstorey,,
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Australian King-Parrot,2,20,N,,Midstorey,,
 GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Australian King-Parrot,1,40,W,,Flyover,,
@@ -694,7 +747,6 @@ BF-UR-EH2,19/12/2020,6:33,153.351935,-28.577145,399.859,Blue Fig Road,Rainforest
 GG-UR-03,22/12/2020,5:55,153.331914,-28.578817,612.903,Gibbergunya Range Road,Rainforest,Unburnt,Australian King-Parrot,2,50,W,6:01,,,Strong winds
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,Australian King-Parrot,1,80,S,,,,
 MP-BS-01,28/12/2020,6:36,152.728173,-29.052441,288.301,Mount Pikapene,Dry Sclerophyll,Burnt,Australian King-Parrot,3,40,SE,,Canopy,,
-MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Australian King-Parrot,,,,,,Out of Survey,
 GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Australian King-Parrot,2,60,S,,Flyover,,
 TC-UR-02,19/11/2020,8:18,153.315418,-28.56427,229.606,Terania Creek,Rainforest,Unburnt,Large-billed Scrubwren,1,13,N,8:18,Midstorey,,
 TC-UR-02,19/11/2020,8:18,153.315418,-28.56427,229.606,Terania Creek,Rainforest,Unburnt,Large-billed Scrubwren,1,6.4,E,,Midstorey,,
@@ -744,8 +796,6 @@ MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclero
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Laughing Kookaburra,1,50,E,,Canopy,,"Flowering trees at SE & E, had been grazed"
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Laughing Kookaburra,1,60,SW,,,,"Flowering trees at SE & E, had been grazed"
 GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Laughing Kookaburra,1,100,S,,,,
-GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Laughing Kookaburra,,,,,,Out of Survey,
-TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Leaden Flycatcher,1,30,E,,,Seen outside of survey period,Unburnt RF only 20m West
 BY-US-02,10/12/2020,6:35,152.992708,-29.382376,63.749,Banyabba,Dry Sclerophyll,Unburnt,Leaden Flycatcher,1,60,S,6:41,,,Gully
 FC-BS-01,9/12/2020,5:50,152.846755,-29.44624,125.811,Fortis Creek,Dry Sclerophyll,Burnt,Leaden Flycatcher,1,60,E,,,,
 FC-US-01,9/12/2020,6:08,152.845428,-29.448756,142.444,Fortis Creek,Dry Sclerophyll,Unburnt,Leaden Flycatcher,1,100,N,6:10,,,
@@ -806,7 +856,6 @@ WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rain
 WP-UR-02,11/12/2020,7:26,152.334534,-29.474164,854.056,Washpool National Park,Rainforest,Unburnt,Lewin's Honeyeater,1,50,NE,7:31,,,Moderate rain
 MN-UR-01,18/12/2020,6:32,153.301156,-28.540456,783.942,Mount Nardi,Rainforest,Unburnt,Lewin's Honeyeater,1,60,SE,,,,
 BF-BR-01,20/12/2020,6:32,153.360935,-28.58241,387.98,Blue Fig Road,Rainforest,Burnt,Lewin's Honeyeater,1,50,W,,,,Loud Cicadas
-BF-UR-EH2,19/12/2020,6:33,153.351935,-28.577145,399.859,Blue Fig Road,Rainforest,Unburnt,Lewin's Honeyeater,,,,,,Out of Survey,Stream and Cicadas V/loud
 BFEH3_s1,20/12/2020,5:54,153.3584993,-28.58045913,,Blue Fig Road,Rainforest,Burnt,Lewin's Honeyeater,1,60,E,,,,Stream loud
 BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,Unburnt,Lewin's Honeyeater,1,70,NW,,,,Burnt RF 50m W
 BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,Unburnt,Lewin's Honeyeater,1,60,S,,,,Burnt RF 50m W
@@ -832,9 +881,7 @@ BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Bu
 GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Little Lorikeet,4,20,N,,Canopy,,
 GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Little Lorikeet,3,50,E,,Flyover,,
 GI-US-05,6/12/2020,6:15,152.263953,-28.910469,650.985,Girard State Forest,Dry Sclerophyll,Unburnt,Little Lorikeet,1,10,SW,,Flyover,,light wind
-MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Little Lorikeet,,,,,,Out of Survey,100m to Dry Sclerophyll
 GL-US-01,29/12/2020,6:03,152.25763,-28.823581,636.352,Gilgury,Dry Sclerophyll,Unburnt,Little Lorikeet,6,70,N,6:07,Flyover,,
-BF-UR-EH2,19/12/2020,6:33,153.351935,-28.577145,399.859,Blue Fig Road,Rainforest,Unburnt,Little Shrike-thrush,,,,,,Out of Survey,Stream and Cicadas V/loud
 BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,Unburnt,Little Shrike-thrush,,,,,,,Burnt RF 50m W
 GG-UR-04,22/12/2020,6:59,153.327061,-28.606402,330.304,Gibbergunya Range Road,Rainforest,Unburnt,Little Shrike-thrush,1,30,SW,,Understorey,,
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Australian Logrunner,1,20,W,6:35,,,Unburnt RF only 20m West
@@ -859,7 +906,6 @@ GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainfore
 GG-UR-01,21/12/2020,5:42,153.333358,-28.574034,455.375,Gibbergunya Range Road,Rainforest,Unburnt,Australian Logrunner,1,60,N,,,,
 GG-UR-03,22/12/2020,5:55,153.331914,-28.578817,612.903,Gibbergunya Range Road,Rainforest,Unburnt,Australian Logrunner,1,10,NE,5:55,,,Strong winds
 GG-UR-03,22/12/2020,5:55,153.331914,-28.578817,612.903,Gibbergunya Range Road,Rainforest,Unburnt,Australian Logrunner,1,20,SW,,,,Strong winds
-TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Mistletoebird,1,,,,,Seen outside of survey period,Unburnt RF 40m North
 BY-BS-03,10/12/2020,7:41,153.001217,-29.378313,73.278,Banyabba,Dry Sclerophyll,Burnt,Mistletoebird,1,20,W,,Flyover,,
 FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Mistletoebird,1,20,S,7:03,Flyover,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Mistletoebird,1,30,N,,Flyover,,
@@ -926,7 +972,6 @@ GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Noisy Miner,2,70,W,,,,"Flowering trees at SE & E, had been grazed"
 GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,Unburnt,Noisy Miner,3,70,W,,,,Late Survey
 TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Noisy Pitta,1,150,W,,,,Unburnt RF only 20m West
-BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Noisy Pitta,1,10,NW,,Ground,Present on arrival,
 BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Noisy Pitta,1,30,S,,Midstorey,,"Large Patch, 60m S to UR"
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Noisy Pitta,1,60,N,,,,40m E to UR
 BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Noisy Pitta,1,100,E,,,,Moderate wind
@@ -969,10 +1014,6 @@ GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Olive-backed Oriole,1,200,NE,,,,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Olive-backed Oriole,1,250,NW,,,,Steep gully NW facing
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Pacific Baza,1,40,N,,Flyover,,100m E to Rainforest
-BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Burnt,Painted Button-quail,1,,,,,Seen during veg survey,
-BY-BS-02,10/12/2020,6:54,152.991093,-29.379926,72.411,Banyabba,Dry Sclerophyll,Burnt,Painted Button-quail,1,,,,,Seen outside of survey,
-TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Painted Button-quail,,,,,,Out of Survey,"Private property, grazed. 100m SE to Rainforest"
-TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Painted Button-quail,2,50,E,,,Flushed on the walk out,"Private property, grazed. "
 GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,2,40,S,,,,Light rain
 GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,1,150,NW,,,,Light rain
 GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,1,60,N,7:17,,,
@@ -980,14 +1021,8 @@ GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Scle
 GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,1,70,W,,,,
 GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,1,60,N,,,,
 GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,1,70,SE,,,,
-GI-BS-05,6/12/2020,6:56,152.266421,-28.909995,653.914,Girard State Forest,Dry Sclerophyll,Burnt,Painted Button-quail,,,,,,Out of Survey,
-GI-US-05,6/12/2020,6:15,152.263953,-28.910469,650.985,Girard State Forest,Dry Sclerophyll,Unburnt,Painted Button-quail,3,,,,,Seen on the way out,light wind
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Painted Button-quail,1,60,SW,6:22,,,100m to Dry Sclerophyll
 MP-US-02,28/12/2020,5:52,152.711516,-29.059796,311.477,Mount Pikapene,Dry Sclerophyll,Unburnt,Painted Button-quail,1,60,SE,5:55,,,Cicada noise
-GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Painted Button-quail,,,,,,Out of Survey,
-GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Painted Button-quail,,,,,,Out of Survey,
-GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Painted Button-quail,1,10,N,,Ground,Flushed on way in,Late Survey
-BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,Unburnt,Pale-yellow Robin,3,10,E,,Understory,Active Nest,
 BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Pale-yellow Robin,1,20,SW,,Midstorey,,Car and Plane in last 2min of survey
 WP-UR-01,10/12/2020,18:39,152.334751,-29.475394,878.674,Washpool National Park,Rainforest,Unburnt,Pale-yellow Robin,1,10,SW,18:45,Midstorey,,Afternoon Survey
 GG-UR-03,22/12/2020,5:55,153.331914,-28.578817,612.903,Gibbergunya Range Road,Rainforest,Unburnt,Pale-yellow Robin,1,10,S,,Midstorey,,Strong winds
@@ -1000,7 +1035,6 @@ TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,B
 TC-BR-04,23/12/2020,6:24,153.3176835,-28.56191216,,Terania Creek,Rainforest,Burnt,Paradise Riflebird,1,150,S,,,,Unburnt edge 40m West
 TC-UR-04,23/12/2020,6:49,153.3164532,-28.56077769,,Terania Creek,Rainforest,Unburnt,Paradise Riflebird,1,80,S,,,,"Burnt 40m E, Cicadas and stream sound present throughout survey"
 BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Paradise Riflebird,1,80,N,,,,Car and Plane in last 2min of survey
-BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Paradise Riflebird,2,10,SE,,,Female feeding juvinile out of Survey,Car and Plane in last 2min of survey
 BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Paradise Riflebird,1,50,SW,6:38,Canopy,,"Large Patch, 60m S to UR"
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Paradise Riflebird,1,40,SE,,,,40m E to UR
 BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Paradise Riflebird,1,150,SE,6:09,,,40m N to UR (patchy) light-moderate wind
@@ -1037,12 +1071,10 @@ BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges,Rainforest,U
 BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Pied Currawong,1,100,NW,,,,Car and Plane in last 2min of survey
 BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Pied Currawong,1,150,S,6:41,,,"Large Patch, 60m S to UR"
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Pied Currawong,1,200,E,,,,40m E to UR
-BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Pied Currawong,,,,,,Out of Survey,40m N to UR (patchy) light-moderate wind
 BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Pied Currawong,1,150,NE,,,,Moderate wind
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Pied Currawong,1,200,E,,,,
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Pied Currawong,1,200,W,,,,
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Pied Currawong,1,80,S,7:01,,,100m E to Rainforest
-TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Pied Currawong,1,40,N,,,Swooping at Baza,100m E to Rainforest
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Pied Currawong,1,70,NE,,,,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Pied Currawong,1,130,N,,,,"Private property, grazed. 100m SE to Rainforest"
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Pied Currawong,1,100,N,,,,"Private property, grazed. "
@@ -1060,7 +1092,6 @@ BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,Pied Currawong,1,50,N,,,,Unburnt 60m NE
 GG-UR-04,22/12/2020,6:59,153.327061,-28.606402,330.304,Gibbergunya Range Road,Rainforest,Unburnt,Pied Currawong,1,80,NW,,,,
 MP-US-02,28/12/2020,5:52,152.711516,-29.059796,311.477,Mount Pikapene,Dry Sclerophyll,Unburnt,Pied Currawong,1,100,SW,,,,Cicada noise
-GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Pied Currawong,,,,,,Out of Survey,Late Survey
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Pied Currawong,1,70,E,,,,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Pied Currawong,2,50,W,,Canopy,,Steep gully NW facing
 FC-US-01,9/12/2020,6:08,152.845428,-29.448756,142.444,Fortis Creek,Dry Sclerophyll,Unburnt,Rainbow Bee-eater,4,60,E,6:08,Flyover,,
@@ -1077,7 +1108,6 @@ FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophy
 FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Rainbow Lorikeet,2,100,W,,Flyover,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Rainbow Lorikeet,8,30,W,,,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Rainbow Lorikeet,1,10,N,7:54,Flyover,,
-BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Rainbow Lorikeet,5,,,,Flyover,Seen outside of Survey,
 BR-BR-02,24/11/2020,6:16,152.711953,-28.344048,544.357,Border Ranges,Rainforest,Burnt,Rainbow Lorikeet,2,60,W,6:21,,,"Large patch, 60m+ around"
 TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,Rainbow Lorikeet,1,100,W,,Flyover,,80m to rainforest edge
 TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,Rainbow Lorikeet,2,10,W,,Flyover,,80m to rainforest edge
@@ -1087,14 +1117,11 @@ WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,R
 WP-UR-01,10/12/2020,18:39,152.334751,-29.475394,878.674,Washpool National Park,Rainforest,Unburnt,Rainbow Lorikeet,2,70,NE,,Flyover,,Afternoon Survey
 GI-BS-05,6/12/2020,6:56,152.266421,-28.909995,653.914,Girard State Forest,Dry Sclerophyll,Burnt,Rainbow Lorikeet,1,40,S,,Flyover,,
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,Rainbow Lorikeet,1,,,,,,
-MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Rainbow Lorikeet,,,,,,Out of Survey,100m to Dry Sclerophyll
 FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophyll,Unburnt,Red Wattlebird,1,70,SE,,,,
 BY-BS-02,10/12/2020,6:54,152.991093,-29.379926,72.411,Banyabba,Dry Sclerophyll,Burnt,Red-browed Finch,2,20,NE,7:03,,,
 TL-BR-01,21/11/2020,6:09,152.4001112,-28.48316031,,Tooloom,Rainforest,Burnt,Red-browed Finch,4,15,NE,,Understorey,,
 TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Red-browed Finch,3,10,SE,,"Midstorey, Understorey",,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Red-browed Finch,1,50,E,6:52,,,"Private property, grazed. 100m SE to Rainforest"
-GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Red-browed Finch,,,,,,Out of Survey,
-GG-BR-02,21/12/2020,6:41,153.331637,-28.576159,648.606,Gibbergunya Range Road,Rainforest,Burnt,Red-browed Finch,1,,,,,Out of Survey,Loud Cicadas
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,Red-browed Finch,1,10,NW,6:48,Midstorey,,
 MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Red-browed Finch,2,20,S,,,,
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Red-browed Finch,2,40,SE,,,,"Flowering trees at SE & E, had been grazed"
@@ -1114,7 +1141,6 @@ GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,U
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Restless Flycatcher,2,50,S,11:06,,,Late Survey
 GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,Unburnt,Restless Flycatcher,1,50,SW,,,,Late Survey
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Restless Flycatcher,1,80,N,12:43,,,Steep gully NW facing
-TL-BR-01,21/11/2020,6:09,152.4001112,-28.48316031,,Tooloom,Rainforest,Burnt,Rose Robin,,,,6:18,,Out of Survey,
 TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Rose-crowned Fruit-Dove,1,150,NW,,,,Unburnt RF only 20m West
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Rose-crowned Fruit-Dove,1,20,N,,Canopy,,Unburnt RF only 20m West
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Rose-crowned Fruit-Dove,1,80,S,6:32,,,Unburnt RF only 20m West
@@ -1147,7 +1173,6 @@ GG-UR-04,22/12/2020,6:59,153.327061,-28.606402,330.304,Gibbergunya Range Road,Ra
 MP-US-01,28/12/2020,6:17,152.728395,-29.049364,286.883,Mount Pikapene,Dry Sclerophyll,Unburnt,Rose-crowned Fruit-Dove,1,90,NW,,,,100m to Dry Sclerophyll
 TC-UR-03,19/11/2020,7:41,153.31387,-28.563739,217.431,Terania Creek,Rainforest,Unburnt,Rufous Fantail,1,150,NE,,,,N+E veg shortened for creek
 TC-UR-04,23/12/2020,6:49,153.3164532,-28.56077769,,Terania Creek,Rainforest,Unburnt,Rufous Fantail,1,60,W,,,,"Burnt 40m E, Cicadas and stream sound present throughout survey"
-BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Rufous Fantail,1,10,NE,,,Seen outside of survey,
 BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Rufous Fantail,1,50,NW,,,,
 BR-UR-02,24/11/2020,6:58,152.712416,-28.346926,533.221,Border Ranges,Rainforest,Unburnt,Rufous Fantail,1,2,S,,Understorey,,Car and Plane in last 2min of survey
 BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,Rufous Fantail,1,5,SE,,Understorey,,40m N to UR (patchy) light-moderate wind
@@ -1166,7 +1191,6 @@ GG-UR-02,21/12/2020,6:22,153.332983,-28.57652,652.949,Gibbergunya Range Road,Rai
 GG-UR-03,22/12/2020,5:55,153.331914,-28.578817,612.903,Gibbergunya Range Road,Rainforest,Unburnt,Rufous Fantail,1,30,S,5:57,,,Strong winds
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,Rufous Fantail,1,10,N,6:45,Midstorey,,
 GG-UR-04,22/12/2020,6:59,153.327061,-28.606402,330.304,Gibbergunya Range Road,Rainforest,Unburnt,Rufous Fantail,1,40,SE,7:00,,,
-MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Rufous Fantail,,,,,,Out of Survey,
 BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Burnt,Rufous Whistler,1,70,E,,,,
 BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,Rufous Whistler,1,60,NW,,,,
 BY-US-02,10/12/2020,6:35,152.992708,-29.382376,63.749,Banyabba,Dry Sclerophyll,Unburnt,Rufous Whistler,1,60,E,,,,Gully
@@ -1234,7 +1258,6 @@ GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sc
 GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Sacred Kingfisher,1,80,S,,,,
 GI-US-05,6/12/2020,6:15,152.263953,-28.910469,650.985,Girard State Forest,Dry Sclerophyll,Unburnt,Sacred Kingfisher,1,50,N,,,,light wind
 GI-US-05,6/12/2020,6:15,152.263953,-28.910469,650.985,Girard State Forest,Dry Sclerophyll,Unburnt,Sacred Kingfisher,1,50,NE,6:22,,,light wind
-GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Sacred Kingfisher,,,,,,Out of Survey,
 TC-UR-03,19/11/2020,7:41,153.31387,-28.563739,217.431,Terania Creek,Rainforest,Unburnt,Satin Bowerbird,1,45,NE,7:50,Canopy,,N+E veg shortened for creek
 TC-BR-04,23/12/2020,6:24,153.3176835,-28.56191216,,Terania Creek,Rainforest,Burnt,Satin Bowerbird,1,60,SW,6:31,,,Unburnt edge 40m West
 TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,Satin Bowerbird,1,60,SW,,,,80m to rainforest edge
@@ -1242,7 +1265,6 @@ TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclero
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Satin Bowerbird,1,30,SE,,,,"Private property, grazed. 100m SE to Rainforest"
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Satin Bowerbird,1,100,E,,,,"Private property, grazed. "
 GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Satin Bowerbird,1,70,SW,,,,
-GG-UR-02,21/12/2020,6:22,153.332983,-28.57652,652.949,Gibbergunya Range Road,Rainforest,Unburnt,Satin Bowerbird,,,,,,Out of Survey,
 GL-BS-02,29/12/2020,6:24,152.260362,-28.826109,623.084,Gilgury,Dry Sclerophyll,Burnt,Satin Bowerbird,2,20,E,6:26,Flyover,,
 GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Satin Bowerbird,1,60,NE,,,,
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Scaly-breasted Lorikeet,1,100,W,,Flyover,,"Private property, grazed. "
@@ -1279,14 +1301,11 @@ TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclero
 TL-US-01,26/11/2020,6:56,152.352818,-28.514677,607.152,Captains Creek,Dry Sclerophyll,Unburnt,Silvereye,6,40,NW,,,,100m E to Rainforest
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Silvereye,8,20,NW,,,,
 TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,Silvereye,8,20,N,,Midstorey,,
-WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,Silvereye,4,20,SE,,Canopy,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
 WP-UR-01,10/12/2020,18:39,152.334751,-29.475394,878.674,Washpool National Park,Rainforest,Unburnt,Silvereye,4,40,E,,,,Afternoon Survey
 WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rainforest,Burnt,Silvereye,4,60,N,7:13,Flyover,,Moderate rain
 GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Sclerophyll,Burnt,Silvereye,4,60,E,,,,
-GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Silvereye,10,60,E,,Flyover,Out of Survey,
 GG-UR-03,22/12/2020,5:55,153.331914,-28.578817,612.903,Gibbergunya Range Road,Rainforest,Unburnt,Silvereye,1,40,S,6:03,,,Strong winds
 TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Spangled Drongo,4,50,W,6:56,Canopy,,Unburnt RF only 20m West
-TC-BR-02,19/11/2020,7:01,153.315057,-28.564977,233.75,Terania Creek,Rainforest,Burnt,Spangled Drongo,4,70,W,,,Seen outside of survey period,Unburnt RF 40m North
 BR-BR-03,24/11/2020,6:37,152.712833,-28.345416,545.487,Border Ranges,Rainforest,Burnt,Spangled Drongo,4,30,N,,,,"Large Patch, 60m S to UR"
 GI-US-01,4/12/2020,6:19,152.260034,-28.924348,674.786,Girard State Forest,Dry Sclerophyll,Unburnt,Spangled Drongo,1,60,NW,,,,
 BF-UR-EH2,19/12/2020,6:33,153.351935,-28.577145,399.859,Blue Fig Road,Rainforest,Unburnt,Spangled Drongo,6,50,E,,,,Stream and Cicadas V/loud
@@ -1310,7 +1329,6 @@ BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,U
 BR-UR-03,25/11/2020,6:17,152.71413,-28.347336,544.621,Border Ranges,Rainforest,Unburnt,Spectacled Monarch,1,50,SE,,,,40m E to UR
 BR-UR-04,23/11/2020,6:33,152.755609,-28.370067,552.196,Border Ranges,Rainforest,Unburnt,Spectacled Monarch,1,100,W,,,,Moderate wind
 BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges,Rainforest,Burnt,Spectacled Monarch,1,100,N,,,,
-BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Spectacled Monarch,,,,,,Out of Survey,Moderate wind
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,Spectacled Monarch,1,150,NE,,,,
 MN-UR-01,18/12/2020,6:32,153.301156,-28.540456,783.942,Mount Nardi,Rainforest,Unburnt,Spectacled Monarch,1,20,W,,,,
 GG-UR-04,22/12/2020,6:59,153.327061,-28.606402,330.304,Gibbergunya Range Road,Rainforest,Unburnt,Spectacled Monarch,2,20,S,7:01,Canopy,,
@@ -1335,15 +1353,12 @@ GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,U
 GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,Unburnt,Spotted Pardalote,1,30,E,,,,Late Survey
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Spotted Pardalote,1,50,NE,,,,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Spotted Quail-thrush,1,50,NW,6:47,,,"Private property, grazed. 100m SE to Rainforest"
-FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Striated Pardalote,,,,,,Seen outside survey,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Striated Thornbill,5,50,S,,Midstorey,,Steep gully NW facing
 TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Sulphur-crested Cockatoo,2,60,E,,,,Unburnt RF only 20m West
 TC-UR-02,19/11/2020,8:18,153.315418,-28.56427,229.606,Terania Creek,Rainforest,Unburnt,Sulphur-crested Cockatoo,1,150,W,,,,
 TC-BR-03,19/11/2020,7:10,153.3131427,-28.56492853,,Terania Creek,Rainforest,Burnt,Sulphur-crested Cockatoo,1,150,SE,7:10,,,"30m radius patch, veg every 5m"
 TC-BR-03,19/11/2020,7:10,153.3131427,-28.56492853,,Terania Creek,Rainforest,Burnt,Sulphur-crested Cockatoo,3,100,N,7:20,,,"30m radius patch, veg every 5m"
 TC-BR-04,23/12/2020,6:24,153.3176835,-28.56191216,,Terania Creek,Rainforest,Burnt,Sulphur-crested Cockatoo,1,100,SE,,Flyover,,Unburnt edge 40m West
-BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,Unburnt,Sulphur-crested Cockatoo,,,,,,Out of Survey,Moderate wind
-TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Sulphur-crested Cockatoo,,,,,,Out of Survey,"Private property, grazed. 100m SE to Rainforest"
 GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Sulphur-crested Cockatoo,1,250,W,,,,
 BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,Unburnt,Sulphur-crested Cockatoo,1,70,N,,Flyover,,Burnt RF 50m W
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,Sulphur-crested Cockatoo,2,100,E,,Canopy,,
@@ -1372,7 +1387,6 @@ BFEH2_s1,19/12/2020,5:56,153.3509299,-28.57666976,,Blue Fig Road,Rainforest,Burn
 BY-BS-01,10/12/2020,5:42,152.971524,-29.379345,61.36,Banyabba,Dry Sclerophyll,Burnt,Torresian Crow,1,100,SW,5:50,,,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Torresian Crow,1,100,SW,,,,"Private property, grazed. 100m SE to Rainforest"
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Torresian Crow,1,100,NE,6:49,,,"Private property, grazed. 100m SE to Rainforest"
-TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Torresian Crow,2,60,W,,,Out of Survey,"Private property, grazed. "
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Torresian Crow,1,200,W,,,,
 GI-US-04,5/12/2020,6:21,152.263798,-28.912809,676.564,Girard State Forest,Dry Sclerophyll,Unburnt,Torresian Crow,1,250,NW,,,,
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Torresian Crow,1,100,N,,,,"Flowering trees at SE & E, had been grazed"
@@ -1383,11 +1397,9 @@ FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophy
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Variegated Fairy-wren,4,5,S,7:45,Understory,,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,Variegated Fairy-wren,1,50,SE,,,,"Private property, grazed. 100m SE to Rainforest"
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Variegated Fairy-wren,6,40,NE,,,,"Private property, grazed. "
-MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclerophyll,Burnt,Variegated Fairy-wren,,,,,,Out of Survey,
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Variegated Fairy-wren,4,30,SE,,,,"Flowering trees at SE & E, had been grazed"
 GL-BS-01,29/12/2020,5:46,152.259171,-28.823049,636.847,Gilgury,Dry Sclerophyll,Burnt,Variegated Fairy-wren,2,40,E,,,,"Flowering trees at SE & E, had been grazed"
 GL-US-01,29/12/2020,6:03,152.25763,-28.823581,636.352,Gilgury,Dry Sclerophyll,Unburnt,Variegated Fairy-wren,1,20,SW,6:12,,,
-FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,Wedge-tailed Eagle,,,,,,Seen outside survey,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Wedge-tailed Eagle,,20,NW,,Flyover,,Steep gully NW facing
 GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Welcome Swallow,3,40,NE,,Flyover,,
 BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,White-bellied Cuckoo-shrike,2,30,SW,6:06,Canopy,,
@@ -1413,7 +1425,6 @@ MP-BS-02,28/12/2020,5:38,152.709829,-29.059169,270.421,Mount Pikapene,Dry Sclero
 GL-US-01,29/12/2020,6:03,152.25763,-28.823581,636.352,Gilgury,Dry Sclerophyll,Unburnt,White-browed Scrubwren,1,30,W,6:03,,,
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,White-browed Scrubwren,1,20,E,,,,Late Survey
 BY-US-01,10/12/2020,6:02,152.969529,-29.382354,71.667,Banyabba,Dry Sclerophyll,Unburnt,White-cheeked Honeyeater,3,30,S,,Canopy,,
-FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,White-cheeked Honeyeater,,,,,,Seen outside survey,
 BR-BR-04,23/11/2020,6:05,152.755279,-28.371405,554.274,Border Ranges,Rainforest,Burnt,White-headed Pigeon,1,50,W,,Flyover,,40m N to UR (patchy) light-moderate wind
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,White-headed Pigeon,2,50,E,,Canopy,,
 TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburnt,White-headed Pigeon,3,40,N,6:37,Canopy,,
@@ -1423,10 +1434,8 @@ WP-UR-01,10/12/2020,18:39,152.334751,-29.475394,878.674,Washpool National Park,R
 WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rainforest,Burnt,White-headed Pigeon,1,80,SE,,,,Moderate rain
 WP-UR-02,11/12/2020,7:26,152.334534,-29.474164,854.056,Washpool National Park,Rainforest,Unburnt,White-headed Pigeon,1,60,SW,7:33,,,Moderate rain
 BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,Unburnt,White-headed Pigeon,,,,,,,Burnt RF 50m W
-FC-BS-02,9/12/2020,6:53,152.842214,-29.445343,116.018,Fortis Creek,Dry Sclerophyll,Burnt,White-naped Honeyeater,,,,,,Seen outside survey,
 FC-BS-03,9/12/2020,7:27,152.839717,-29.44345,99.12,Fortis Creek,Dry Sclerophyll,Burnt,White-naped Honeyeater,3,30,E,,Canopy,,
 TL-BS-01,26/11/2020,6:08,152.359742,-28.510844,607.184,Captains Creek,Dry Sclerophyll,Burnt,White-naped Honeyeater,2,30,W,,Canopy,,80m to rainforest edge
-GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,White-naped Honeyeater,2,,,,,Out of Survey,Light rain
 GI-US-01,4/12/2020,6:19,152.260034,-28.924348,674.786,Girard State Forest,Dry Sclerophyll,Unburnt,White-naped Honeyeater,4,40,NE,,Canopy,,
 GI-US-02,4/12/2020,7:31,152.264911,-28.920657,691.665,Girard State Forest,Dry Sclerophyll,Unburnt,White-naped Honeyeater,1,20,S,,Canopy,,
 GI-US-02,4/12/2020,7:31,152.264911,-28.920657,691.665,Girard State Forest,Dry Sclerophyll,Unburnt,White-naped Honeyeater,2,20,SE,7:35,,,
@@ -1485,7 +1494,6 @@ BR-UR-05,23/11/2020,7:31,152.757377,-28.371518,565.157,Border Ranges,Rainforest,
 TL-BR-01,21/11/2020,6:09,152.4001112,-28.48316031,,Tooloom,Rainforest,Burnt,White-throated Treecreeper,1,100,W,,,,
 TL-US-02,26/11/2020,6:33,152.355016,-28.512885,715.41,Captains Creek,Dry Sclerophyll,Unburnt,White-throated Treecreeper,1,80,E,,,,
 TL-BS-03,27/11/2020,6:45,152.371659,-28.491717,744.411,Captains Creek,Dry Sclerophyll,Burnt,White-throated Treecreeper,1,120,SE,,,,"Private property, grazed. 100m SE to Rainforest"
-WP-BR-01,10/12/2020,18:19,152.333652,-29.474974,893.588,Washpool National Park,Rainforest,Burnt,White-throated Treecreeper,1,20,SE,,Midstorey,Flowering Rainforest Tree,"Afternoon survey. unburnt 20m SE, 50m elsewhere"
 WP-UR-01,10/12/2020,18:39,152.334751,-29.475394,878.674,Washpool National Park,Rainforest,Unburnt,White-throated Treecreeper,1,80,SE,,,,Afternoon Survey
 WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rainforest,Burnt,White-throated Treecreeper,1,70,SW,,,,Moderate rain
 WP-UR-02,11/12/2020,7:26,152.334534,-29.474164,854.056,Washpool National Park,Rainforest,Unburnt,White-throated Treecreeper,1,60,W,7:29,,,Moderate rain
@@ -1510,7 +1518,6 @@ BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,White-throated Treecreeper,1,50,E,,,,Unburnt 60m NE
 GG-UR-02,21/12/2020,6:22,153.332983,-28.57652,652.949,Gibbergunya Range Road,Rainforest,Unburnt,White-throated Treecreeper,1,5,N,,,,
 GG-UR-02,21/12/2020,6:22,153.332983,-28.57652,652.949,Gibbergunya Range Road,Rainforest,Unburnt,White-throated Treecreeper,1,60,S,,,,
-GG-BR-03,22/12/2020,6:12,153.330889,-28.578052,614.213,Gibbergunya Range Road,Rainforest,Burnt,White-throated Treecreeper,2,40,S,,,Out of Survey,Strong winds
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,White-throated Treecreeper,1,60,S,,,,
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,White-throated Treecreeper,1,80,NW,,,,
 GG-BR-04,22/12/2020,6:39,153.3268692,-28.60305095,,Gibbergunya Range Road,Rainforest,Burnt,White-throated Treecreeper,1,80,E,,,,
@@ -1527,8 +1534,6 @@ GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,White-throated Treecreeper,1,50,NE,,,,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,White-throated Treecreeper,1,60,NW,12:40,,,Steep gully NW facing
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,White-throated Treecreeper,1,80,S,,,,Steep gully NW facing
-GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Willie Wagtail,,,,,,Out of Survey,
-GL-US-02,29/12/2020,6:43,152.258527,-28.826507,615.037,Gilgury,Dry Sclerophyll,Unburnt,Willie Wagtail,,,,,,Out of Survey,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Willie Wagtail,1,50,S,,,,Steep gully NW facing
 TC-BR-01,19/11/2020,6:43,153.313737,-28.565375,225.749,Terania Creek,Rainforest,Burnt,Wompoo Fruit-Dove,1,50,SW,6:53,Canopy,,Unburnt RF only 20m West
 TC-UR-01,20/11/2020,6:28,153.312972,-28.566023,214.467,Terania Creek,Rainforest,Unburnt,Wompoo Fruit-Dove,1,50,W,,,,Unburnt RF only 20m West
@@ -1620,7 +1625,6 @@ GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Yellow-faced Honeyeater,1,40,S,,,,Late Survey
 GL-BS-03,30/12/2020,11:06,152.291746,-28.878396,578.778,Gilgury,Dry Sclerophyll,Burnt,Yellow-faced Honeyeater,5,20,NW,11:12,Canopy,,Late Survey
 GL-US-03,30/12/2020,10:21,152.289634,-28.878092,601.135,Gilgury,Dry Sclerophyll,Unburnt,Yellow-faced Honeyeater,1,60,W,10:28,,,Late Survey
-GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Yellow-faced Honeyeater,1,10,E,13:10,Midstorey,"Late Survey, Steep gully NE",
 GL-BS-04,29/12/2020,13:10,152.279404,-28.883025,723.137,Gilgury,Dry Sclerophyll,Burnt,Yellow-faced Honeyeater,2,40,NE,,Canopy,,
 GL-US-04,30/12/2020,12:40,152.277621,-28.882265,731.943,Gilgury,Dry Sclerophyll,Unburnt,Yellow-faced Honeyeater,1,60,NW,12:47,,,Steep gully NW facing
 BR-BR-01,25/11/2020,6:56,152.716827,-28.350157,537.361,Border Ranges,Rainforest,Burnt,Yellow-tailed Black-Cockatoo,5,100,E,,Flyover,,
@@ -1634,12 +1638,8 @@ TL-UR-01,21/11/2020,6:31,152.401316,-28.482154,681.895,Tooloom,Rainforest,Unburn
 WP-BR-02,11/12/2020,7:04,152.33317,-29.47405,896.317,Washpool National Park,Rainforest,Burnt,Yellow-throated Scrubwren,2,60,E,,,,Moderate rain
 BF-UR-03,20/12/2020,5:29,153.354715,-28.582456,418.103,Blue Fig Road,Rainforest,Unburnt,Yellow-throated Scrubwren,2,40,E,,,,Burnt RF 50m W
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,Yellow-throated Scrubwren,1,50,SW,6:07,,,Unburnt 60m NE
-GG-BR-02,21/12/2020,6:41,153.331637,-28.576159,648.606,Gibbergunya Range Road,Rainforest,Burnt,Yellow-throated Scrubwren,1,,,,,Out of Survey,Loud Cicadas
-GI-BS-01,4/12/2020,6:40,152.263156,-28.924645,696.992,Girard State Forest,Dry Sclerophyll,Burnt,Yellow-tufted Honeyeater,2,,,,,Out of Survey,Light rain
-GI-US-01,4/12/2020,6:19,152.260034,-28.924348,674.786,Girard State Forest,Dry Sclerophyll,Unburnt,Yellow-tufted Honeyeater,1,70,NE,,,"Light/Moderate rain, light mist. Steep N facing slope",
 GI-BS-02,4/12/2020,7:11,152.267556,-28.9193,680.893,Girard State Forest,Dry Sclerophyll,Burnt,Yellow-tufted Honeyeater,1,30,N,7:13,Midstorey,,
 GI-US-02,4/12/2020,7:31,152.264911,-28.920657,691.665,Girard State Forest,Dry Sclerophyll,Unburnt,Yellow-tufted Honeyeater,1,10,S,,Canopy,,
-GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Yellow-tufted Honeyeater,3,30,W,,Canopy,Fledgeling,
 GI-BS-03,5/12/2020,5:57,152.265816,-28.915573,678.139,Girard State Forest,Dry Sclerophyll,Burnt,Yellow-tufted Honeyeater,1,10,N,,Understorey,,
 GI-US-03,4/12/2020,7:53,152.262956,-28.916098,663.835,Girard State Forest,Dry Sclerophyll,Unburnt,Yellow-tufted Honeyeater,2,30,E,,,,
 GI-BS-04,5/12/2020,6:46,152.26639,-28.912691,670.83,Girard State Forest,Dry Sclerophyll,Burnt,Yellow-tufted Honeyeater,2,40,E,,Canopy,,

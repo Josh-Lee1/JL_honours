@@ -22,6 +22,22 @@ vegtrim <- filter(veg, Point == 10 | Point == 20 | Point == 30 | Point == 40 | P
 #make a new df from bird df with site info
 #attach site info df to veg
 ```{r}
+pairs<- birds %>% 
+  mutate(ind = row_number()) %>%
+  separate_rows(Site, sep="-") %>%
+  mutate(Site = ifelse(is.na(Site),0, Site)) %>%
+  count(ind, Site) %>%
+  spread(Site, n, fill = 0) %>%
+  select(-2) %>%
+  as.data.frame() %>% 
+  write.csv("..//Data/Processed/pairs.csv")
+
+?separate_rows
+
+pairs <- birds %>% 
+  separate(Site, c("Loc", "Fir", "Pai")) %>% 
+  mutate(Pair = )
+
 siteinfo <- select(birds, "Site", "Longitude", "Latitude", "Elevation", "Location", "Formation", "Fire")
 veg <- vegtrim %>% 
   left_join(siteinfo, by = "Site") %>% 
