@@ -2,6 +2,7 @@ library(tidyverse)
 library(vegan)
 library(labdsv)
 library(iNEXT)
+library(lme4)
 
 
 #Species Richness
@@ -51,6 +52,58 @@ divdata <-  t(birdspread1)
 diversity <- iNEXT(divdata, q=0, datatype = "abundance")
 ggiNEXT(diversity, type = 1)
 
+summary(diversity)
+diversesum<- diversity$AsyEst
 
+#Simple method with vegan package
+veganshan<- birdspread1 %>% 
+  vegan::diversity(index = "shannon") %>% 
+  as.data.frame() %>% 
+  dplyr::rename(Shannon = ".") %>% 
+  rownames_to_column(var = "Site")
+
+vegansimp<- birdspread1 %>%
+  vegan::diversity(index = "simpson") %>% 
+  as.data.frame() %>% 
+  dplyr::rename(Simpson = ".") %>% 
+  rownames_to_column(var = "Site")
+
+vegandiv <- dplyr::left_join(vegansimp, veganshan, by = c("Site" = "Site"))
+
+#get the ouputs from iNEXT
+vegnames <- vegandiv %>% 
+  rownames_to_column(var = "r.name")
+
+sumq0 <- diversesum %>% 
+  filter(Diversity == "Shannon diversity") %>% 
+  rownames_to_column(var = "r.name") %>% 
+  right_join(vegnames, by = "r.name")
+  
+#messing around to get a nice df
+treatinfo<-birds %>% 
+  select("Site", "Treatment", "Fire", "Formation", "Location") %>% 
+  distinct()
+
+diversity <- sumq0 %>% 
+  right_join(diversesum, by = c("Site.x" = "Site")) %>% 
+  select("Site.y", "Diversity.y", "Observed.y", "Estimator.y", "s.e..y",  "LCL.y", "UCL.y") %>% 
+  rename(Site="Site.y", Diversity="Diversity.y", Observed="Observed.y", Estimator="Estimator.y", s.e.="s.e..y",  LCL="LCL.y", UCL="UCL.y") %>% 
+  left_join(treatinfo, by = "Site") %>% 
+  dplyr::relocate(Treatment, .after = Site)
+  
+div4mod <- diversity %>% 
+  select(Site, Treatment, Fire, Formation, Location, Diversity, Observed) %>% 
+  spread(Diversity, Observed) %>% 
+  rename(Shannon_diversity = "Shannon diversity") %>%
+  rename(Simpson_diversity = "Simpson diversity")
+
+#make model
+shandiv<- lmer(Shannon_diversity ~ Fire + (1|Location), data = div4mod)
+summary(shandiv)
+plot(shandiv)
+
+simpdiv<- lmer(Simpson_diversity ~ Fire + (1|Location), data = div4mod)
+summary(simpdiv)
+plot(simpdiv)
 
 
