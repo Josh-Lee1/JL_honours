@@ -3,6 +3,8 @@ library(vegan)
 library(labdsv)
 library(iNEXT)
 library(lme4)
+library(sjPlot)
+library(sjmisc)
 
 
 #Species Richness
@@ -95,15 +97,29 @@ div4mod <- diversity %>%
   select(Site, Treatment, Fire, Formation, Location, Diversity, Observed) %>% 
   spread(Diversity, Observed) %>% 
   rename(Shannon_diversity = "Shannon diversity") %>%
-  rename(Simpson_diversity = "Simpson diversity")
+  rename(Simpson_diversity = "Simpson diversity") %>% 
+  rename(Species_richness = "Species richness")
 
 #make model
-shandiv<- lmer(Shannon_diversity ~ Fire + (1|Location), data = div4mod)
+## Shannon
+shandiv<- lmer(Shannon_diversity ~ Formation * Fire +(1|Location), data = div4mod)
+shandiv2<- lmer(Shannon_diversity ~ Formation + (1|Location), data = div4mod)
+
 summary(shandiv)
 plot(shandiv)
+anova(shandiv2,shandiv)
 
-simpdiv<- lmer(Simpson_diversity ~ Fire + (1|Location), data = div4mod)
+plot_model(shandiv, type = "int")
+
+## Simpson
+simpdiv<- lmer(Simpson_diversity ~ Formation * Fire +(1|Location), data = div4mod)
+simpdiv2<- lmer(Simpson_diversity ~ Formation + (1|Location), data = div4mod)
+
 summary(simpdiv)
 plot(simpdiv)
+anova(simpdiv2,simpdiv)
+confint(simpdiv)
 
+
+plot_model(simpdiv, type = "int")
 

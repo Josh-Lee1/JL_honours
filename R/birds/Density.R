@@ -25,17 +25,19 @@ print(totbirds100)
 
 #play with Distance package
 ## detection function
-birds_det <- ds(birds, truncation = 400,  formula = ~ Treatment)
-birds_hr <- ds(birds, truncation = 400, key = "hr")
-birds_hr_tre <- ds(birds, truncation = 400, key = "hr",  formula = ~ Treatment)
-birds_hr_loc <- ds(birds, truncation = 400, key = "hr",  formula = ~ Location)
-birds_hr_sit <- ds(birds, truncation = 400, key = "hr",  formula = ~ Site)
+#birds_det <- ds(birds, truncation = 400,  formula = ~ Treatment)
+#birds_hr <- ds(birds, truncation = 400, key = "hr")
+#birds_hr_tre <- ds(birds, truncation = 400, key = "hr",  formula = ~ Treatment)
+#birds_hr_loc <- ds(birds, truncation = 400, key = "hr",  formula = ~ Location)
+birds_hr_sit <- ds(birds, truncation = 400, key = "hr",  formula = ~ Region.Label)
 
 plot(birds_hr_loc)
 summary(birds_hr_loc)
 gof_ds(birds_hr_loc)
-summarize_ds_models(birds_hr_loc, birds_det, birds_hr, birds_hr_tre, birds_hr_sit)
+summarize_ds_models(birds_hr_loc, birds_det, birds_hr, birds_hr_tre)
 
 #summary to get abundance and density
 summary(birds_hr_loc)
-######### not in here??
+######### abundance and density not in here??
+
+birds_hr_loc$ddf
