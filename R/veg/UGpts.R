@@ -17,6 +17,9 @@ meanptsQ1 <- aggregate(veg[221], list(veg$Site, veg$Treatment), mean, na.rm = TR
 meanptsQ2 <- aggregate(veg[222], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
 meanptsQ3 <- aggregate(veg[223], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
 meanptsQ4 <- aggregate(veg[224], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
+meanptsall <- aggregate(veg[225], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
+write.csv(meanptsall, "Data/Processed/UGpts.csv")
+
 
 #combine to one df
 allmeans <- meanptsQ1 %>% cbind(Q2 = meanptsQ2$Q2, Q3 = meanptsQ3$Q3, Q4 = meanptsQ4$Q4) %>% 

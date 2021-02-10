@@ -63,6 +63,7 @@ density <- abund_table %>%
   left_join(dense_table, by = "Site") %>% 
   left_join(siteinfo, by = "Site") %>% 
   filter(Site != "Total")
+write.csv(density, "Data/Processed/density.csv")
 
 #Plot and ANOVA
 abundplot<- ggplot(density, aes(x = Treatment, y = Estimate_abundance)) + geom_boxplot() +ylab("Abundance")

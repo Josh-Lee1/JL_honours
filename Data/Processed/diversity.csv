@@ -1,0 +1,81 @@
+"","Site","Treatment","Fire","Formation","Location","Species_richness","Shannon_diversity","Simpson_diversity"
+"1","BF-BR-01","RainforestBurnt","Burnt","Rainforest","Blue Fig Road",5,4.353,3.846
+"2","BF-UR-01","RainforestUnburnt","Unburnt","Rainforest","Blue Fig Road",10,9.698,9.308
+"3","BF-UR-03","RainforestUnburnt","Unburnt","Rainforest","Blue Fig Road",15,13.569,12.302
+"4","BF-UR-EH2","RainforestUnburnt","Unburnt","Rainforest","Blue Fig Road",6,4.364,3.273
+"5","BFEH2_s1","RainforestBurnt","Burnt","Rainforest","Blue Fig Road",6,5.743,5.556
+"6","BFEH3_s1","RainforestBurnt","Burnt","Rainforest","Blue Fig Road",7,5.858,4.84
+"7","BR-BR-01","RainforestBurnt","Burnt","Rainforest","Border Ranges 1",16,11.935,9.587
+"8","BR-BR-02","RainforestBurnt","Burnt","Rainforest","Border Ranges 1",15,13.439,12.071
+"9","BR-BR-03","RainforestBurnt","Burnt","Rainforest","Border Ranges 1",13,10.971,9.389
+"10","BR-BR-04","RainforestBurnt","Burnt","Rainforest","Border Ranges 2",14,12.488,11.255
+"11","BR-BR-05","RainforestBurnt","Burnt","Rainforest","Border Ranges 2",15,12.725,10.976
+"12","BR-UR-01","RainforestUnburnt","Unburnt","Rainforest","Border Ranges 1",20,16.867,14.157
+"13","BR-UR-02","RainforestUnburnt","Unburnt","Rainforest","Border Ranges 1",18,14.733,12.042
+"14","BR-UR-03","RainforestUnburnt","Unburnt","Rainforest","Border Ranges 1",17,14.651,12.857
+"15","BR-UR-04","RainforestUnburnt","Unburnt","Rainforest","Border Ranges 2",15,13.662,12.522
+"16","BR-UR-05","RainforestUnburnt","Unburnt","Rainforest","Border Ranges 2",10,8.492,7.364
+"17","BY-BS-01","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Banyabba",13,11.44,10.083
+"18","BY-BS-02","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Banyabba",12,10.332,9
+"19","BY-BS-03","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Banyabba",10,8.854,7.811
+"20","BY-US-01","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Banyabba",11,9.813,8.966
+"21","BY-US-02","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Banyabba",12,10.79,9.757
+"22","BY-US-03","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Banyabba",8,6.965,5.918
+"23","FC-BS-01","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Fortis Creek",11,10.009,9
+"24","FC-BS-02","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Fortis Creek",14,13.192,12.448
+"25","FC-BS-03","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Fortis Creek",10,9.125,8.333
+"26","FC-US-01","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Fortis Creek",11,9.47,8.345
+"27","FC-US-02","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Fortis Creek",14,10.076,6.877
+"28","FC-US-03","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Fortis Creek",9,6.092,4.806
+"29","GG-BR-01","RainforestBurnt","Burnt","Rainforest","Gibbergunya Range Road",16,12.658,9.72
+"30","GG-BR-02","RainforestBurnt","Burnt","Rainforest","Gibbergunya Range Road",5,4.371,3.769
+"31","GG-BR-03","RainforestBurnt","Burnt","Rainforest","Gibbergunya Range Road",5,4.757,4.571
+"32","GG-BR-04","RainforestBurnt","Burnt","Rainforest","Gibbergunya Range Road",17,14.171,11.879
+"33","GG-UR-01","RainforestUnburnt","Unburnt","Rainforest","Gibbergunya Range Road",13,11.171,9.68
+"34","GG-UR-02","RainforestUnburnt","Unburnt","Rainforest","Gibbergunya Range Road",14,12.672,11.524
+"35","GG-UR-03","RainforestUnburnt","Unburnt","Rainforest","Gibbergunya Range Road",15,14.132,13.364
+"36","GG-UR-04","RainforestUnburnt","Unburnt","Rainforest","Gibbergunya Range Road",14,12.672,11.524
+"37","GI-BS-01","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Girard State Forest",10,8.724,7.529
+"38","GI-BS-02","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Girard State Forest",14,13,12.071
+"39","GI-BS-03","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Girard State Forest",16,13.676,11.842
+"40","GI-BS-04","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Girard State Forest",17,14.324,11.521
+"41","GI-BS-05","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Girard State Forest",15,14.191,13.37
+"42","GI-US-01","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Girard State Forest",13,11.339,9.529
+"43","GI-US-02","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Girard State Forest",8,7.493,7.111
+"44","GI-US-03","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Girard State Forest",8,7.327,6.76
+"45","GI-US-04","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Girard State Forest",13,11.909,11.077
+"46","GI-US-05","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Girard State Forest",11,10.364,9.783
+"47","GL-BS-01","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Gilgury 1",16,13.592,11.25
+"48","GL-BS-02","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Gilgury 1",16,13.757,11.951
+"49","GL-BS-03","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Gilgury 2",16,12.985,10.371
+"50","GL-BS-04","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Gilgury 2",11,10.106,9.323
+"51","GL-US-01","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Gilgury 1",18,12.38,8.395
+"52","GL-US-02","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Gilgury 1",18,16.64,15.517
+"53","GL-US-03","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Gilgury 2",14,4.712,2.383
+"54","GL-US-04","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Gilgury 2",11,8.996,7.049
+"55","MN-BR-01","RainforestBurnt","Burnt","Rainforest","Mount Nardi",7,6.447,6
+"56","MN-UR-01","RainforestUnburnt","Unburnt","Rainforest","Mount Nardi",16,14.27,12.522
+"57","MP-BS-01","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Mount Pikapene",14,5.542,2.852
+"58","MP-BS-02","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Mount Pikapene",12,11.308,10.704
+"59","MP-US-01","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Mount Pikapene",18,13.272,9.066
+"60","MP-US-02","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Mount Pikapene",14,11.325,8.672
+"61","TC-BR-01","RainforestBurnt","Burnt","Rainforest","Terania Creek",14,11.572,9.657
+"62","TC-BR-02","RainforestBurnt","Burnt","Rainforest","Terania Creek",16,15.43,14.727
+"63","TC-BR-03","RainforestBurnt","Burnt","Rainforest","Terania Creek",12,10.965,9.966
+"64","TC-BR-04","RainforestBurnt","Burnt","Rainforest","Terania Creek",18,14.057,11
+"65","TC-UR-01","RainforestUnburnt","Unburnt","Rainforest","Terania Creek",12,10.157,8.672
+"66","TC-UR-02","RainforestUnburnt","Unburnt","Rainforest","Terania Creek",14,12.617,11.52
+"67","TC-UR-03","RainforestUnburnt","Unburnt","Rainforest","Terania Creek",15,13.821,12.737
+"68","TC-UR-04","RainforestUnburnt","Unburnt","Rainforest","Terania Creek",19,16.75,14.519
+"69","TL-BR-01","RainforestBurnt","Burnt","Rainforest","Tooloom",14,11.545,9.151
+"70","TL-BS-01","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Captains Creek",17,9.503,5.163
+"71","TL-BS-02","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Captains Creek",20,11.284,6.507
+"72","TL-BS-03","Dry SclerophyllBurnt","Burnt","Dry Sclerophyll","Captains Creek",16,15.074,14.235
+"73","TL-UR-01","RainforestUnburnt","Unburnt","Rainforest","Tooloom",17,14.258,12.298
+"74","TL-US-01","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Captains Creek",14,11.989,10.051
+"75","TL-US-02","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Captains Creek",19,14.252,9.707
+"76","TL-US-03","Dry SclerophyllUnburnt","Unburnt","Dry Sclerophyll","Captains Creek",19,7.79,3.696
+"77","WP-BR-01","RainforestBurnt","Burnt","Rainforest","Washpool National Park",15,12.585,10.593
+"78","WP-BR-02","RainforestBurnt","Burnt","Rainforest","Washpool National Park",13,11.741,10.667
+"79","WP-UR-01","RainforestUnburnt","Unburnt","Rainforest","Washpool National Park",16,13.324,11.2
+"80","WP-UR-02","RainforestUnburnt","Unburnt","Rainforest","Washpool National Park",11,10.691,10.286

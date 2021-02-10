@@ -99,6 +99,7 @@ div4mod <- diversity %>%
   rename(Shannon_diversity = "Shannon diversity") %>%
   rename(Simpson_diversity = "Simpson diversity") %>% 
   rename(Species_richness = "Species richness")
+write.csv(div4mod, "Data/Processed/diversity.csv")
 
 #make model
 ## Shannon

@@ -1,0 +1,238 @@
+"","Species","Fire","Formation","Treatment","X99_Body_mass_average_8","X163_Food_Fruit_10","X164_Food_Nectar_or_pollen_10","X165_Food_Seeds_10","X166_Food_Foliage_or_herbs_10","X167_Food_Corms_or_tubers","X168_Food_Terrestrial_invertebrates_10","X169_Food_Terrestrial_vertebrates_10","X170_Food_Carrion_10","X171_Food_Intertidal_invertebrates_10","X172_Food_Fish_or_invertebrates_Marine_10","X173_Food_fish_or_invertebrates_Inland_waters_10"
+"1","Australian Brush-turkey","Unburnt","Rainforest","RainforestUnburnt","2230",1,0,1,1,0,1,1,0,0,0,0
+"2","White-headed Pigeon","Burnt","Rainforest","RainforestBurnt","420",1,0,1,0,0,0,0,0,0,0,0
+"3","White-headed Pigeon","Unburnt","Rainforest","RainforestUnburnt","420",1,0,1,0,0,0,0,0,0,0,0
+"4","Brown Cuckoo-Dove","Burnt","Rainforest","RainforestBurnt","202",1,0,1,0,0,0,0,0,0,0,0
+"5","Brown Cuckoo-Dove","Unburnt","Rainforest","RainforestUnburnt","202",1,0,1,0,0,0,0,0,0,0,0
+"6","Brown Cuckoo-Dove","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","202",1,0,1,0,0,0,0,0,0,0,0
+"7","Brown Cuckoo-Dove","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","202",1,0,1,0,0,0,0,0,0,0,0
+"8","Wonga Pigeon","Burnt","Rainforest","RainforestBurnt","429",1,0,1,0,0,0,0,0,0,0,0
+"9","Wonga Pigeon","Unburnt","Rainforest","RainforestUnburnt","429",1,0,1,0,0,0,0,0,0,0,0
+"10","Wonga Pigeon","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","429",1,0,1,0,0,0,0,0,0,0,0
+"11","Wonga Pigeon","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","429",1,0,1,0,0,0,0,0,0,0,0
+"12","Peaceful Dove","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","45.4",0,0,1,0,0,0,0,0,0,0,0
+"13","Peaceful Dove","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","45.4",0,0,1,0,0,0,0,0,0,0,0
+"14","Bar-shouldered Dove","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","123",0,0,1,0,0,0,0,0,0,0,0
+"15","Bar-shouldered Dove","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","123",0,0,1,0,0,0,0,0,0,0,0
+"16","Brown-capped Emerald Dove","Unburnt","Rainforest","RainforestUnburnt","136",1,0,1,0,0,0,0,0,0,0,0
+"17","Brown-capped Emerald Dove","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","136",1,0,1,0,0,0,0,0,0,0,0
+"18","Wompoo Fruit-Dove","Unburnt","Rainforest","RainforestUnburnt","336",1,0,0,0,0,0,0,0,0,0,0
+"19","Wompoo Fruit-Dove","Burnt","Rainforest","RainforestBurnt","336",1,0,0,0,0,0,0,0,0,0,0
+"20","Superb Fruit-Dove","Unburnt","Rainforest","RainforestUnburnt","113",1,0,0,0,0,0,0,0,0,0,0
+"21","Superb Fruit-Dove","Burnt","Rainforest","RainforestBurnt","113",1,0,0,0,0,0,0,0,0,0,0
+"22","Rose-crowned Fruit-Dove","Unburnt","Rainforest","RainforestUnburnt","93",1,0,0,0,0,0,0,0,0,0,0
+"23","Rose-crowned Fruit-Dove","Burnt","Rainforest","RainforestBurnt","93",1,0,0,0,0,0,0,0,0,0,0
+"24","Rose-crowned Fruit-Dove","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","93",1,0,0,0,0,0,0,0,0,0,0
+"25","Topknot Pigeon","Burnt","Rainforest","RainforestBurnt","517",1,0,0,0,0,0,0,0,0,0,0
+"26","Topknot Pigeon","Unburnt","Rainforest","RainforestUnburnt","517",1,0,0,0,0,0,0,0,0,0,0
+"27","Eastern Koel","Unburnt","Rainforest","RainforestUnburnt","243",1,0,0,0,0,0,0,0,0,0,0
+"28","Eastern Koel","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","243",1,0,0,0,0,0,0,0,0,0,0
+"29","Eastern Koel","Burnt","Rainforest","RainforestBurnt","243",1,0,0,0,0,0,0,0,0,0,0
+"30","Shining Bronze-Cuckoo","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","24.2",0,0,0,0,0,1,0,0,0,0,0
+"31","Fan-tailed Cuckoo","Burnt","Rainforest","RainforestBurnt","49.9",0,0,0,0,0,1,0,0,0,0,0
+"32","Fan-tailed Cuckoo","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","49.9",0,0,0,0,0,1,0,0,0,0,0
+"33","Fan-tailed Cuckoo","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","49.9",0,0,0,0,0,1,0,0,0,0,0
+"34","Brush Cuckoo","Burnt","Rainforest","RainforestBurnt","37.4",0,0,0,0,0,1,0,0,0,0,0
+"35","Brush Cuckoo","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","37.4",0,0,0,0,0,1,0,0,0,0,0
+"36","Brush Cuckoo","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","37.4",0,0,0,0,0,1,0,0,0,0,0
+"37","Australian Owlet-nightjar","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","42.8",0,0,0,0,0,1,0,0,0,0,0
+"38","White-throated Needletail","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","119",0,0,0,0,0,1,0,0,0,0,0
+"39","White-throated Needletail","Burnt","Rainforest","RainforestBurnt","119",0,0,0,0,0,1,0,0,0,0,0
+"40","White-throated Needletail","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","119",0,0,0,0,0,1,0,0,0,0,0
+"41","Painted Button-quail","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","80.9",0,0,1,0,0,1,0,0,0,0,0
+"42","Painted Button-quail","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","80.9",0,0,1,0,0,1,0,0,0,0,0
+"43","Pacific Baza","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","327",0,0,0,0,0,1,1,0,0,0,0
+"44","Wedge-tailed Eagle","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","3630",0,0,0,0,0,0,1,1,0,0,0
+"45","Collared Sparrowhawk","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","180",0,0,0,0,0,1,1,0,0,0,0
+"46","Rainbow Bee-eater","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","28",0,0,0,0,0,1,0,0,0,0,0
+"47","Rainbow Bee-eater","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","28",0,0,0,0,0,1,0,0,0,0,0
+"48","Sacred Kingfisher","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","53.1",0,0,0,0,0,1,1,0,1,0,1
+"49","Sacred Kingfisher","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","53.1",0,0,0,0,0,1,1,0,1,0,1
+"50","Sacred Kingfisher","Burnt","Rainforest","RainforestBurnt","53.1",0,0,0,0,0,1,1,0,1,0,1
+"51","Laughing Kookaburra","Unburnt","Rainforest","RainforestUnburnt","312",0,0,0,0,0,1,1,0,0,0,1
+"52","Laughing Kookaburra","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","312",0,0,0,0,0,1,1,0,0,0,1
+"53","Laughing Kookaburra","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","312",0,0,0,0,0,1,1,0,0,0,1
+"54","Laughing Kookaburra","Burnt","Rainforest","RainforestBurnt","312",0,0,0,0,0,1,1,0,0,0,1
+"55","Glossy Black-Cockatoo","Burnt","Rainforest","RainforestBurnt","460",0,0,1,0,0,0,0,0,0,0,0
+"56","Yellow-tailed Black-Cockatoo","Burnt","Rainforest","RainforestBurnt","661",0,0,1,0,0,1,0,0,0,0,0
+"57","Yellow-tailed Black-Cockatoo","Unburnt","Rainforest","RainforestUnburnt","661",0,0,1,0,0,1,0,0,0,0,0
+"58","Yellow-tailed Black-Cockatoo","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","661",0,0,1,0,0,1,0,0,0,0,0
+"59","Sulphur-crested Cockatoo","Unburnt","Rainforest","RainforestUnburnt","735",0,0,1,0,1,0,0,0,0,0,0
+"60","Sulphur-crested Cockatoo","Burnt","Rainforest","RainforestBurnt","735",0,0,1,0,1,0,0,0,0,0,0
+"61","Sulphur-crested Cockatoo","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","735",0,0,1,0,1,0,0,0,0,0,0
+"62","Sulphur-crested Cockatoo","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","735",0,0,1,0,1,0,0,0,0,0,0
+"63","Australian King-Parrot","Unburnt","Rainforest","RainforestUnburnt","207",1,0,1,0,0,0,0,0,0,0,0
+"64","Australian King-Parrot","Burnt","Rainforest","RainforestBurnt","207",1,0,1,0,0,0,0,0,0,0,0
+"65","Australian King-Parrot","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","207",1,0,1,0,0,0,0,0,0,0,0
+"66","Australian King-Parrot","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","207",1,0,1,0,0,0,0,0,0,0,0
+"67","Crimson Rosella","Unburnt","Rainforest","RainforestUnburnt","126",1,0,1,0,0,1,0,0,0,0,0
+"68","Crimson Rosella","Burnt","Rainforest","RainforestBurnt","126",1,0,1,0,0,1,0,0,0,0,0
+"69","Crimson Rosella","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","126",1,0,1,0,0,1,0,0,0,0,0
+"70","Crimson Rosella","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","126",1,0,1,0,0,1,0,0,0,0,0
+"71","Eastern Rosella","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","104",1,0,1,0,0,0,0,0,0,0,0
+"72","Musk Lorikeet","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","70.8",1,1,0,0,0,0,0,0,0,0,0
+"73","Little Lorikeet","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","39.5",0,1,0,0,0,0,0,0,0,0,0
+"74","Little Lorikeet","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","39.5",0,1,0,0,0,0,0,0,0,0,0
+"75","Rainbow Lorikeet","Burnt","Rainforest","RainforestBurnt","126",0,1,1,0,0,0,0,0,0,0,0
+"76","Rainbow Lorikeet","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","126",0,1,1,0,0,0,0,0,0,0,0
+"77","Rainbow Lorikeet","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","126",0,1,1,0,0,0,0,0,0,0,0
+"78","Rainbow Lorikeet","Unburnt","Rainforest","RainforestUnburnt","126",0,1,1,0,0,0,0,0,0,0,0
+"79","Scaly-breasted Lorikeet","Burnt","Rainforest","RainforestBurnt","86.9",0,1,0,0,0,0,0,0,0,0,0
+"80","Scaly-breasted Lorikeet","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","86.9",0,1,0,0,0,0,0,0,0,0,0
+"81","Noisy Pitta","Burnt","Rainforest","RainforestBurnt","90.5",1,0,1,0,0,1,0,0,0,0,0
+"82","Noisy Pitta","Unburnt","Rainforest","RainforestUnburnt","90.5",1,0,1,0,0,1,0,0,0,0,0
+"83","Albert's Lyrebird","Burnt","Rainforest","RainforestBurnt","928",0,0,0,0,0,1,0,0,0,0,0
+"84","Albert's Lyrebird","Unburnt","Rainforest","RainforestUnburnt","928",0,0,0,0,0,1,0,0,0,0,0
+"85","Superb Lyrebird","Burnt","Rainforest","RainforestBurnt","1080",0,0,1,0,0,1,0,0,0,0,0
+"86","Superb Lyrebird","Unburnt","Rainforest","RainforestUnburnt","1080",0,0,1,0,0,1,0,0,0,0,0
+"87","Green Catbird","Unburnt","Rainforest","RainforestUnburnt","208",1,0,1,1,0,1,1,0,0,0,0
+"88","Green Catbird","Burnt","Rainforest","RainforestBurnt","208",1,0,1,1,0,1,1,0,0,0,0
+"89","Green Catbird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","208",1,0,1,1,0,1,1,0,0,0,0
+"90","Regent Bowerbird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","106",1,1,1,1,0,1,0,0,0,0,0
+"91","Satin Bowerbird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","202",1,1,0,1,0,0,0,0,0,0,0
+"92","Satin Bowerbird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","202",1,1,0,1,0,0,0,0,0,0,0
+"93","Satin Bowerbird","Burnt","Rainforest","RainforestBurnt","202",1,1,0,1,0,0,0,0,0,0,0
+"94","Satin Bowerbird","Unburnt","Rainforest","RainforestUnburnt","202",1,1,0,1,0,0,0,0,0,0,0
+"95","White-throated Treecreeper","Burnt","Rainforest","RainforestBurnt","20.7",0,0,0,0,0,1,0,0,0,0,0
+"96","White-throated Treecreeper","Unburnt","Rainforest","RainforestUnburnt","20.7",0,0,0,0,0,1,0,0,0,0,0
+"97","White-throated Treecreeper","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","20.7",0,0,0,0,0,1,0,0,0,0,0
+"98","White-throated Treecreeper","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","20.7",0,0,0,0,0,1,0,0,0,0,0
+"99","Variegated Fairy-wren","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","8",0,0,0,0,0,1,0,0,0,0,0
+"100","Variegated Fairy-wren","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","8",0,0,0,0,0,1,0,0,0,0,0
+"101","Superb Fairy-wren","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","10.6",1,0,1,0,0,1,0,0,0,0,0
+"102","Scarlet Honeyeater","Burnt","Rainforest","RainforestBurnt","8.3",0,1,0,0,0,1,0,0,0,0,0
+"103","Scarlet Honeyeater","Unburnt","Rainforest","RainforestUnburnt","8.3",0,1,0,0,0,1,0,0,0,0,0
+"104","Noisy Friarbird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","100",1,1,0,0,0,1,1,0,0,0,0
+"105","Noisy Friarbird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","100",1,1,0,0,0,1,1,0,0,0,0
+"106","Brown Honeyeater","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","10.8",0,1,0,0,0,1,0,0,0,0,0
+"107","Brown Honeyeater","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","10.8",0,1,0,0,0,1,0,0,0,0,0
+"108","White-cheeked Honeyeater","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","18.3",0,1,0,0,0,1,0,0,0,0,0
+"109","White-naped Honeyeater","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","14.9",0,1,0,0,0,1,0,0,0,0,0
+"110","White-naped Honeyeater","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","14.9",0,1,0,0,0,1,0,0,0,0,0
+"111","Eastern Spinebill","Unburnt","Rainforest","RainforestUnburnt","10.5",0,1,0,0,0,1,0,0,0,0,0
+"112","Eastern Spinebill","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","10.5",0,1,0,0,0,1,0,0,0,0,0
+"113","Eastern Spinebill","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","10.5",0,1,0,0,0,1,0,0,0,0,0
+"114","Eastern Spinebill","Burnt","Rainforest","RainforestBurnt","10.5",0,1,0,0,0,1,0,0,0,0,0
+"115","Lewin's Honeyeater","Burnt","Rainforest","RainforestBurnt","33.3",1,1,0,0,0,1,0,0,0,0,0
+"116","Lewin's Honeyeater","Unburnt","Rainforest","RainforestUnburnt","33.3",1,1,0,0,0,1,0,0,0,0,0
+"117","Lewin's Honeyeater","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","33.3",1,1,0,0,0,1,0,0,0,0,0
+"118","Lewin's Honeyeater","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","33.3",1,1,0,0,0,1,0,0,0,0,0
+"119","Red Wattlebird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","90.9",0,1,0,0,0,1,0,0,0,0,0
+"120","Yellow-faced Honeyeater","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","16.2",0,1,0,0,0,1,0,0,0,0,0
+"121","Yellow-faced Honeyeater","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","16.2",0,1,0,0,0,1,0,0,0,0,0
+"122","Yellow-tufted Honeyeater","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","26.8",0,1,0,0,0,1,0,0,0,0,0
+"123","Yellow-tufted Honeyeater","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","26.8",0,1,0,0,0,1,0,0,0,0,0
+"124","Bell Miner","Unburnt","Rainforest","RainforestUnburnt","31.3",0,1,0,0,0,1,0,0,0,0,0
+"125","Bell Miner","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","31.3",0,1,0,0,0,1,0,0,0,0,0
+"126","Bell Miner","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","31.3",0,1,0,0,0,1,0,0,0,0,0
+"127","Noisy Miner","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","71.3",1,1,0,0,0,1,1,0,0,0,0
+"128","Noisy Miner","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","71.3",1,1,0,0,0,1,1,0,0,0,0
+"129","Spotted Pardalote","Burnt","Rainforest","RainforestBurnt","8.5",0,0,0,0,0,1,0,0,0,0,0
+"130","Spotted Pardalote","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","8.5",0,0,0,0,0,1,0,0,0,0,0
+"131","Spotted Pardalote","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","8.5",0,0,0,0,0,1,0,0,0,0,0
+"132","Spotted Pardalote","Unburnt","Rainforest","RainforestUnburnt","8.5",0,0,0,0,0,1,0,0,0,0,0
+"133","Brown Gerygone","Burnt","Rainforest","RainforestBurnt","5.4",0,0,0,0,0,1,0,0,0,0,0
+"134","Brown Gerygone","Unburnt","Rainforest","RainforestUnburnt","5.4",0,0,0,0,0,1,0,0,0,0,0
+"135","White-throated Gerygone","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","6.5",0,0,0,0,0,1,0,0,0,0,0
+"136","White-throated Gerygone","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","6.5",0,0,0,0,0,1,0,0,0,0,0
+"137","Yellow-throated Scrubwren","Unburnt","Rainforest","RainforestUnburnt","16.6",0,0,1,0,0,1,0,0,0,0,0
+"138","Yellow-throated Scrubwren","Burnt","Rainforest","RainforestBurnt","16.6",0,0,1,0,0,1,0,0,0,0,0
+"139","White-browed Scrubwren","Burnt","Rainforest","RainforestBurnt","13.1",0,0,1,0,0,1,0,0,0,0,0
+"140","White-browed Scrubwren","Unburnt","Rainforest","RainforestUnburnt","13.1",0,0,1,0,0,1,0,0,0,0,0
+"141","White-browed Scrubwren","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","13.1",0,0,1,0,0,1,0,0,0,0,0
+"142","White-browed Scrubwren","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","13.1",0,0,1,0,0,1,0,0,0,0,0
+"143","Large-billed Scrubwren","Unburnt","Rainforest","RainforestUnburnt","9.7",0,0,0,0,0,1,0,0,0,0,0
+"144","Large-billed Scrubwren","Burnt","Rainforest","RainforestBurnt","9.7",0,0,0,0,0,1,0,0,0,0,0
+"145","Striated Thornbill","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","7.3",0,0,1,0,0,1,0,0,0,0,0
+"146","Brown Thornbill","Burnt","Rainforest","RainforestBurnt","9",0,0,1,0,0,1,0,0,0,0,0
+"147","Brown Thornbill","Unburnt","Rainforest","RainforestUnburnt","9",0,0,1,0,0,1,0,0,0,0,0
+"148","Brown Thornbill","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","9",0,0,1,0,0,1,0,0,0,0,0
+"149","Brown Thornbill","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","9",0,0,1,0,0,1,0,0,0,0,0
+"150","Australian Logrunner","Unburnt","Rainforest","RainforestUnburnt","58.8",0,0,0,0,0,1,0,0,0,0,0
+"151","Australian Logrunner","Burnt","Rainforest","RainforestBurnt","58.8",0,0,0,0,0,1,0,0,0,0,0
+"152","Varied Sittella","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","12.1",0,0,0,0,0,1,0,0,0,0,0
+"153","Barred Cuckoo-shrike","Burnt","Rainforest","RainforestBurnt","83",1,0,0,0,0,0,0,0,0,0,0
+"154","Black-faced Cuckoo-shrike","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","115",1,0,1,1,0,1,0,0,0,0,0
+"155","Black-faced Cuckoo-shrike","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","115",1,0,1,1,0,1,0,0,0,0,0
+"156","White-bellied Cuckoo-shrike","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","65.9",1,0,1,0,0,1,0,0,0,0,0
+"157","Cicadabird","Burnt","Rainforest","RainforestBurnt","65",1,0,1,0,0,1,0,0,0,0,0
+"158","Cicadabird","Unburnt","Rainforest","RainforestUnburnt","65",1,0,1,0,0,1,0,0,0,0,0
+"159","Cicadabird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","65",1,0,1,0,0,1,0,0,0,0,0
+"160","Cicadabird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","65",1,0,1,0,0,1,0,0,0,0,0
+"161","Spotted Quail-thrush","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","112",0,0,1,0,0,1,0,0,0,0,0
+"162","Rufous Whistler","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","23.5",0,0,0,0,0,1,0,0,0,0,0
+"163","Rufous Whistler","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","23.5",0,0,0,0,0,1,0,0,0,0,0
+"164","Golden Whistler","Burnt","Rainforest","RainforestBurnt","38.5",1,0,0,0,0,1,0,0,0,0,0
+"165","Golden Whistler","Unburnt","Rainforest","RainforestUnburnt","38.5",1,0,0,0,0,1,0,0,0,0,0
+"166","Golden Whistler","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","38.5",1,0,0,0,0,1,0,0,0,0,0
+"167","Golden Whistler","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","38.5",1,0,0,0,0,1,0,0,0,0,0
+"168","Little Shrike-thrush","Unburnt","Rainforest","RainforestUnburnt","38.1",0,0,0,0,0,1,0,0,0,0,0
+"169","Grey Shrike-thrush","Burnt","Rainforest","RainforestBurnt","67.5",1,0,1,0,0,1,1,0,0,0,0
+"170","Grey Shrike-thrush","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","67.5",1,0,1,0,0,1,1,0,0,0,0
+"171","Grey Shrike-thrush","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","67.5",1,0,1,0,0,1,1,0,0,0,0
+"172","Grey Shrike-thrush","Unburnt","Rainforest","RainforestUnburnt","67.5",1,0,1,0,0,1,1,0,0,0,0
+"173","Eastern Whipbird","Burnt","Rainforest","RainforestBurnt","58.7",0,0,1,0,0,1,0,0,0,0,0
+"174","Eastern Whipbird","Unburnt","Rainforest","RainforestUnburnt","58.7",0,0,1,0,0,1,0,0,0,0,0
+"175","Eastern Whipbird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","58.7",0,0,1,0,0,1,0,0,0,0,0
+"176","Eastern Whipbird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","58.7",0,0,1,0,0,1,0,0,0,0,0
+"177","Australasian Figbird","Burnt","Rainforest","RainforestBurnt","123",1,0,0,0,0,0,0,0,0,0,0
+"178","Australasian Figbird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","123",1,0,0,0,0,0,0,0,0,0,0
+"179","Olive-backed Oriole","Burnt","Rainforest","RainforestBurnt","97.2",1,0,1,0,0,1,0,0,0,0,0
+"180","Olive-backed Oriole","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","97.2",1,0,1,0,0,1,0,0,0,0,0
+"181","Olive-backed Oriole","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","97.2",1,0,1,0,0,1,0,0,0,0,0
+"182","Pied Currawong","Unburnt","Rainforest","RainforestUnburnt","308",1,0,1,0,0,1,1,0,0,0,0
+"183","Pied Currawong","Burnt","Rainforest","RainforestBurnt","308",1,0,1,0,0,1,1,0,0,0,0
+"184","Pied Currawong","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","308",1,0,1,0,0,1,1,0,0,0,0
+"185","Pied Currawong","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","308",1,0,1,0,0,1,1,0,0,0,0
+"186","Australian Magpie","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","280",0,0,1,1,0,1,1,1,0,0,0
+"187","Australian Magpie","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","280",0,0,1,1,0,1,1,1,0,0,0
+"188","Grey Butcherbird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","90.8",0,0,0,0,0,1,1,0,0,0,0
+"189","Grey Butcherbird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","90.8",0,0,0,0,0,1,1,0,0,0,0
+"190","Dusky Woodswallow","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","34.5",1,0,0,0,0,1,0,0,0,0,0
+"191","Spangled Drongo","Unburnt","Rainforest","RainforestUnburnt","79.5",0,1,0,0,0,1,1,0,0,0,0
+"192","Spangled Drongo","Burnt","Rainforest","RainforestBurnt","79.5",0,1,0,0,0,1,1,0,0,0,0
+"193","Spangled Drongo","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","79.5",0,1,0,0,0,1,1,0,0,0,0
+"194","Spangled Drongo","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","79.5",0,1,0,0,0,1,1,0,0,0,0
+"195","Willie Wagtail","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","20.7",0,0,0,0,0,1,0,0,0,0,0
+"196","Rufous Fantail","Unburnt","Rainforest","RainforestUnburnt","9.7",0,0,0,0,0,1,0,0,1,0,0
+"197","Rufous Fantail","Burnt","Rainforest","RainforestBurnt","9.7",0,0,0,0,0,1,0,0,1,0,0
+"198","Rufous Fantail","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","9.7",0,0,0,0,0,1,0,0,1,0,0
+"199","Grey Fantail","Burnt","Rainforest","RainforestBurnt","7.8",0,0,0,0,0,1,0,0,0,0,0
+"200","Grey Fantail","Unburnt","Rainforest","RainforestUnburnt","7.8",0,0,0,0,0,1,0,0,0,0,0
+"201","Grey Fantail","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","7.8",0,0,0,0,0,1,0,0,0,0,0
+"202","Grey Fantail","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","7.8",0,0,0,0,0,1,0,0,0,0,0
+"203","Torresian Crow","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","582",0,0,1,0,0,1,1,1,1,0,0
+"204","Leaden Flycatcher","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","13.5",0,0,0,0,0,1,0,0,0,0,0
+"205","Leaden Flycatcher","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","13.5",0,0,0,0,0,1,0,0,0,0,0
+"206","Leaden Flycatcher","Burnt","Rainforest","RainforestBurnt","13.5",0,0,0,0,0,1,0,0,0,0,0
+"207","Restless Flycatcher","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","16.9",0,0,0,0,0,1,0,0,0,0,0
+"208","Restless Flycatcher","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","16.9",0,0,0,0,0,1,0,0,0,0,0
+"209","Spectacled Monarch","Burnt","Rainforest","RainforestBurnt","13.1",0,0,0,0,0,1,0,0,0,0,0
+"210","Spectacled Monarch","Unburnt","Rainforest","RainforestUnburnt","13.1",0,0,0,0,0,1,0,0,0,0,0
+"211","Black-faced Monarch","Burnt","Rainforest","RainforestBurnt","22.6",0,0,0,0,0,1,0,0,0,0,0
+"212","Black-faced Monarch","Unburnt","Rainforest","RainforestUnburnt","22.6",0,0,0,0,0,1,0,0,0,0,0
+"213","Black-faced Monarch","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","22.6",0,0,0,0,0,1,0,0,0,0,0
+"214","Black-faced Monarch","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","22.6",0,0,0,0,0,1,0,0,0,0,0
+"215","Paradise Riflebird","Unburnt","Rainforest","RainforestUnburnt","121",1,0,0,0,0,1,0,0,0,0,0
+"216","Paradise Riflebird","Burnt","Rainforest","RainforestBurnt","121",1,0,0,0,0,1,0,0,0,0,0
+"217","Paradise Riflebird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","121",1,0,0,0,0,1,0,0,0,0,0
+"218","Eastern Yellow Robin","Burnt","Rainforest","RainforestBurnt","19.4",0,0,0,0,0,1,0,0,0,0,0
+"219","Eastern Yellow Robin","Unburnt","Rainforest","RainforestUnburnt","19.4",0,0,0,0,0,1,0,0,0,0,0
+"220","Eastern Yellow Robin","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","19.4",0,0,0,0,0,1,0,0,0,0,0
+"221","Eastern Yellow Robin","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","19.4",0,0,0,0,0,1,0,0,0,0,0
+"222","Pale-yellow Robin","Unburnt","Rainforest","RainforestUnburnt","13.7",0,0,0,0,0,1,0,0,0,0,0
+"223","Pale-yellow Robin","Burnt","Rainforest","RainforestBurnt","13.7",0,0,0,0,0,1,0,0,0,0,0
+"224","Mistletoebird","Burnt","Rainforest","RainforestBurnt","8.8",1,0,0,0,0,1,0,0,0,0,0
+"225","Mistletoebird","Unburnt","Rainforest","RainforestUnburnt","8.8",1,0,0,0,0,1,0,0,0,0,0
+"226","Mistletoebird","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","8.8",1,0,0,0,0,1,0,0,0,0,0
+"227","Mistletoebird","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","8.8",1,0,0,0,0,1,0,0,0,0,0
+"228","Red-browed Finch","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","9.5",0,0,1,0,0,0,0,0,0,0,0
+"229","Red-browed Finch","Burnt","Rainforest","RainforestBurnt","9.5",0,0,1,0,0,0,0,0,0,0,0
+"230","Red-browed Finch","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","9.5",0,0,1,0,0,0,0,0,0,0,0
+"231","Fairy Martin","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","10.8",0,0,0,0,0,1,0,0,0,0,0
+"232","Welcome Swallow","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","14.6",0,0,0,0,0,1,0,0,0,0,0
+"233","Silvereye","Burnt","Rainforest","RainforestBurnt","11.7",1,0,0,0,0,1,0,0,0,0,0
+"234","Silvereye","Unburnt","Rainforest","RainforestUnburnt","11.7",1,0,0,0,0,1,0,0,0,0,0
+"235","Silvereye","Burnt","Dry Sclerophyll","Dry SclerophyllBurnt","11.7",1,0,0,0,0,1,0,0,0,0,0
+"236","Silvereye","Unburnt","Dry Sclerophyll","Dry SclerophyllUnburnt","11.7",1,0,0,0,0,1,0,0,0,0,0
+"237","Russet-tailed Thrush","Unburnt","Rainforest","RainforestUnburnt","93",0,0,0,0,0,1,0,0,0,0,0
