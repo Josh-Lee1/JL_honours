@@ -1,6 +1,9 @@
 library(tidyverse)
 library(Distance)
 library(mrds)
+library(lme4)
+library(sjPlot)
+library(sjmisc)
 
 birds <- read.csv("Data/Raw/Birds.csv")
 birds$Treatment<- with(birds, paste0(Formation, Fire))
@@ -17,7 +20,7 @@ birds$Area <- as.numeric(birds$Area)
 birds$Effort <- as.numeric(birds$Effort)
 
 siteinfo <- birds %>% 
-  select(Region.Label, Fire, Formation, Treatment) %>% 
+  select(Region.Label, Fire, Formation, Treatment, Location) %>% 
   distinct() %>% 
   rename(Site = Region.Label)
 
@@ -65,5 +68,11 @@ density <- abund_table %>%
 abundplot<- ggplot(density, aes(x = Treatment, y = Estimate_abundance)) + geom_boxplot() +ylab("Abundance")
 print(abundplot)
 
-abund.aov<- aov(Estimate_abundance ~ Fire * Formation, data = density)
-summary(abund.aov)
+density.lmer<- lmer(Estimate_density ~ Formation * Fire +(1|Location), data = density)
+density.lmer2<- lmer(Estimate_density ~ Formation + (1|Location), data = density)
+
+summary(density.lmer)
+plot(density.lmer)
+anova(density.lmer2,density.lmer)
+
+plot_model(density.lmer, type = "int")

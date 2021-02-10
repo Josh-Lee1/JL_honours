@@ -123,3 +123,5 @@ confint(simpdiv)
 
 plot_model(simpdiv, type = "int")
 
+ggplot(div4mod, aes(Treatment, Shannon_diversity))+geom_boxplot()
+
