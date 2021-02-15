@@ -195,7 +195,7 @@ BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges 2,Rainfores
 BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges 2,Rainforest,Burnt,White-throated Treecreeper,1,10,SW,,Midstorey,,
 BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges 2,Rainforest,Burnt,Wompoo Fruit-Dove,1,80,NE,,,,
 BR-BR-05,23/11/2020,7:04,152.756364,-28.372234,552.432,Border Ranges 2,Rainforest,Burnt,Yellow-throated Scrubwren,2,20,E,,,,
-BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges 1,Rainforest,Unburnt,Pale-yellow Robin,3,10,E,,Understory,Active Nest,
+BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges 1,Rainforest,Unburnt,Pale-yellow Robin,3,10,E,,Understorey,Active Nest,
 BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges 1,Rainforest,Unburnt,Noisy Pitta,1,10,NW,,Ground,Present on arrival,
 BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges 1,Rainforest,Unburnt,Albert's Lyrebird,1,100,SE,,,,
 BR-UR-01,25/11/2020,6:39,152.716339,-28.349344,560.23,Border Ranges 1,Rainforest,Unburnt,Black-faced Monarch,1,60,N,,,,
@@ -514,7 +514,7 @@ FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophy
 FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophyll,Unburnt,Variegated Fairy-wren,2,40,W,6:39,,,
 FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophyll,Unburnt,White-throated Treecreeper,1,60,NE,6:35,,,
 FC-US-02,9/12/2020,6:34,152.841255,-29.447439,111.263,Fortis Creek,Dry Sclerophyll,Unburnt,White-throated Treecreeper,1,100,NW,,,,
-FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Brown Thornbill,1,5,S,7:46,Understory,,
+FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Brown Thornbill,1,5,S,7:46,Understorey,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Grey Fantail,1,80,N,7:53,,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Laughing Kookaburra,2,100,W,,,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Laughing Kookaburra,2,200,S,7:50,,,
@@ -524,7 +524,7 @@ FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyl
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Rainbow Lorikeet,8,30,W,,,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Rainbow Lorikeet,1,10,N,7:54,Flyover,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Rufous Whistler,1,70,SE,7:52,,,
-FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Variegated Fairy-wren,4,5,S,7:45,Understory,,
+FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Variegated Fairy-wren,4,5,S,7:45,Understorey,,
 FC-US-03,9/12/2020,7:45,152.837279,-29.443808,84.644,Fortis Creek,Dry Sclerophyll,Unburnt,Yellow-faced Honeyeater,1,80,S,,,,
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,Brown Cuckoo-Dove,1,80,NW,,,,Unburnt 60m NE
 GG-BR-01,21/12/2020,6:01,153.33192,-28.574153,NA,Gibbergunya Range Road,Rainforest,Burnt,Brown Cuckoo-Dove,1,100,N,,,,Unburnt 60m NE

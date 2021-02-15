@@ -86,7 +86,6 @@ density<- read.csv("Data/Processed/density.csv") %>%
 diversity <- read.csv("Data/Processed/diversity.csv") %>% 
   select(Site, Species_richness, Shannon_diversity, Simpson_diversity)
 
-# problem here...????
 
 df2 <- df1 %>% 
   right_join(veginfo, by = "Site") %>% 
