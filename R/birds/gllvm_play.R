@@ -1,27 +1,31 @@
 library(gllvm)
 library(tidyverse)
 
+#read in data created in Traits.R
 df <- read.csv("Data/Processed/ALLdata.csv") %>% 
   select(-c(X)) %>% 
   mutate(Burnt = Fire =="Burnt") %>% 
   mutate(Rainforest = Formation =="Rainforest")
 
+#make some string changes so it will work with gllvm
 df$Burnt<- as.integer(as.logical(df$Burnt))
 df$Rainforest<- as.integer(as.logical(df$Rainforest))
 
 df$location.id <- as.numeric(factor(df$Location, 
                                            levels=unique(df$Location)))
 
-
+#run the mod
 mod<- gllvm(formula = Count ~ Burnt * Rainforest + location.id, data = df, num.lv = 2, 
       family = "negative.binomial")
+
+#check assumptions
 plot(mod)
 mod$params
-coefplot(mod, which.Xcoef = "Burnt:Rainforest")
+coefplot(mod)
 
 mod.null <-  gllvm ( data = df , formula = Count ~ Burnt + Rainforest + location.id, num.lv = 2, family = "negative.binomial")
 
-anova(mod.null , mod )
+anova(mod.null , mod)
 
 
 
