@@ -5,6 +5,8 @@ library(iNEXT)
 library(lme4)
 library(sjPlot)
 library(sjmisc)
+library(pbkrtest)
+
 
 
 #Species Richness
@@ -109,6 +111,8 @@ shandiv2<- lmer(Shannon_diversity ~ Formation + (1|Location), data = div4mod)
 summary(shandiv)
 plot(shandiv)
 anova(shandiv2,shandiv)
+confint.merMod(shandiv, method= "boot")
+
 
 plot_model(shandiv, type = "int")
 

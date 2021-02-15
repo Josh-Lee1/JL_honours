@@ -1,238 +1,1074 @@
-,,Species,Fire,Formation,Treatment,X99_Body_mass_average_8,X163_Food_Fruit_10,X164_Food_Nectar_or_pollen_10,X165_Food_Seeds_10,X166_Food_Foliage_or_herbs_10,X167_Food_Corms_or_tubers,X168_Food_Terrestrial_invertebrates_10,X169_Food_Terrestrial_vertebrates_10,X170_Food_Carrion_10,X171_Food_Intertidal_invertebrates_10,X172_Food_Fish_or_invertebrates_Marine_10,X173_Food_fish_or_invertebrates_Inland_waters_10
-83,1,Albert's Lyrebird,Burnt,Rainforest,RainforestBurnt,928,0,0,0,0,0,1,0,0,0,0,0
-84,2,Albert's Lyrebird,Unburnt,Rainforest,RainforestUnburnt,928,0,0,0,0,0,1,0,0,0,0,0
-177,3,Australasian Figbird,Burnt,Rainforest,RainforestBurnt,123,1,0,0,0,0,0,0,0,0,0,0
-178,4,Australasian Figbird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,123,1,0,0,0,0,0,0,0,0,0,0
-1,5,Australian Brush-turkey,Unburnt,Rainforest,RainforestUnburnt,2230,1,0,1,1,0,1,1,0,0,0,0
-63,6,Australian King-Parrot,Unburnt,Rainforest,RainforestUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
-64,7,Australian King-Parrot,Burnt,Rainforest,RainforestBurnt,207,1,0,1,0,0,0,0,0,0,0,0
-65,8,Australian King-Parrot,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,207,1,0,1,0,0,0,0,0,0,0,0
-66,9,Australian King-Parrot,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
-150,10,Australian Logrunner,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
-151,11,Australian Logrunner,Burnt,Rainforest,RainforestBurnt,58.8,0,0,0,0,0,1,0,0,0,0,0
-186,12,Australian Magpie,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,280,0,0,1,1,0,1,1,1,0,0,0
-187,13,Australian Magpie,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,280,0,0,1,1,0,1,1,1,0,0,0
-37,14,Australian Owlet-nightjar,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,42.8,0,0,0,0,0,1,0,0,0,0,0
-153,15,Barred Cuckoo-shrike,Burnt,Rainforest,RainforestBurnt,83,1,0,0,0,0,0,0,0,0,0,0
-14,16,Bar-shouldered Dove,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,123,0,0,1,0,0,0,0,0,0,0,0
-15,17,Bar-shouldered Dove,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,123,0,0,1,0,0,0,0,0,0,0,0
-124,18,Bell Miner,Unburnt,Rainforest,RainforestUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
-125,19,Bell Miner,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
-126,20,Bell Miner,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,31.3,0,1,0,0,0,1,0,0,0,0,0
-154,21,Black-faced Cuckoo-shrike,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,115,1,0,1,1,0,1,0,0,0,0,0
-155,22,Black-faced Cuckoo-shrike,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,115,1,0,1,1,0,1,0,0,0,0,0
-211,23,Black-faced Monarch,Burnt,Rainforest,RainforestBurnt,22.6,0,0,0,0,0,1,0,0,0,0,0
-212,24,Black-faced Monarch,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
-213,25,Black-faced Monarch,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,22.6,0,0,0,0,0,1,0,0,0,0,0
-214,26,Black-faced Monarch,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
-4,27,Brown Cuckoo-Dove,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
-5,28,Brown Cuckoo-Dove,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
-6,29,Brown Cuckoo-Dove,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,0,1,0,0,0,0,0,0,0,0
-7,30,Brown Cuckoo-Dove,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
-133,31,Brown Gerygone,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
-134,32,Brown Gerygone,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
-106,33,Brown Honeyeater,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.8,0,1,0,0,0,1,0,0,0,0,0
-107,34,Brown Honeyeater,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.8,0,1,0,0,0,1,0,0,0,0,0
-146,35,Brown Thornbill,Burnt,Rainforest,RainforestBurnt,9,0,0,1,0,0,1,0,0,0,0,0
-147,36,Brown Thornbill,Unburnt,Rainforest,RainforestUnburnt,9,0,0,1,0,0,1,0,0,0,0,0
-148,37,Brown Thornbill,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9,0,0,1,0,0,1,0,0,0,0,0
-149,38,Brown Thornbill,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9,0,0,1,0,0,1,0,0,0,0,0
-16,39,Brown-capped Emerald Dove,Unburnt,Rainforest,RainforestUnburnt,136,1,0,1,0,0,0,0,0,0,0,0
-17,40,Brown-capped Emerald Dove,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,136,1,0,1,0,0,0,0,0,0,0,0
-34,41,Brush Cuckoo,Burnt,Rainforest,RainforestBurnt,37.4,0,0,0,0,0,1,0,0,0,0,0
-35,42,Brush Cuckoo,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,37.4,0,0,0,0,0,1,0,0,0,0,0
-36,43,Brush Cuckoo,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,37.4,0,0,0,0,0,1,0,0,0,0,0
-157,44,Cicadabird,Burnt,Rainforest,RainforestBurnt,65,1,0,1,0,0,1,0,0,0,0,0
-158,45,Cicadabird,Unburnt,Rainforest,RainforestUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
-159,46,Cicadabird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
-160,47,Cicadabird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
-45,48,Collared Sparrowhawk,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,180,0,0,0,0,0,1,1,0,0,0,0
-67,49,Crimson Rosella,Unburnt,Rainforest,RainforestUnburnt,126,1,0,1,0,0,1,0,0,0,0,0
-68,50,Crimson Rosella,Burnt,Rainforest,RainforestBurnt,126,1,0,1,0,0,1,0,0,0,0,0
-69,51,Crimson Rosella,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,1,0,1,0,0,1,0,0,0,0,0
-70,52,Crimson Rosella,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,126,1,0,1,0,0,1,0,0,0,0,0
-190,53,Dusky Woodswallow,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,34.5,1,0,0,0,0,1,0,0,0,0,0
-27,54,Eastern Koel,Unburnt,Rainforest,RainforestUnburnt,243,1,0,0,0,0,0,0,0,0,0,0
-28,55,Eastern Koel,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,243,1,0,0,0,0,0,0,0,0,0,0
-29,56,Eastern Koel,Burnt,Rainforest,RainforestBurnt,243,1,0,0,0,0,0,0,0,0,0,0
-71,57,Eastern Rosella,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,104,1,0,1,0,0,0,0,0,0,0,0
-111,58,Eastern Spinebill,Unburnt,Rainforest,RainforestUnburnt,10.5,0,1,0,0,0,1,0,0,0,0,0
-112,59,Eastern Spinebill,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.5,0,1,0,0,0,1,0,0,0,0,0
-113,60,Eastern Spinebill,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.5,0,1,0,0,0,1,0,0,0,0,0
-114,61,Eastern Spinebill,Burnt,Rainforest,RainforestBurnt,10.5,0,1,0,0,0,1,0,0,0,0,0
-173,62,Eastern Whipbird,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
-174,63,Eastern Whipbird,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
-175,64,Eastern Whipbird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
-176,65,Eastern Whipbird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
-218,66,Eastern Yellow Robin,Burnt,Rainforest,RainforestBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
-219,67,Eastern Yellow Robin,Unburnt,Rainforest,RainforestUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
-220,68,Eastern Yellow Robin,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
-221,69,Eastern Yellow Robin,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
-231,70,Fairy Martin,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.8,0,0,0,0,0,1,0,0,0,0,0
-31,71,Fan-tailed Cuckoo,Burnt,Rainforest,RainforestBurnt,49.9,0,0,0,0,0,1,0,0,0,0,0
-32,72,Fan-tailed Cuckoo,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,49.9,0,0,0,0,0,1,0,0,0,0,0
-33,73,Fan-tailed Cuckoo,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,49.9,0,0,0,0,0,1,0,0,0,0,0
-55,74,Glossy Black-Cockatoo,Burnt,Rainforest,RainforestBurnt,460,0,0,1,0,0,0,0,0,0,0,0
-164,75,Golden Whistler,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
-165,76,Golden Whistler,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
-166,77,Golden Whistler,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
-167,78,Golden Whistler,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
-87,79,Green Catbird,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
-88,80,Green Catbird,Burnt,Rainforest,RainforestBurnt,208,1,0,1,1,0,1,1,0,0,0,0
-89,81,Green Catbird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
-188,82,Grey Butcherbird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,90.8,0,0,0,0,0,1,1,0,0,0,0
-189,83,Grey Butcherbird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,90.8,0,0,0,0,0,1,1,0,0,0,0
-199,84,Grey Fantail,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
-200,85,Grey Fantail,Unburnt,Rainforest,RainforestUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
-201,86,Grey Fantail,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
-202,87,Grey Fantail,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
-169,88,Grey Shrike-thrush,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
-170,89,Grey Shrike-thrush,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
-171,90,Grey Shrike-thrush,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
-172,91,Grey Shrike-thrush,Unburnt,Rainforest,RainforestUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
-143,92,Large-billed Scrubwren,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
-144,93,Large-billed Scrubwren,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,0,0,0
-51,94,Laughing Kookaburra,Unburnt,Rainforest,RainforestUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
-52,95,Laughing Kookaburra,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
-53,96,Laughing Kookaburra,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
-54,97,Laughing Kookaburra,Burnt,Rainforest,RainforestBurnt,312,0,0,0,0,0,1,1,0,0,0,1
-204,98,Leaden Flycatcher,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.5,0,0,0,0,0,1,0,0,0,0,0
-205,99,Leaden Flycatcher,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.5,0,0,0,0,0,1,0,0,0,0,0
-206,100,Leaden Flycatcher,Burnt,Rainforest,RainforestBurnt,13.5,0,0,0,0,0,1,0,0,0,0,0
-115,101,Lewin's Honeyeater,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
-116,102,Lewin's Honeyeater,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
-117,103,Lewin's Honeyeater,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
-118,104,Lewin's Honeyeater,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
-73,105,Little Lorikeet,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,39.5,0,1,0,0,0,0,0,0,0,0,0
-74,106,Little Lorikeet,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,39.5,0,1,0,0,0,0,0,0,0,0,0
-168,107,Little Shrike-thrush,Unburnt,Rainforest,RainforestUnburnt,38.1,0,0,0,0,0,1,0,0,0,0,0
-224,108,Mistletoebird,Burnt,Rainforest,RainforestBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
-225,109,Mistletoebird,Unburnt,Rainforest,RainforestUnburnt,8.8,1,0,0,0,0,1,0,0,0,0,0
-226,110,Mistletoebird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
-227,111,Mistletoebird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.8,1,0,0,0,0,1,0,0,0,0,0
-72,112,Musk Lorikeet,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,70.8,1,1,0,0,0,0,0,0,0,0,0
-104,113,Noisy Friarbird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
-105,114,Noisy Friarbird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
-127,115,Noisy Miner,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,71.3,1,1,0,0,0,1,1,0,0,0,0
-128,116,Noisy Miner,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,71.3,1,1,0,0,0,1,1,0,0,0,0
-81,117,Noisy Pitta,Burnt,Rainforest,RainforestBurnt,90.5,1,0,1,0,0,1,0,0,0,0,0
-82,118,Noisy Pitta,Unburnt,Rainforest,RainforestUnburnt,90.5,1,0,1,0,0,1,0,0,0,0,0
-179,119,Olive-backed Oriole,Burnt,Rainforest,RainforestBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
-180,120,Olive-backed Oriole,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
-181,121,Olive-backed Oriole,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
-43,122,Pacific Baza,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,327,0,0,0,0,0,1,1,0,0,0,0
-41,123,Painted Button-quail,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,80.9,0,0,1,0,0,1,0,0,0,0,0
-42,124,Painted Button-quail,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,80.9,0,0,1,0,0,1,0,0,0,0,0
-222,125,Pale-yellow Robin,Unburnt,Rainforest,RainforestUnburnt,13.7,0,0,0,0,0,1,0,0,0,0,0
-223,126,Pale-yellow Robin,Burnt,Rainforest,RainforestBurnt,13.7,0,0,0,0,0,1,0,0,0,0,0
-215,127,Paradise Riflebird,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
-216,128,Paradise Riflebird,Burnt,Rainforest,RainforestBurnt,121,1,0,0,0,0,1,0,0,0,0,0
-217,129,Paradise Riflebird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,121,1,0,0,0,0,1,0,0,0,0,0
-12,130,Peaceful Dove,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,45.4,0,0,1,0,0,0,0,0,0,0,0
-13,131,Peaceful Dove,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
-182,132,Pied Currawong,Unburnt,Rainforest,RainforestUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
-183,133,Pied Currawong,Burnt,Rainforest,RainforestBurnt,308,1,0,1,0,0,1,1,0,0,0,0
-184,134,Pied Currawong,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,308,1,0,1,0,0,1,1,0,0,0,0
-185,135,Pied Currawong,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
-46,136,Rainbow Bee-eater,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,28,0,0,0,0,0,1,0,0,0,0,0
-47,137,Rainbow Bee-eater,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,28,0,0,0,0,0,1,0,0,0,0,0
-75,138,Rainbow Lorikeet,Burnt,Rainforest,RainforestBurnt,126,0,1,1,0,0,0,0,0,0,0,0
-76,139,Rainbow Lorikeet,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,0,1,1,0,0,0,0,0,0,0,0
-77,140,Rainbow Lorikeet,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,126,0,1,1,0,0,0,0,0,0,0,0
-78,141,Rainbow Lorikeet,Unburnt,Rainforest,RainforestUnburnt,126,0,1,1,0,0,0,0,0,0,0,0
-119,142,Red Wattlebird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,90.9,0,1,0,0,0,1,0,0,0,0,0
-228,143,Red-browed Finch,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
-229,144,Red-browed Finch,Burnt,Rainforest,RainforestBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
-230,145,Red-browed Finch,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9.5,0,0,1,0,0,0,0,0,0,0,0
-90,146,Regent Bowerbird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,106,1,1,1,1,0,1,0,0,0,0,0
-207,147,Restless Flycatcher,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.9,0,0,0,0,0,1,0,0,0,0,0
-208,148,Restless Flycatcher,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.9,0,0,0,0,0,1,0,0,0,0,0
-22,149,Rose-crowned Fruit-Dove,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
-23,150,Rose-crowned Fruit-Dove,Burnt,Rainforest,RainforestBurnt,93,1,0,0,0,0,0,0,0,0,0,0
-24,151,Rose-crowned Fruit-Dove,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
-196,152,Rufous Fantail,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
-197,153,Rufous Fantail,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
-198,154,Rufous Fantail,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
-162,155,Rufous Whistler,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
-163,156,Rufous Whistler,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
-237,157,Russet-tailed Thrush,Unburnt,Rainforest,RainforestUnburnt,93,0,0,0,0,0,1,0,0,0,0,0
-48,158,Sacred Kingfisher,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,53.1,0,0,0,0,0,1,1,0,1,0,1
-49,159,Sacred Kingfisher,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,53.1,0,0,0,0,0,1,1,0,1,0,1
-50,160,Sacred Kingfisher,Burnt,Rainforest,RainforestBurnt,53.1,0,0,0,0,0,1,1,0,1,0,1
-91,161,Satin Bowerbird,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,1,0,1,0,0,0,0,0,0,0
-92,162,Satin Bowerbird,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,1,0,1,0,0,0,0,0,0,0
-93,163,Satin Bowerbird,Burnt,Rainforest,RainforestBurnt,202,1,1,0,1,0,0,0,0,0,0,0
-94,164,Satin Bowerbird,Unburnt,Rainforest,RainforestUnburnt,202,1,1,0,1,0,0,0,0,0,0,0
-79,165,Scaly-breasted Lorikeet,Burnt,Rainforest,RainforestBurnt,86.9,0,1,0,0,0,0,0,0,0,0,0
-80,166,Scaly-breasted Lorikeet,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,86.9,0,1,0,0,0,0,0,0,0,0,0
-102,167,Scarlet Honeyeater,Burnt,Rainforest,RainforestBurnt,8.3,0,1,0,0,0,1,0,0,0,0,0
-103,168,Scarlet Honeyeater,Unburnt,Rainforest,RainforestUnburnt,8.3,0,1,0,0,0,1,0,0,0,0,0
-30,169,Shining Bronze-Cuckoo,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,24.2,0,0,0,0,0,1,0,0,0,0,0
-233,170,Silvereye,Burnt,Rainforest,RainforestBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
-234,171,Silvereye,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
-235,172,Silvereye,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
-236,173,Silvereye,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
-191,174,Spangled Drongo,Unburnt,Rainforest,RainforestUnburnt,79.5,0,1,0,0,0,1,1,0,0,0,0
-192,175,Spangled Drongo,Burnt,Rainforest,RainforestBurnt,79.5,0,1,0,0,0,1,1,0,0,0,0
-193,176,Spangled Drongo,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,79.5,0,1,0,0,0,1,1,0,0,0,0
-194,177,Spangled Drongo,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,79.5,0,1,0,0,0,1,1,0,0,0,0
-209,178,Spectacled Monarch,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
-210,179,Spectacled Monarch,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
-129,180,Spotted Pardalote,Burnt,Rainforest,RainforestBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
-130,181,Spotted Pardalote,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
-131,182,Spotted Pardalote,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
-132,183,Spotted Pardalote,Unburnt,Rainforest,RainforestUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
-161,184,Spotted Quail-thrush,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,112,0,0,1,0,0,1,0,0,0,0,0
-145,185,Striated Thornbill,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.3,0,0,1,0,0,1,0,0,0,0,0
-59,186,Sulphur-crested Cockatoo,Unburnt,Rainforest,RainforestUnburnt,735,0,0,1,0,1,0,0,0,0,0,0
-60,187,Sulphur-crested Cockatoo,Burnt,Rainforest,RainforestBurnt,735,0,0,1,0,1,0,0,0,0,0,0
-61,188,Sulphur-crested Cockatoo,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,735,0,0,1,0,1,0,0,0,0,0,0
-62,189,Sulphur-crested Cockatoo,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,735,0,0,1,0,1,0,0,0,0,0,0
-101,190,Superb Fairy-wren,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.6,1,0,1,0,0,1,0,0,0,0,0
-20,191,Superb Fruit-Dove,Unburnt,Rainforest,RainforestUnburnt,113,1,0,0,0,0,0,0,0,0,0,0
-21,192,Superb Fruit-Dove,Burnt,Rainforest,RainforestBurnt,113,1,0,0,0,0,0,0,0,0,0,0
-85,193,Superb Lyrebird,Burnt,Rainforest,RainforestBurnt,1080,0,0,1,0,0,1,0,0,0,0,0
-86,194,Superb Lyrebird,Unburnt,Rainforest,RainforestUnburnt,1080,0,0,1,0,0,1,0,0,0,0,0
-25,195,Topknot Pigeon,Burnt,Rainforest,RainforestBurnt,517,1,0,0,0,0,0,0,0,0,0,0
-26,196,Topknot Pigeon,Unburnt,Rainforest,RainforestUnburnt,517,1,0,0,0,0,0,0,0,0,0,0
-203,197,Torresian Crow,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,582,0,0,1,0,0,1,1,1,1,0,0
-152,198,Varied Sittella,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,12.1,0,0,0,0,0,1,0,0,0,0,0
-99,199,Variegated Fairy-wren,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8,0,0,0,0,0,1,0,0,0,0,0
-100,200,Variegated Fairy-wren,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8,0,0,0,0,0,1,0,0,0,0,0
-44,201,Wedge-tailed Eagle,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,3630,0,0,0,0,0,0,1,1,0,0,0
-232,202,Welcome Swallow,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.6,0,0,0,0,0,1,0,0,0,0,0
-156,203,White-bellied Cuckoo-shrike,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65.9,1,0,1,0,0,1,0,0,0,0,0
-139,204,White-browed Scrubwren,Burnt,Rainforest,RainforestBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
-140,205,White-browed Scrubwren,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
-141,206,White-browed Scrubwren,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
-142,207,White-browed Scrubwren,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
-108,208,White-cheeked Honeyeater,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,18.3,0,1,0,0,0,1,0,0,0,0,0
-2,209,White-headed Pigeon,Burnt,Rainforest,RainforestBurnt,420,1,0,1,0,0,0,0,0,0,0,0
-3,210,White-headed Pigeon,Unburnt,Rainforest,RainforestUnburnt,420,1,0,1,0,0,0,0,0,0,0,0
-109,211,White-naped Honeyeater,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,14.9,0,1,0,0,0,1,0,0,0,0,0
-110,212,White-naped Honeyeater,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.9,0,1,0,0,0,1,0,0,0,0,0
-135,213,White-throated Gerygone,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,6.5,0,0,0,0,0,1,0,0,0,0,0
-136,214,White-throated Gerygone,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,6.5,0,0,0,0,0,1,0,0,0,0,0
-38,215,White-throated Needletail,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,119,0,0,0,0,0,1,0,0,0,0,0
-39,216,White-throated Needletail,Burnt,Rainforest,RainforestBurnt,119,0,0,0,0,0,1,0,0,0,0,0
-40,217,White-throated Needletail,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,119,0,0,0,0,0,1,0,0,0,0,0
-95,218,White-throated Treecreeper,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
-96,219,White-throated Treecreeper,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
-97,220,White-throated Treecreeper,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
-98,221,White-throated Treecreeper,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
-195,222,Willie Wagtail,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
-18,223,Wompoo Fruit-Dove,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
-19,224,Wompoo Fruit-Dove,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
-8,225,Wonga Pigeon,Burnt,Rainforest,RainforestBurnt,429,1,0,1,0,0,0,0,0,0,0,0
-9,226,Wonga Pigeon,Unburnt,Rainforest,RainforestUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
-10,227,Wonga Pigeon,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,429,1,0,1,0,0,0,0,0,0,0,0
-11,228,Wonga Pigeon,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
-120,229,Yellow-faced Honeyeater,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
-121,230,Yellow-faced Honeyeater,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
-56,231,Yellow-tailed Black-Cockatoo,Burnt,Rainforest,RainforestBurnt,661,0,0,1,0,0,1,0,0,0,0,0
-57,232,Yellow-tailed Black-Cockatoo,Unburnt,Rainforest,RainforestUnburnt,661,0,0,1,0,0,1,0,0,0,0,0
-58,233,Yellow-tailed Black-Cockatoo,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,661,0,0,1,0,0,1,0,0,0,0,0
-137,234,Yellow-throated Scrubwren,Unburnt,Rainforest,RainforestUnburnt,16.6,0,0,1,0,0,1,0,0,0,0,0
-138,235,Yellow-throated Scrubwren,Burnt,Rainforest,RainforestBurnt,16.6,0,0,1,0,0,1,0,0,0,0,0
-122,236,Yellow-tufted Honeyeater,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,26.8,0,1,0,0,0,1,0,0,0,0,0
-123,237,Yellow-tufted Honeyeater,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+,,Species,Site,Fire,Formation,Treatment,X99_Body_mass_average_8,X163_Food_Fruit_10,X164_Food_Nectar_or_pollen_10,X165_Food_Seeds_10,X166_Food_Foliage_or_herbs_10,X167_Food_Corms_or_tubers,X168_Food_Terrestrial_invertebrates_10,X169_Food_Terrestrial_vertebrates_10,X170_Food_Carrion_10,X171_Food_Intertidal_invertebrates_10,X172_Food_Fish_or_invertebrates_Marine_10,X173_Food_fish_or_invertebrates_Inland_waters_10
+273,1,Albert's Lyrebird,BF-BR-01,Burnt,Rainforest,RainforestBurnt,928,0,0,0,0,0,1,0,0,0,0,0
+274,2,Albert's Lyrebird,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,928,0,0,0,0,0,1,0,0,0,0,0
+275,3,Albert's Lyrebird,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,928,0,0,0,0,0,1,0,0,0,0,0
+276,4,Albert's Lyrebird,MN-BR-01,Burnt,Rainforest,RainforestBurnt,928,0,0,0,0,0,1,0,0,0,0,0
+277,5,Albert's Lyrebird,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,928,0,0,0,0,0,1,0,0,0,0,0
+825,6,Australasian Figbird,BR-BR-04,Burnt,Rainforest,RainforestBurnt,123,1,0,0,0,0,0,0,0,0,0,0
+826,7,Australasian Figbird,BR-BR-05,Burnt,Rainforest,RainforestBurnt,123,1,0,0,0,0,0,0,0,0,0,0
+827,8,Australasian Figbird,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,123,1,0,0,0,0,0,0,0,0,0,0
+1,9,Australian Brush-turkey,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,2230,1,0,1,1,0,1,1,0,0,0,0
+220,10,Australian King-Parrot,BF-UR-EH2,Unburnt,Rainforest,RainforestUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
+221,11,Australian King-Parrot,BR-BR-01,Burnt,Rainforest,RainforestBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+222,12,Australian King-Parrot,GG-BR-04,Burnt,Rainforest,RainforestBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+223,13,Australian King-Parrot,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
+224,14,Australian King-Parrot,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+225,15,Australian King-Parrot,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+226,16,Australian King-Parrot,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
+227,17,Australian King-Parrot,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
+228,18,Australian King-Parrot,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
+229,19,Australian King-Parrot,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+230,20,Australian King-Parrot,TC-BR-01,Burnt,Rainforest,RainforestBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+231,21,Australian King-Parrot,TC-BR-04,Burnt,Rainforest,RainforestBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+232,22,Australian King-Parrot,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
+233,23,Australian King-Parrot,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,207,1,0,1,0,0,0,0,0,0,0,0
+234,24,Australian King-Parrot,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,207,1,0,1,0,0,0,0,0,0,0,0
+611,25,Australian Logrunner,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+612,26,Australian Logrunner,BR-BR-01,Burnt,Rainforest,RainforestBurnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+613,27,Australian Logrunner,BR-BR-02,Burnt,Rainforest,RainforestBurnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+614,28,Australian Logrunner,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+615,29,Australian Logrunner,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+616,30,Australian Logrunner,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+617,31,Australian Logrunner,GG-BR-01,Burnt,Rainforest,RainforestBurnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+618,32,Australian Logrunner,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+619,33,Australian Logrunner,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+620,34,Australian Logrunner,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+621,35,Australian Logrunner,TC-BR-03,Burnt,Rainforest,RainforestBurnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+622,36,Australian Logrunner,TC-BR-04,Burnt,Rainforest,RainforestBurnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+623,37,Australian Logrunner,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+624,38,Australian Logrunner,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+625,39,Australian Logrunner,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+626,40,Australian Logrunner,WP-BR-02,Burnt,Rainforest,RainforestBurnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+627,41,Australian Logrunner,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.8,0,0,0,0,0,1,0,0,0,0,0
+864,42,Australian Magpie,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,280,0,0,1,1,0,1,1,1,0,0,0
+865,43,Australian Magpie,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,280,0,0,1,1,0,1,1,1,0,0,0
+866,44,Australian Magpie,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,280,0,0,1,1,0,1,1,1,0,0,0
+867,45,Australian Magpie,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,280,0,0,1,1,0,1,1,1,0,0,0
+868,46,Australian Magpie,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,280,0,0,1,1,0,1,1,1,0,0,0
+869,47,Australian Magpie,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,280,0,0,1,1,0,1,1,1,0,0,0
+870,48,Australian Magpie,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,280,0,0,1,1,0,1,1,1,0,0,0
+871,49,Australian Magpie,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,280,0,0,1,1,0,1,1,1,0,0,0
+872,50,Australian Magpie,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,280,0,0,1,1,0,1,1,1,0,0,0
+156,51,Australian Owlet-nightjar,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,42.8,0,0,0,0,0,1,0,0,0,0,0
+629,52,Barred Cuckoo-shrike,BR-BR-04,Burnt,Rainforest,RainforestBurnt,83,1,0,0,0,0,0,0,0,0,0,0
+630,53,Barred Cuckoo-shrike,BR-BR-05,Burnt,Rainforest,RainforestBurnt,83,1,0,0,0,0,0,0,0,0,0,0
+76,54,Bar-shouldered Dove,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,123,0,0,1,0,0,0,0,0,0,0,0
+77,55,Bar-shouldered Dove,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,123,0,0,1,0,0,0,0,0,0,0,0
+78,56,Bar-shouldered Dove,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,123,0,0,1,0,0,0,0,0,0,0,0
+79,57,Bar-shouldered Dove,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,123,0,0,1,0,0,0,0,0,0,0,0
+506,58,Bell Miner,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+507,59,Bell Miner,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+508,60,Bell Miner,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+509,61,Bell Miner,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+510,62,Bell Miner,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+511,63,Bell Miner,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+512,64,Bell Miner,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+513,65,Bell Miner,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+514,66,Bell Miner,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,31.3,0,1,0,0,0,1,0,0,0,0,0
+631,67,Black-faced Cuckoo-shrike,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,115,1,0,1,1,0,1,0,0,0,0,0
+632,68,Black-faced Cuckoo-shrike,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,115,1,0,1,1,0,1,0,0,0,0,0
+633,69,Black-faced Cuckoo-shrike,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,115,1,0,1,1,0,1,0,0,0,0,0
+975,70,Black-faced Monarch,BFEH2_s1,Burnt,Rainforest,RainforestBurnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+976,71,Black-faced Monarch,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+977,72,Black-faced Monarch,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+978,73,Black-faced Monarch,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+979,74,Black-faced Monarch,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+980,75,Black-faced Monarch,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+981,76,Black-faced Monarch,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+982,77,Black-faced Monarch,TC-BR-01,Burnt,Rainforest,RainforestBurnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+983,78,Black-faced Monarch,TC-BR-03,Burnt,Rainforest,RainforestBurnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+984,79,Black-faced Monarch,TC-BR-04,Burnt,Rainforest,RainforestBurnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+985,80,Black-faced Monarch,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+986,81,Black-faced Monarch,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+987,82,Black-faced Monarch,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+988,83,Black-faced Monarch,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+989,84,Black-faced Monarch,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+990,85,Black-faced Monarch,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+991,86,Black-faced Monarch,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+992,87,Black-faced Monarch,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,22.6,0,0,0,0,0,1,0,0,0,0,0
+8,88,Brown Cuckoo-Dove,BF-BR-01,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+9,89,Brown Cuckoo-Dove,BFEH2_s1,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+10,90,Brown Cuckoo-Dove,BFEH3_s1,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+11,91,Brown Cuckoo-Dove,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+12,92,Brown Cuckoo-Dove,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+13,93,Brown Cuckoo-Dove,BF-UR-EH2,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+14,94,Brown Cuckoo-Dove,BR-BR-01,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+15,95,Brown Cuckoo-Dove,BR-BR-02,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+16,96,Brown Cuckoo-Dove,BR-BR-03,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+17,97,Brown Cuckoo-Dove,BR-BR-04,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+18,98,Brown Cuckoo-Dove,BR-BR-05,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+19,99,Brown Cuckoo-Dove,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+20,100,Brown Cuckoo-Dove,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+21,101,Brown Cuckoo-Dove,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+22,102,Brown Cuckoo-Dove,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+23,103,Brown Cuckoo-Dove,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+24,104,Brown Cuckoo-Dove,GG-BR-01,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+25,105,Brown Cuckoo-Dove,GG-BR-02,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+26,106,Brown Cuckoo-Dove,GG-BR-03,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+27,107,Brown Cuckoo-Dove,GG-BR-04,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+28,108,Brown Cuckoo-Dove,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+29,109,Brown Cuckoo-Dove,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+30,110,Brown Cuckoo-Dove,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+31,111,Brown Cuckoo-Dove,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+32,112,Brown Cuckoo-Dove,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+33,113,Brown Cuckoo-Dove,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+34,114,Brown Cuckoo-Dove,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+35,115,Brown Cuckoo-Dove,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+36,116,Brown Cuckoo-Dove,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+37,117,Brown Cuckoo-Dove,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+38,118,Brown Cuckoo-Dove,TC-BR-01,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+39,119,Brown Cuckoo-Dove,TC-BR-02,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+40,120,Brown Cuckoo-Dove,TC-BR-03,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+41,121,Brown Cuckoo-Dove,TC-BR-04,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+42,122,Brown Cuckoo-Dove,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+43,123,Brown Cuckoo-Dove,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+44,124,Brown Cuckoo-Dove,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+45,125,Brown Cuckoo-Dove,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+46,126,Brown Cuckoo-Dove,TL-BR-01,Burnt,Rainforest,RainforestBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+47,127,Brown Cuckoo-Dove,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+48,128,Brown Cuckoo-Dove,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+49,129,Brown Cuckoo-Dove,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,0,1,0,0,0,0,0,0,0,0
+50,130,Brown Cuckoo-Dove,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+51,131,Brown Cuckoo-Dove,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+52,132,Brown Cuckoo-Dove,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+53,133,Brown Cuckoo-Dove,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,202,1,0,1,0,0,0,0,0,0,0,0
+533,134,Brown Gerygone,BFEH2_s1,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+534,135,Brown Gerygone,BFEH3_s1,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+535,136,Brown Gerygone,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+536,137,Brown Gerygone,BR-BR-01,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+537,138,Brown Gerygone,BR-BR-04,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+538,139,Brown Gerygone,BR-BR-05,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+539,140,Brown Gerygone,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+540,141,Brown Gerygone,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+541,142,Brown Gerygone,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+542,143,Brown Gerygone,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+543,144,Brown Gerygone,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+544,145,Brown Gerygone,GG-BR-02,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+545,146,Brown Gerygone,GG-BR-03,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+546,147,Brown Gerygone,GG-BR-04,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+547,148,Brown Gerygone,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+548,149,Brown Gerygone,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+549,150,Brown Gerygone,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+550,151,Brown Gerygone,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+551,152,Brown Gerygone,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+552,153,Brown Gerygone,TC-BR-01,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+553,154,Brown Gerygone,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+554,155,Brown Gerygone,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+555,156,Brown Gerygone,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+556,157,Brown Gerygone,TL-BR-01,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+557,158,Brown Gerygone,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+558,159,Brown Gerygone,WP-BR-01,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+559,160,Brown Gerygone,WP-BR-02,Burnt,Rainforest,RainforestBurnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+560,161,Brown Gerygone,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+561,162,Brown Gerygone,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,5.4,0,0,0,0,0,1,0,0,0,0,0
+409,163,Brown Honeyeater,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.8,0,1,0,0,0,1,0,0,0,0,0
+410,164,Brown Honeyeater,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.8,0,1,0,0,0,1,0,0,0,0,0
+411,165,Brown Honeyeater,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.8,0,1,0,0,0,1,0,0,0,0,0
+412,166,Brown Honeyeater,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.8,0,1,0,0,0,1,0,0,0,0,0
+413,167,Brown Honeyeater,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.8,0,1,0,0,0,1,0,0,0,0,0
+414,168,Brown Honeyeater,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.8,0,1,0,0,0,1,0,0,0,0,0
+602,169,Brown Thornbill,BFEH2_s1,Burnt,Rainforest,RainforestBurnt,9,0,0,1,0,0,1,0,0,0,0,0
+603,170,Brown Thornbill,BR-BR-02,Burnt,Rainforest,RainforestBurnt,9,0,0,1,0,0,1,0,0,0,0,0
+604,171,Brown Thornbill,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,9,0,0,1,0,0,1,0,0,0,0,0
+605,172,Brown Thornbill,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9,0,0,1,0,0,1,0,0,0,0,0
+606,173,Brown Thornbill,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9,0,0,1,0,0,1,0,0,0,0,0
+607,174,Brown Thornbill,TC-BR-02,Burnt,Rainforest,RainforestBurnt,9,0,0,1,0,0,1,0,0,0,0,0
+608,175,Brown Thornbill,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,9,0,0,1,0,0,1,0,0,0,0,0
+609,176,Brown Thornbill,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9,0,0,1,0,0,1,0,0,0,0,0
+610,177,Brown Thornbill,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9,0,0,1,0,0,1,0,0,0,0,0
+80,178,Brown-capped Emerald Dove,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,136,1,0,1,0,0,0,0,0,0,0,0
+81,179,Brown-capped Emerald Dove,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,136,1,0,1,0,0,0,0,0,0,0,0
+82,180,Brown-capped Emerald Dove,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,136,1,0,1,0,0,0,0,0,0,0,0
+83,181,Brown-capped Emerald Dove,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,136,1,0,1,0,0,0,0,0,0,0,0
+148,182,Brush Cuckoo,BR-BR-04,Burnt,Rainforest,RainforestBurnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+149,183,Brush Cuckoo,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+150,184,Brush Cuckoo,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+151,185,Brush Cuckoo,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+152,186,Brush Cuckoo,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+153,187,Brush Cuckoo,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+154,188,Brush Cuckoo,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+155,189,Brush Cuckoo,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,37.4,0,0,0,0,0,1,0,0,0,0,0
+637,190,Cicadabird,BR-BR-01,Burnt,Rainforest,RainforestBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+638,191,Cicadabird,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+639,192,Cicadabird,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+640,193,Cicadabird,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+641,194,Cicadabird,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+642,195,Cicadabird,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+643,196,Cicadabird,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+644,197,Cicadabird,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+645,198,Cicadabird,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+646,199,Cicadabird,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+647,200,Cicadabird,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+648,201,Cicadabird,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+649,202,Cicadabird,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+650,203,Cicadabird,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+651,204,Cicadabird,GG-BR-04,Burnt,Rainforest,RainforestBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+652,205,Cicadabird,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+653,206,Cicadabird,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+654,207,Cicadabird,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+655,208,Cicadabird,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+656,209,Cicadabird,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+657,210,Cicadabird,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+658,211,Cicadabird,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+659,212,Cicadabird,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+660,213,Cicadabird,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+661,214,Cicadabird,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+662,215,Cicadabird,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+663,216,Cicadabird,TC-BR-03,Burnt,Rainforest,RainforestBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+664,217,Cicadabird,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,65,1,0,1,0,0,1,0,0,0,0,0
+665,218,Cicadabird,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65,1,0,1,0,0,1,0,0,0,0,0
+172,219,Collared Sparrowhawk,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,180,0,0,0,0,0,1,1,0,0,0,0
+235,220,Crimson Rosella,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,126,1,0,1,0,0,1,0,0,0,0,0
+236,221,Crimson Rosella,GG-BR-01,Burnt,Rainforest,RainforestBurnt,126,1,0,1,0,0,1,0,0,0,0,0
+237,222,Crimson Rosella,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,126,1,0,1,0,0,1,0,0,0,0,0
+238,223,Crimson Rosella,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,1,0,1,0,0,1,0,0,0,0,0
+239,224,Crimson Rosella,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,126,1,0,1,0,0,1,0,0,0,0,0
+240,225,Crimson Rosella,TC-BR-03,Burnt,Rainforest,RainforestBurnt,126,1,0,1,0,0,1,0,0,0,0,0
+241,226,Crimson Rosella,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,1,0,1,0,0,1,0,0,0,0,0
+242,227,Crimson Rosella,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,1,0,1,0,0,1,0,0,0,0,0
+243,228,Crimson Rosella,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,1,0,1,0,0,1,0,0,0,0,0
+244,229,Crimson Rosella,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,126,1,0,1,0,0,1,0,0,0,0,0
+877,230,Dusky Woodswallow,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,34.5,1,0,0,0,0,1,0,0,0,0,0
+138,231,Eastern Koel,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,243,1,0,0,0,0,0,0,0,0,0,0
+139,232,Eastern Koel,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,243,1,0,0,0,0,0,0,0,0,0,0
+140,233,Eastern Koel,TL-BR-01,Burnt,Rainforest,RainforestBurnt,243,1,0,0,0,0,0,0,0,0,0,0
+141,234,Eastern Koel,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,243,1,0,0,0,0,0,0,0,0,0,0
+245,235,Eastern Rosella,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,104,1,0,1,0,0,0,0,0,0,0,0
+427,236,Eastern Spinebill,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,10.5,0,1,0,0,0,1,0,0,0,0,0
+428,237,Eastern Spinebill,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.5,0,1,0,0,0,1,0,0,0,0,0
+429,238,Eastern Spinebill,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.5,0,1,0,0,0,1,0,0,0,0,0
+430,239,Eastern Spinebill,MN-BR-01,Burnt,Rainforest,RainforestBurnt,10.5,0,1,0,0,0,1,0,0,0,0,0
+431,240,Eastern Spinebill,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,10.5,0,1,0,0,0,1,0,0,0,0,0
+432,241,Eastern Spinebill,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,10.5,0,1,0,0,0,1,0,0,0,0,0
+788,242,Eastern Whipbird,BR-BR-01,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+789,243,Eastern Whipbird,BR-BR-02,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+790,244,Eastern Whipbird,BR-BR-03,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+791,245,Eastern Whipbird,BR-BR-04,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+792,246,Eastern Whipbird,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+793,247,Eastern Whipbird,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+794,248,Eastern Whipbird,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+795,249,Eastern Whipbird,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+796,250,Eastern Whipbird,GG-BR-01,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+797,251,Eastern Whipbird,GG-BR-02,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+798,252,Eastern Whipbird,GG-BR-04,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+799,253,Eastern Whipbird,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+800,254,Eastern Whipbird,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+801,255,Eastern Whipbird,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+802,256,Eastern Whipbird,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+803,257,Eastern Whipbird,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+804,258,Eastern Whipbird,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+805,259,Eastern Whipbird,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+806,260,Eastern Whipbird,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+807,261,Eastern Whipbird,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+808,262,Eastern Whipbird,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+809,263,Eastern Whipbird,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+810,264,Eastern Whipbird,TC-BR-01,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+811,265,Eastern Whipbird,TC-BR-03,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+812,266,Eastern Whipbird,TC-BR-04,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+813,267,Eastern Whipbird,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+814,268,Eastern Whipbird,TL-BR-01,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+815,269,Eastern Whipbird,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+816,270,Eastern Whipbird,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+817,271,Eastern Whipbird,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+818,272,Eastern Whipbird,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+819,273,Eastern Whipbird,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+820,274,Eastern Whipbird,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+821,275,Eastern Whipbird,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+822,276,Eastern Whipbird,WP-BR-01,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+823,277,Eastern Whipbird,WP-BR-02,Burnt,Rainforest,RainforestBurnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+824,278,Eastern Whipbird,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,58.7,0,0,1,0,0,1,0,0,0,0,0
+1004,279,Eastern Yellow Robin,BR-BR-01,Burnt,Rainforest,RainforestBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1005,280,Eastern Yellow Robin,BR-BR-02,Burnt,Rainforest,RainforestBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1006,281,Eastern Yellow Robin,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1007,282,Eastern Yellow Robin,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1008,283,Eastern Yellow Robin,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1009,284,Eastern Yellow Robin,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1010,285,Eastern Yellow Robin,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1011,286,Eastern Yellow Robin,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1012,287,Eastern Yellow Robin,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1013,288,Eastern Yellow Robin,GG-BR-01,Burnt,Rainforest,RainforestBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1014,289,Eastern Yellow Robin,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1015,290,Eastern Yellow Robin,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1016,291,Eastern Yellow Robin,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1017,292,Eastern Yellow Robin,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1018,293,Eastern Yellow Robin,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1019,294,Eastern Yellow Robin,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1020,295,Eastern Yellow Robin,MN-BR-01,Burnt,Rainforest,RainforestBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1021,296,Eastern Yellow Robin,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1022,297,Eastern Yellow Robin,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1023,298,Eastern Yellow Robin,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1024,299,Eastern Yellow Robin,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1025,300,Eastern Yellow Robin,WP-BR-01,Burnt,Rainforest,RainforestBurnt,19.4,0,0,0,0,0,1,0,0,0,0,0
+1054,301,Fairy Martin,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.8,0,0,0,0,0,1,0,0,0,0,0
+143,302,Fan-tailed Cuckoo,BR-BR-03,Burnt,Rainforest,RainforestBurnt,49.9,0,0,0,0,0,1,0,0,0,0,0
+144,303,Fan-tailed Cuckoo,BR-BR-05,Burnt,Rainforest,RainforestBurnt,49.9,0,0,0,0,0,1,0,0,0,0,0
+145,304,Fan-tailed Cuckoo,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,49.9,0,0,0,0,0,1,0,0,0,0,0
+146,305,Fan-tailed Cuckoo,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,49.9,0,0,0,0,0,1,0,0,0,0,0
+147,306,Fan-tailed Cuckoo,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,49.9,0,0,0,0,0,1,0,0,0,0,0
+206,307,Glossy Black-Cockatoo,MN-BR-01,Burnt,Rainforest,RainforestBurnt,460,0,0,1,0,0,0,0,0,0,0,0
+696,308,Golden Whistler,BFEH3_s1,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+697,309,Golden Whistler,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+698,310,Golden Whistler,BR-BR-01,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+699,311,Golden Whistler,BR-BR-02,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+700,312,Golden Whistler,BR-BR-03,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+701,313,Golden Whistler,BR-BR-04,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+702,314,Golden Whistler,BR-BR-05,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+703,315,Golden Whistler,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+704,316,Golden Whistler,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+705,317,Golden Whistler,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+706,318,Golden Whistler,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+707,319,Golden Whistler,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+708,320,Golden Whistler,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+709,321,Golden Whistler,GG-BR-01,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+710,322,Golden Whistler,GG-BR-04,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+711,323,Golden Whistler,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+712,324,Golden Whistler,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+713,325,Golden Whistler,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+714,326,Golden Whistler,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+715,327,Golden Whistler,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+716,328,Golden Whistler,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+717,329,Golden Whistler,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+718,330,Golden Whistler,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+719,331,Golden Whistler,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+720,332,Golden Whistler,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+721,333,Golden Whistler,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+722,334,Golden Whistler,MN-BR-01,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+723,335,Golden Whistler,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+724,336,Golden Whistler,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+725,337,Golden Whistler,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+726,338,Golden Whistler,TC-BR-02,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+727,339,Golden Whistler,TC-BR-03,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+728,340,Golden Whistler,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+729,341,Golden Whistler,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+730,342,Golden Whistler,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+731,343,Golden Whistler,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+732,344,Golden Whistler,TL-BR-01,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+733,345,Golden Whistler,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+734,346,Golden Whistler,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+735,347,Golden Whistler,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+736,348,Golden Whistler,WP-BR-02,Burnt,Rainforest,RainforestBurnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+737,349,Golden Whistler,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+738,350,Golden Whistler,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,38.5,1,0,0,0,0,1,0,0,0,0,0
+280,351,Green Catbird,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+281,352,Green Catbird,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+282,353,Green Catbird,BF-UR-EH2,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+283,354,Green Catbird,BR-BR-02,Burnt,Rainforest,RainforestBurnt,208,1,0,1,1,0,1,1,0,0,0,0
+284,355,Green Catbird,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+285,356,Green Catbird,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+286,357,Green Catbird,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+287,358,Green Catbird,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+288,359,Green Catbird,TC-BR-02,Burnt,Rainforest,RainforestBurnt,208,1,0,1,1,0,1,1,0,0,0,0
+289,360,Green Catbird,TC-BR-04,Burnt,Rainforest,RainforestBurnt,208,1,0,1,1,0,1,1,0,0,0,0
+290,361,Green Catbird,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+291,362,Green Catbird,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+292,363,Green Catbird,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+293,364,Green Catbird,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+294,365,Green Catbird,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+295,366,Green Catbird,WP-BR-02,Burnt,Rainforest,RainforestBurnt,208,1,0,1,1,0,1,1,0,0,0,0
+296,367,Green Catbird,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+297,368,Green Catbird,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,208,1,0,1,1,0,1,1,0,0,0,0
+873,369,Grey Butcherbird,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,90.8,0,0,0,0,0,1,1,0,0,0,0
+874,370,Grey Butcherbird,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,90.8,0,0,0,0,0,1,1,0,0,0,0
+875,371,Grey Butcherbird,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,90.8,0,0,0,0,0,1,1,0,0,0,0
+876,372,Grey Butcherbird,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,90.8,0,0,0,0,0,1,1,0,0,0,0
+901,373,Grey Fantail,BFEH2_s1,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+902,374,Grey Fantail,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+903,375,Grey Fantail,BR-BR-02,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+904,376,Grey Fantail,BR-BR-04,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+905,377,Grey Fantail,BR-BR-05,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+906,378,Grey Fantail,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+907,379,Grey Fantail,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+908,380,Grey Fantail,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+909,381,Grey Fantail,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+910,382,Grey Fantail,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+911,383,Grey Fantail,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+912,384,Grey Fantail,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+913,385,Grey Fantail,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+914,386,Grey Fantail,GG-BR-01,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+915,387,Grey Fantail,GG-BR-03,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+916,388,Grey Fantail,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+917,389,Grey Fantail,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+918,390,Grey Fantail,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+919,391,Grey Fantail,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+920,392,Grey Fantail,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+921,393,Grey Fantail,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+922,394,Grey Fantail,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+923,395,Grey Fantail,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+924,396,Grey Fantail,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+925,397,Grey Fantail,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+926,398,Grey Fantail,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+927,399,Grey Fantail,TC-BR-01,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+928,400,Grey Fantail,TC-BR-02,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+929,401,Grey Fantail,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+930,402,Grey Fantail,TL-BR-01,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+931,403,Grey Fantail,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+932,404,Grey Fantail,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+933,405,Grey Fantail,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+934,406,Grey Fantail,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+935,407,Grey Fantail,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+936,408,Grey Fantail,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+937,409,Grey Fantail,WP-BR-01,Burnt,Rainforest,RainforestBurnt,7.8,0,0,0,0,0,1,0,0,0,0,0
+740,410,Grey Shrike-thrush,BR-BR-01,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+741,411,Grey Shrike-thrush,BR-BR-04,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+742,412,Grey Shrike-thrush,BR-BR-05,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+743,413,Grey Shrike-thrush,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+744,414,Grey Shrike-thrush,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+745,415,Grey Shrike-thrush,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+746,416,Grey Shrike-thrush,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+747,417,Grey Shrike-thrush,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+748,418,Grey Shrike-thrush,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+749,419,Grey Shrike-thrush,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+750,420,Grey Shrike-thrush,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+751,421,Grey Shrike-thrush,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+752,422,Grey Shrike-thrush,GG-BR-02,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+753,423,Grey Shrike-thrush,GG-BR-04,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+754,424,Grey Shrike-thrush,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+755,425,Grey Shrike-thrush,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+756,426,Grey Shrike-thrush,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+757,427,Grey Shrike-thrush,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+758,428,Grey Shrike-thrush,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+759,429,Grey Shrike-thrush,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+760,430,Grey Shrike-thrush,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+761,431,Grey Shrike-thrush,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+762,432,Grey Shrike-thrush,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+763,433,Grey Shrike-thrush,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+764,434,Grey Shrike-thrush,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+765,435,Grey Shrike-thrush,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+766,436,Grey Shrike-thrush,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+767,437,Grey Shrike-thrush,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+768,438,Grey Shrike-thrush,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+769,439,Grey Shrike-thrush,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+770,440,Grey Shrike-thrush,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+771,441,Grey Shrike-thrush,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+772,442,Grey Shrike-thrush,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+773,443,Grey Shrike-thrush,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+774,444,Grey Shrike-thrush,MN-BR-01,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+775,445,Grey Shrike-thrush,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+776,446,Grey Shrike-thrush,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+777,447,Grey Shrike-thrush,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+778,448,Grey Shrike-thrush,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+779,449,Grey Shrike-thrush,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+780,450,Grey Shrike-thrush,TC-BR-02,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+781,451,Grey Shrike-thrush,TC-BR-03,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+782,452,Grey Shrike-thrush,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+783,453,Grey Shrike-thrush,TL-BR-01,Burnt,Rainforest,RainforestBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+784,454,Grey Shrike-thrush,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+785,455,Grey Shrike-thrush,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+786,456,Grey Shrike-thrush,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+787,457,Grey Shrike-thrush,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,67.5,1,0,1,0,0,1,1,0,0,0,0
+590,458,Large-billed Scrubwren,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+591,459,Large-billed Scrubwren,BR-BR-02,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+592,460,Large-billed Scrubwren,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+593,461,Large-billed Scrubwren,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+594,462,Large-billed Scrubwren,GG-BR-01,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+595,463,Large-billed Scrubwren,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+596,464,Large-billed Scrubwren,TC-BR-04,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+597,465,Large-billed Scrubwren,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+598,466,Large-billed Scrubwren,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+599,467,Large-billed Scrubwren,WP-BR-02,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+600,468,Large-billed Scrubwren,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,0,0,0
+185,469,Laughing Kookaburra,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+186,470,Laughing Kookaburra,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+187,471,Laughing Kookaburra,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+188,472,Laughing Kookaburra,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+189,473,Laughing Kookaburra,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+190,474,Laughing Kookaburra,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+191,475,Laughing Kookaburra,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+192,476,Laughing Kookaburra,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+193,477,Laughing Kookaburra,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+194,478,Laughing Kookaburra,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+195,479,Laughing Kookaburra,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+196,480,Laughing Kookaburra,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+197,481,Laughing Kookaburra,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+198,482,Laughing Kookaburra,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+199,483,Laughing Kookaburra,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+200,484,Laughing Kookaburra,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+201,485,Laughing Kookaburra,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+202,486,Laughing Kookaburra,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+203,487,Laughing Kookaburra,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+204,488,Laughing Kookaburra,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,312,0,0,0,0,0,1,1,0,0,0,1
+205,489,Laughing Kookaburra,WP-BR-01,Burnt,Rainforest,RainforestBurnt,312,0,0,0,0,0,1,1,0,0,0,1
+941,490,Leaden Flycatcher,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+942,491,Leaden Flycatcher,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+943,492,Leaden Flycatcher,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+944,493,Leaden Flycatcher,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+945,494,Leaden Flycatcher,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+946,495,Leaden Flycatcher,GG-BR-04,Burnt,Rainforest,RainforestBurnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+947,496,Leaden Flycatcher,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+948,497,Leaden Flycatcher,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.5,0,0,0,0,0,1,0,0,0,0,0
+433,498,Lewin's Honeyeater,BF-BR-01,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+434,499,Lewin's Honeyeater,BFEH3_s1,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+435,500,Lewin's Honeyeater,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+436,501,Lewin's Honeyeater,BR-BR-01,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+437,502,Lewin's Honeyeater,BR-BR-02,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+438,503,Lewin's Honeyeater,BR-BR-03,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+439,504,Lewin's Honeyeater,BR-BR-04,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+440,505,Lewin's Honeyeater,BR-BR-05,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+441,506,Lewin's Honeyeater,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+442,507,Lewin's Honeyeater,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+443,508,Lewin's Honeyeater,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+444,509,Lewin's Honeyeater,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+445,510,Lewin's Honeyeater,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+446,511,Lewin's Honeyeater,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+447,512,Lewin's Honeyeater,GG-BR-01,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+448,513,Lewin's Honeyeater,GG-BR-02,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+449,514,Lewin's Honeyeater,GG-BR-03,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+450,515,Lewin's Honeyeater,GG-BR-04,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+451,516,Lewin's Honeyeater,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+452,517,Lewin's Honeyeater,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+453,518,Lewin's Honeyeater,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+454,519,Lewin's Honeyeater,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+455,520,Lewin's Honeyeater,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+456,521,Lewin's Honeyeater,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+457,522,Lewin's Honeyeater,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+458,523,Lewin's Honeyeater,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+459,524,Lewin's Honeyeater,TC-BR-01,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+460,525,Lewin's Honeyeater,TC-BR-02,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+461,526,Lewin's Honeyeater,TC-BR-03,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+462,527,Lewin's Honeyeater,TC-BR-04,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+463,528,Lewin's Honeyeater,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+464,529,Lewin's Honeyeater,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+465,530,Lewin's Honeyeater,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+466,531,Lewin's Honeyeater,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+467,532,Lewin's Honeyeater,TL-BR-01,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+468,533,Lewin's Honeyeater,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+469,534,Lewin's Honeyeater,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+470,535,Lewin's Honeyeater,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+471,536,Lewin's Honeyeater,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+472,537,Lewin's Honeyeater,WP-BR-01,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+473,538,Lewin's Honeyeater,WP-BR-02,Burnt,Rainforest,RainforestBurnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+474,539,Lewin's Honeyeater,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+475,540,Lewin's Honeyeater,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,33.3,1,1,0,0,0,1,0,0,0,0,0
+247,541,Little Lorikeet,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,39.5,0,1,0,0,0,0,0,0,0,0,0
+248,542,Little Lorikeet,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,39.5,0,1,0,0,0,0,0,0,0,0,0
+249,543,Little Lorikeet,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,39.5,0,1,0,0,0,0,0,0,0,0,0
+250,544,Little Lorikeet,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,39.5,0,1,0,0,0,0,0,0,0,0,0
+251,545,Little Lorikeet,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,39.5,0,1,0,0,0,0,0,0,0,0,0
+739,546,Little Shrike-thrush,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,38.1,0,0,0,0,0,1,0,0,0,0,0
+1033,547,Mistletoebird,BFEH3_s1,Burnt,Rainforest,RainforestBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1034,548,Mistletoebird,BR-BR-04,Burnt,Rainforest,RainforestBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1035,549,Mistletoebird,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1036,550,Mistletoebird,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1037,551,Mistletoebird,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1038,552,Mistletoebird,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1039,553,Mistletoebird,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1040,554,Mistletoebird,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1041,555,Mistletoebird,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1042,556,Mistletoebird,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1043,557,Mistletoebird,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1044,558,Mistletoebird,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+1045,559,Mistletoebird,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.8,1,0,0,0,0,1,0,0,0,0,0
+246,560,Musk Lorikeet,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,70.8,1,1,0,0,0,0,0,0,0,0,0
+377,561,Noisy Friarbird,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+378,562,Noisy Friarbird,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+379,563,Noisy Friarbird,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+380,564,Noisy Friarbird,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+381,565,Noisy Friarbird,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+382,566,Noisy Friarbird,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+383,567,Noisy Friarbird,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+384,568,Noisy Friarbird,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+385,569,Noisy Friarbird,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+386,570,Noisy Friarbird,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+387,571,Noisy Friarbird,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+388,572,Noisy Friarbird,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+389,573,Noisy Friarbird,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+390,574,Noisy Friarbird,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+391,575,Noisy Friarbird,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+392,576,Noisy Friarbird,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+393,577,Noisy Friarbird,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+394,578,Noisy Friarbird,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+395,579,Noisy Friarbird,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+396,580,Noisy Friarbird,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+397,581,Noisy Friarbird,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+398,582,Noisy Friarbird,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+399,583,Noisy Friarbird,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+400,584,Noisy Friarbird,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+401,585,Noisy Friarbird,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+402,586,Noisy Friarbird,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+403,587,Noisy Friarbird,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+404,588,Noisy Friarbird,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+405,589,Noisy Friarbird,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+406,590,Noisy Friarbird,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,100,1,1,0,0,0,1,1,0,0,0,0
+407,591,Noisy Friarbird,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+408,592,Noisy Friarbird,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,100,1,1,0,0,0,1,1,0,0,0,0
+515,593,Noisy Miner,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,71.3,1,1,0,0,0,1,1,0,0,0,0
+516,594,Noisy Miner,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,71.3,1,1,0,0,0,1,1,0,0,0,0
+268,595,Noisy Pitta,BR-BR-03,Burnt,Rainforest,RainforestBurnt,90.5,1,0,1,0,0,1,0,0,0,0,0
+269,596,Noisy Pitta,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,90.5,1,0,1,0,0,1,0,0,0,0,0
+270,597,Noisy Pitta,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,90.5,1,0,1,0,0,1,0,0,0,0,0
+271,598,Noisy Pitta,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,90.5,1,0,1,0,0,1,0,0,0,0,0
+272,599,Noisy Pitta,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,90.5,1,0,1,0,0,1,0,0,0,0,0
+828,600,Olive-backed Oriole,BR-BR-02,Burnt,Rainforest,RainforestBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+829,601,Olive-backed Oriole,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+830,602,Olive-backed Oriole,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+831,603,Olive-backed Oriole,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+832,604,Olive-backed Oriole,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+833,605,Olive-backed Oriole,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+834,606,Olive-backed Oriole,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+835,607,Olive-backed Oriole,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+836,608,Olive-backed Oriole,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+837,609,Olive-backed Oriole,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+838,610,Olive-backed Oriole,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+839,611,Olive-backed Oriole,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+840,612,Olive-backed Oriole,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+841,613,Olive-backed Oriole,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+842,614,Olive-backed Oriole,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+843,615,Olive-backed Oriole,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+844,616,Olive-backed Oriole,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+845,617,Olive-backed Oriole,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+846,618,Olive-backed Oriole,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+847,619,Olive-backed Oriole,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,97.2,1,0,1,0,0,1,0,0,0,0,0
+170,620,Pacific Baza,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,327,0,0,0,0,0,1,1,0,0,0,0
+162,621,Painted Button-quail,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+163,622,Painted Button-quail,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+164,623,Painted Button-quail,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+165,624,Painted Button-quail,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+166,625,Painted Button-quail,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+167,626,Painted Button-quail,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+168,627,Painted Button-quail,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+169,628,Painted Button-quail,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,80.9,0,0,1,0,0,1,0,0,0,0,0
+1026,629,Pale-yellow Robin,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,13.7,0,0,0,0,0,1,0,0,0,0,0
+1027,630,Pale-yellow Robin,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,13.7,0,0,0,0,0,1,0,0,0,0,0
+1028,631,Pale-yellow Robin,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,13.7,0,0,0,0,0,1,0,0,0,0,0
+1029,632,Pale-yellow Robin,TC-BR-01,Burnt,Rainforest,RainforestBurnt,13.7,0,0,0,0,0,1,0,0,0,0,0
+1030,633,Pale-yellow Robin,TC-BR-03,Burnt,Rainforest,RainforestBurnt,13.7,0,0,0,0,0,1,0,0,0,0,0
+1031,634,Pale-yellow Robin,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,13.7,0,0,0,0,0,1,0,0,0,0,0
+1032,635,Pale-yellow Robin,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,13.7,0,0,0,0,0,1,0,0,0,0,0
+993,636,Paradise Riflebird,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+994,637,Paradise Riflebird,BR-BR-03,Burnt,Rainforest,RainforestBurnt,121,1,0,0,0,0,1,0,0,0,0,0
+995,638,Paradise Riflebird,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+996,639,Paradise Riflebird,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+997,640,Paradise Riflebird,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+998,641,Paradise Riflebird,GG-BR-04,Burnt,Rainforest,RainforestBurnt,121,1,0,0,0,0,1,0,0,0,0,0
+999,642,Paradise Riflebird,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+1000,643,Paradise Riflebird,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+1001,644,Paradise Riflebird,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+1002,645,Paradise Riflebird,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,121,1,0,0,0,0,1,0,0,0,0,0
+1003,646,Paradise Riflebird,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,121,1,0,0,0,0,1,0,0,0,0,0
+66,647,Peaceful Dove,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+67,648,Peaceful Dove,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+68,649,Peaceful Dove,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+69,650,Peaceful Dove,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+70,651,Peaceful Dove,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+71,652,Peaceful Dove,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+72,653,Peaceful Dove,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+73,654,Peaceful Dove,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+74,655,Peaceful Dove,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+75,656,Peaceful Dove,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,45.4,0,0,1,0,0,0,0,0,0,0,0
+848,657,Pied Currawong,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+849,658,Pied Currawong,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+850,659,Pied Currawong,GG-BR-01,Burnt,Rainforest,RainforestBurnt,308,1,0,1,0,0,1,1,0,0,0,0
+851,660,Pied Currawong,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+852,661,Pied Currawong,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,308,1,0,1,0,0,1,1,0,0,0,0
+853,662,Pied Currawong,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+854,663,Pied Currawong,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+855,664,Pied Currawong,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+856,665,Pied Currawong,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,308,1,0,1,0,0,1,1,0,0,0,0
+857,666,Pied Currawong,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+858,667,Pied Currawong,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+859,668,Pied Currawong,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+860,669,Pied Currawong,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+861,670,Pied Currawong,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,308,1,0,1,0,0,1,1,0,0,0,0
+862,671,Pied Currawong,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+863,672,Pied Currawong,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,308,1,0,1,0,0,1,1,0,0,0,0
+173,673,Rainbow Bee-eater,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,28,0,0,0,0,0,1,0,0,0,0,0
+174,674,Rainbow Bee-eater,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,28,0,0,0,0,0,1,0,0,0,0,0
+175,675,Rainbow Bee-eater,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,28,0,0,0,0,0,1,0,0,0,0,0
+176,676,Rainbow Bee-eater,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,28,0,0,0,0,0,1,0,0,0,0,0
+252,677,Rainbow Lorikeet,BR-BR-02,Burnt,Rainforest,RainforestBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+253,678,Rainbow Lorikeet,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+254,679,Rainbow Lorikeet,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+255,680,Rainbow Lorikeet,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+256,681,Rainbow Lorikeet,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,126,0,1,1,0,0,0,0,0,0,0,0
+257,682,Rainbow Lorikeet,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,126,0,1,1,0,0,0,0,0,0,0,0
+258,683,Rainbow Lorikeet,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+259,684,Rainbow Lorikeet,TC-BR-02,Burnt,Rainforest,RainforestBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+260,685,Rainbow Lorikeet,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,126,0,1,1,0,0,0,0,0,0,0,0
+261,686,Rainbow Lorikeet,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+262,687,Rainbow Lorikeet,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+263,688,Rainbow Lorikeet,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,126,0,1,1,0,0,0,0,0,0,0,0
+264,689,Rainbow Lorikeet,WP-BR-01,Burnt,Rainforest,RainforestBurnt,126,0,1,1,0,0,0,0,0,0,0,0
+265,690,Rainbow Lorikeet,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,126,0,1,1,0,0,0,0,0,0,0,0
+476,691,Red Wattlebird,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,90.9,0,1,0,0,0,1,0,0,0,0,0
+1046,692,Red-browed Finch,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+1047,693,Red-browed Finch,GG-BR-04,Burnt,Rainforest,RainforestBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+1048,694,Red-browed Finch,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+1049,695,Red-browed Finch,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+1050,696,Red-browed Finch,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+1051,697,Red-browed Finch,TL-BR-01,Burnt,Rainforest,RainforestBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+1052,698,Red-browed Finch,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+1053,699,Red-browed Finch,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9.5,0,0,1,0,0,0,0,0,0,0,0
+298,700,Regent Bowerbird,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,106,1,1,1,1,0,1,0,0,0,0,0
+949,701,Restless Flycatcher,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+950,702,Restless Flycatcher,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+951,703,Restless Flycatcher,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+952,704,Restless Flycatcher,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+953,705,Restless Flycatcher,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+954,706,Restless Flycatcher,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+955,707,Restless Flycatcher,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+956,708,Restless Flycatcher,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+957,709,Restless Flycatcher,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+958,710,Restless Flycatcher,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.9,0,0,0,0,0,1,0,0,0,0,0
+109,711,Rose-crowned Fruit-Dove,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+110,712,Rose-crowned Fruit-Dove,BR-BR-01,Burnt,Rainforest,RainforestBurnt,93,1,0,0,0,0,0,0,0,0,0,0
+111,713,Rose-crowned Fruit-Dove,BR-BR-03,Burnt,Rainforest,RainforestBurnt,93,1,0,0,0,0,0,0,0,0,0,0
+112,714,Rose-crowned Fruit-Dove,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+113,715,Rose-crowned Fruit-Dove,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+114,716,Rose-crowned Fruit-Dove,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+115,717,Rose-crowned Fruit-Dove,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+116,718,Rose-crowned Fruit-Dove,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+117,719,Rose-crowned Fruit-Dove,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+118,720,Rose-crowned Fruit-Dove,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+119,721,Rose-crowned Fruit-Dove,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+120,722,Rose-crowned Fruit-Dove,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+121,723,Rose-crowned Fruit-Dove,TC-BR-02,Burnt,Rainforest,RainforestBurnt,93,1,0,0,0,0,0,0,0,0,0,0
+122,724,Rose-crowned Fruit-Dove,TC-BR-03,Burnt,Rainforest,RainforestBurnt,93,1,0,0,0,0,0,0,0,0,0,0
+123,725,Rose-crowned Fruit-Dove,TC-BR-04,Burnt,Rainforest,RainforestBurnt,93,1,0,0,0,0,0,0,0,0,0,0
+124,726,Rose-crowned Fruit-Dove,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+125,727,Rose-crowned Fruit-Dove,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+126,728,Rose-crowned Fruit-Dove,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+127,729,Rose-crowned Fruit-Dove,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+128,730,Rose-crowned Fruit-Dove,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+129,731,Rose-crowned Fruit-Dove,WP-BR-01,Burnt,Rainforest,RainforestBurnt,93,1,0,0,0,0,0,0,0,0,0,0
+130,732,Rose-crowned Fruit-Dove,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,93,1,0,0,0,0,0,0,0,0,0,0
+884,733,Rufous Fantail,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+885,734,Rufous Fantail,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+886,735,Rufous Fantail,BR-BR-01,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+887,736,Rufous Fantail,BR-BR-04,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+888,737,Rufous Fantail,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+889,738,Rufous Fantail,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+890,739,Rufous Fantail,GG-BR-01,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+891,740,Rufous Fantail,GG-BR-04,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+892,741,Rufous Fantail,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+893,742,Rufous Fantail,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+894,743,Rufous Fantail,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+895,744,Rufous Fantail,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+896,745,Rufous Fantail,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+897,746,Rufous Fantail,TL-BR-01,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+898,747,Rufous Fantail,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+899,748,Rufous Fantail,WP-BR-01,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+900,749,Rufous Fantail,WP-BR-02,Burnt,Rainforest,RainforestBurnt,9.7,0,0,0,0,0,1,0,0,1,0,0
+667,750,Rufous Whistler,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+668,751,Rufous Whistler,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+669,752,Rufous Whistler,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+670,753,Rufous Whistler,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+671,754,Rufous Whistler,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+672,755,Rufous Whistler,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+673,756,Rufous Whistler,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+674,757,Rufous Whistler,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+675,758,Rufous Whistler,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+676,759,Rufous Whistler,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+677,760,Rufous Whistler,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+678,761,Rufous Whistler,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+679,762,Rufous Whistler,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+680,763,Rufous Whistler,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+681,764,Rufous Whistler,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+682,765,Rufous Whistler,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+683,766,Rufous Whistler,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+684,767,Rufous Whistler,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+685,768,Rufous Whistler,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+686,769,Rufous Whistler,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+687,770,Rufous Whistler,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+688,771,Rufous Whistler,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+689,772,Rufous Whistler,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+690,773,Rufous Whistler,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+691,774,Rufous Whistler,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+692,775,Rufous Whistler,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+693,776,Rufous Whistler,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+694,777,Rufous Whistler,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+695,778,Rufous Whistler,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,23.5,0,0,0,0,0,1,0,0,0,0,0
+1073,779,Russet-tailed Thrush,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,93,0,0,0,0,0,1,0,0,0,0,0
+177,780,Sacred Kingfisher,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+178,781,Sacred Kingfisher,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+179,782,Sacred Kingfisher,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+180,783,Sacred Kingfisher,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+181,784,Sacred Kingfisher,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+182,785,Sacred Kingfisher,TC-BR-01,Burnt,Rainforest,RainforestBurnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+183,786,Sacred Kingfisher,TC-BR-02,Burnt,Rainforest,RainforestBurnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+184,787,Sacred Kingfisher,TC-BR-04,Burnt,Rainforest,RainforestBurnt,53.1,0,0,0,0,0,1,1,0,1,0,1
+299,788,Satin Bowerbird,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,1,0,1,0,0,0,0,0,0,0
+300,789,Satin Bowerbird,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,1,0,1,0,0,0,0,0,0,0
+301,790,Satin Bowerbird,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,1,0,1,0,0,0,0,0,0,0
+302,791,Satin Bowerbird,TC-BR-04,Burnt,Rainforest,RainforestBurnt,202,1,1,0,1,0,0,0,0,0,0,0
+303,792,Satin Bowerbird,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,202,1,1,0,1,0,0,0,0,0,0,0
+304,793,Satin Bowerbird,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,1,0,1,0,0,0,0,0,0,0
+305,794,Satin Bowerbird,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,1,0,1,0,0,0,0,0,0,0
+306,795,Satin Bowerbird,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,202,1,1,0,1,0,0,0,0,0,0,0
+307,796,Satin Bowerbird,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,202,1,1,0,1,0,0,0,0,0,0,0
+266,797,Scaly-breasted Lorikeet,GG-BR-04,Burnt,Rainforest,RainforestBurnt,86.9,0,1,0,0,0,0,0,0,0,0,0
+267,798,Scaly-breasted Lorikeet,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,86.9,0,1,0,0,0,0,0,0,0,0,0
+367,799,Scarlet Honeyeater,BFEH3_s1,Burnt,Rainforest,RainforestBurnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+368,800,Scarlet Honeyeater,BR-BR-03,Burnt,Rainforest,RainforestBurnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+369,801,Scarlet Honeyeater,BR-BR-05,Burnt,Rainforest,RainforestBurnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+370,802,Scarlet Honeyeater,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+371,803,Scarlet Honeyeater,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+372,804,Scarlet Honeyeater,TC-BR-02,Burnt,Rainforest,RainforestBurnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+373,805,Scarlet Honeyeater,TC-BR-04,Burnt,Rainforest,RainforestBurnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+374,806,Scarlet Honeyeater,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+375,807,Scarlet Honeyeater,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+376,808,Scarlet Honeyeater,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,8.3,0,1,0,0,0,1,0,0,0,0,0
+142,809,Shining Bronze-Cuckoo,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,24.2,0,0,0,0,0,1,0,0,0,0,0
+1056,810,Silvereye,BR-BR-01,Burnt,Rainforest,RainforestBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1057,811,Silvereye,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1058,812,Silvereye,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1059,813,Silvereye,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1060,814,Silvereye,TC-BR-01,Burnt,Rainforest,RainforestBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1061,815,Silvereye,TC-BR-04,Burnt,Rainforest,RainforestBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1062,816,Silvereye,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1063,817,Silvereye,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1064,818,Silvereye,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1065,819,Silvereye,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1066,820,Silvereye,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1067,821,Silvereye,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1068,822,Silvereye,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1069,823,Silvereye,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1070,824,Silvereye,WP-BR-01,Burnt,Rainforest,RainforestBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1071,825,Silvereye,WP-BR-02,Burnt,Rainforest,RainforestBurnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+1072,826,Silvereye,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,11.7,1,0,0,0,0,1,0,0,0,0,0
+878,827,Spangled Drongo,BF-UR-EH2,Unburnt,Rainforest,RainforestUnburnt,79.5,0,1,0,0,0,1,1,0,0,0,0
+879,828,Spangled Drongo,BR-BR-03,Burnt,Rainforest,RainforestBurnt,79.5,0,1,0,0,0,1,1,0,0,0,0
+880,829,Spangled Drongo,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,79.5,0,1,0,0,0,1,1,0,0,0,0
+881,830,Spangled Drongo,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,79.5,0,1,0,0,0,1,1,0,0,0,0
+882,831,Spangled Drongo,TC-BR-01,Burnt,Rainforest,RainforestBurnt,79.5,0,1,0,0,0,1,1,0,0,0,0
+959,832,Spectacled Monarch,BR-BR-01,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+960,833,Spectacled Monarch,BR-BR-02,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+961,834,Spectacled Monarch,BR-BR-03,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+962,835,Spectacled Monarch,BR-BR-05,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+963,836,Spectacled Monarch,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+964,837,Spectacled Monarch,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+965,838,Spectacled Monarch,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+966,839,Spectacled Monarch,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+967,840,Spectacled Monarch,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+968,841,Spectacled Monarch,MN-UR-01,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+969,842,Spectacled Monarch,TC-BR-01,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+970,843,Spectacled Monarch,TC-BR-02,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+971,844,Spectacled Monarch,TC-BR-04,Burnt,Rainforest,RainforestBurnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+972,845,Spectacled Monarch,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+973,846,Spectacled Monarch,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+974,847,Spectacled Monarch,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,0,0,0,1,0,0,0,0,0
+517,848,Spotted Pardalote,GG-BR-04,Burnt,Rainforest,RainforestBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+518,849,Spotted Pardalote,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+519,850,Spotted Pardalote,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+520,851,Spotted Pardalote,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+521,852,Spotted Pardalote,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+522,853,Spotted Pardalote,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+523,854,Spotted Pardalote,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+524,855,Spotted Pardalote,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+525,856,Spotted Pardalote,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+526,857,Spotted Pardalote,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+527,858,Spotted Pardalote,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+528,859,Spotted Pardalote,TC-BR-02,Burnt,Rainforest,RainforestBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+529,860,Spotted Pardalote,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+530,861,Spotted Pardalote,TL-BR-01,Burnt,Rainforest,RainforestBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+531,862,Spotted Pardalote,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+532,863,Spotted Pardalote,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8.5,0,0,0,0,0,1,0,0,0,0,0
+666,864,Spotted Quail-thrush,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,112,0,0,1,0,0,1,0,0,0,0,0
+601,865,Striated Thornbill,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,7.3,0,0,1,0,0,1,0,0,0,0,0
+211,866,Sulphur-crested Cockatoo,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,735,0,0,1,0,1,0,0,0,0,0,0
+212,867,Sulphur-crested Cockatoo,GG-BR-04,Burnt,Rainforest,RainforestBurnt,735,0,0,1,0,1,0,0,0,0,0,0
+213,868,Sulphur-crested Cockatoo,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,735,0,0,1,0,1,0,0,0,0,0,0
+214,869,Sulphur-crested Cockatoo,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,735,0,0,1,0,1,0,0,0,0,0,0
+215,870,Sulphur-crested Cockatoo,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,735,0,0,1,0,1,0,0,0,0,0,0
+216,871,Sulphur-crested Cockatoo,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,735,0,0,1,0,1,0,0,0,0,0,0
+217,872,Sulphur-crested Cockatoo,TC-BR-01,Burnt,Rainforest,RainforestBurnt,735,0,0,1,0,1,0,0,0,0,0,0
+218,873,Sulphur-crested Cockatoo,TC-BR-03,Burnt,Rainforest,RainforestBurnt,735,0,0,1,0,1,0,0,0,0,0,0
+219,874,Sulphur-crested Cockatoo,TC-BR-04,Burnt,Rainforest,RainforestBurnt,735,0,0,1,0,1,0,0,0,0,0,0
+364,875,Superb Fairy-wren,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.6,1,0,1,0,0,1,0,0,0,0,0
+365,876,Superb Fairy-wren,MP-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.6,1,0,1,0,0,1,0,0,0,0,0
+366,877,Superb Fairy-wren,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,10.6,1,0,1,0,0,1,0,0,0,0,0
+105,878,Superb Fruit-Dove,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,113,1,0,0,0,0,0,0,0,0,0,0
+106,879,Superb Fruit-Dove,BF-UR-EH2,Unburnt,Rainforest,RainforestUnburnt,113,1,0,0,0,0,0,0,0,0,0,0
+107,880,Superb Fruit-Dove,TC-BR-02,Burnt,Rainforest,RainforestBurnt,113,1,0,0,0,0,0,0,0,0,0,0
+108,881,Superb Fruit-Dove,TC-UR-02,Unburnt,Rainforest,RainforestUnburnt,113,1,0,0,0,0,0,0,0,0,0,0
+278,882,Superb Lyrebird,WP-BR-01,Burnt,Rainforest,RainforestBurnt,1080,0,0,1,0,0,1,0,0,0,0,0
+279,883,Superb Lyrebird,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,1080,0,0,1,0,0,1,0,0,0,0,0
+131,884,Topknot Pigeon,BFEH2_s1,Burnt,Rainforest,RainforestBurnt,517,1,0,0,0,0,0,0,0,0,0,0
+132,885,Topknot Pigeon,BR-BR-01,Burnt,Rainforest,RainforestBurnt,517,1,0,0,0,0,0,0,0,0,0,0
+133,886,Topknot Pigeon,BR-BR-05,Burnt,Rainforest,RainforestBurnt,517,1,0,0,0,0,0,0,0,0,0,0
+134,887,Topknot Pigeon,TC-BR-04,Burnt,Rainforest,RainforestBurnt,517,1,0,0,0,0,0,0,0,0,0,0
+135,888,Topknot Pigeon,TL-BR-01,Burnt,Rainforest,RainforestBurnt,517,1,0,0,0,0,0,0,0,0,0,0
+136,889,Topknot Pigeon,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,517,1,0,0,0,0,0,0,0,0,0,0
+137,890,Topknot Pigeon,WP-BR-01,Burnt,Rainforest,RainforestBurnt,517,1,0,0,0,0,0,0,0,0,0,0
+938,891,Torresian Crow,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,582,0,0,1,0,0,1,1,1,1,0,0
+939,892,Torresian Crow,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,582,0,0,1,0,0,1,1,1,1,0,0
+940,893,Torresian Crow,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,582,0,0,1,0,0,1,1,1,1,0,0
+628,894,Varied Sittella,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,12.1,0,0,0,0,0,1,0,0,0,0,0
+356,895,Variegated Fairy-wren,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8,0,0,0,0,0,1,0,0,0,0,0
+357,896,Variegated Fairy-wren,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8,0,0,0,0,0,1,0,0,0,0,0
+358,897,Variegated Fairy-wren,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8,0,0,0,0,0,1,0,0,0,0,0
+359,898,Variegated Fairy-wren,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8,0,0,0,0,0,1,0,0,0,0,0
+360,899,Variegated Fairy-wren,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8,0,0,0,0,0,1,0,0,0,0,0
+361,900,Variegated Fairy-wren,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8,0,0,0,0,0,1,0,0,0,0,0
+362,901,Variegated Fairy-wren,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,8,0,0,0,0,0,1,0,0,0,0,0
+363,902,Variegated Fairy-wren,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,8,0,0,0,0,0,1,0,0,0,0,0
+171,903,Wedge-tailed Eagle,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,3630,0,0,0,0,0,0,1,1,0,0,0
+1055,904,Welcome Swallow,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.6,0,0,0,0,0,1,0,0,0,0,0
+634,905,White-bellied Cuckoo-shrike,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65.9,1,0,1,0,0,1,0,0,0,0,0
+635,906,White-bellied Cuckoo-shrike,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65.9,1,0,1,0,0,1,0,0,0,0,0
+636,907,White-bellied Cuckoo-shrike,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,65.9,1,0,1,0,0,1,0,0,0,0,0
+575,908,White-browed Scrubwren,BF-BR-01,Burnt,Rainforest,RainforestBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+576,909,White-browed Scrubwren,GG-BR-03,Burnt,Rainforest,RainforestBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+577,910,White-browed Scrubwren,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+578,911,White-browed Scrubwren,GG-UR-03,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+579,912,White-browed Scrubwren,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+580,913,White-browed Scrubwren,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+581,914,White-browed Scrubwren,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+582,915,White-browed Scrubwren,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+583,916,White-browed Scrubwren,MP-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+584,917,White-browed Scrubwren,TC-BR-02,Burnt,Rainforest,RainforestBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+585,918,White-browed Scrubwren,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+586,919,White-browed Scrubwren,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+587,920,White-browed Scrubwren,WP-BR-02,Burnt,Rainforest,RainforestBurnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+588,921,White-browed Scrubwren,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+589,922,White-browed Scrubwren,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,13.1,0,0,1,0,0,1,0,0,0,0,0
+415,923,White-cheeked Honeyeater,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,18.3,0,1,0,0,0,1,0,0,0,0,0
+2,924,White-headed Pigeon,BR-BR-04,Burnt,Rainforest,RainforestBurnt,420,1,0,1,0,0,0,0,0,0,0,0
+3,925,White-headed Pigeon,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,420,1,0,1,0,0,0,0,0,0,0,0
+4,926,White-headed Pigeon,WP-BR-01,Burnt,Rainforest,RainforestBurnt,420,1,0,1,0,0,0,0,0,0,0,0
+5,927,White-headed Pigeon,WP-BR-02,Burnt,Rainforest,RainforestBurnt,420,1,0,1,0,0,0,0,0,0,0,0
+6,928,White-headed Pigeon,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,420,1,0,1,0,0,0,0,0,0,0,0
+7,929,White-headed Pigeon,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,420,1,0,1,0,0,0,0,0,0,0,0
+416,930,White-naped Honeyeater,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+417,931,White-naped Honeyeater,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+418,932,White-naped Honeyeater,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+419,933,White-naped Honeyeater,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+420,934,White-naped Honeyeater,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+421,935,White-naped Honeyeater,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+422,936,White-naped Honeyeater,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+423,937,White-naped Honeyeater,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+424,938,White-naped Honeyeater,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+425,939,White-naped Honeyeater,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+426,940,White-naped Honeyeater,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,14.9,0,1,0,0,0,1,0,0,0,0,0
+562,941,White-throated Gerygone,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,6.5,0,0,0,0,0,1,0,0,0,0,0
+563,942,White-throated Gerygone,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,6.5,0,0,0,0,0,1,0,0,0,0,0
+564,943,White-throated Gerygone,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,6.5,0,0,0,0,0,1,0,0,0,0,0
+565,944,White-throated Gerygone,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,6.5,0,0,0,0,0,1,0,0,0,0,0
+566,945,White-throated Gerygone,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,6.5,0,0,0,0,0,1,0,0,0,0,0
+567,946,White-throated Gerygone,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,6.5,0,0,0,0,0,1,0,0,0,0,0
+568,947,White-throated Gerygone,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,6.5,0,0,0,0,0,1,0,0,0,0,0
+157,948,White-throated Needletail,BY-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,119,0,0,0,0,0,1,0,0,0,0,0
+158,949,White-throated Needletail,GG-BR-01,Burnt,Rainforest,RainforestBurnt,119,0,0,0,0,0,1,0,0,0,0,0
+159,950,White-throated Needletail,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,119,0,0,0,0,0,1,0,0,0,0,0
+160,951,White-throated Needletail,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,119,0,0,0,0,0,1,0,0,0,0,0
+161,952,White-throated Needletail,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,119,0,0,0,0,0,1,0,0,0,0,0
+308,953,White-throated Treecreeper,BFEH3_s1,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+309,954,White-throated Treecreeper,BR-BR-03,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+310,955,White-throated Treecreeper,BR-BR-04,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+311,956,White-throated Treecreeper,BR-BR-05,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+312,957,White-throated Treecreeper,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+313,958,White-throated Treecreeper,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+314,959,White-throated Treecreeper,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+315,960,White-throated Treecreeper,BR-UR-05,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+316,961,White-throated Treecreeper,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+317,962,White-throated Treecreeper,BY-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+318,963,White-throated Treecreeper,BY-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+319,964,White-throated Treecreeper,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+320,965,White-throated Treecreeper,BY-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+321,966,White-throated Treecreeper,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+322,967,White-throated Treecreeper,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+323,968,White-throated Treecreeper,FC-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+324,969,White-throated Treecreeper,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+325,970,White-throated Treecreeper,FC-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+326,971,White-throated Treecreeper,GG-BR-01,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+327,972,White-throated Treecreeper,GG-BR-04,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+328,973,White-throated Treecreeper,GG-UR-02,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+329,974,White-throated Treecreeper,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+330,975,White-throated Treecreeper,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+331,976,White-throated Treecreeper,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+332,977,White-throated Treecreeper,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+333,978,White-throated Treecreeper,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+334,979,White-throated Treecreeper,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+335,980,White-throated Treecreeper,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+336,981,White-throated Treecreeper,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+337,982,White-throated Treecreeper,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+338,983,White-throated Treecreeper,GL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+339,984,White-throated Treecreeper,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+340,985,White-throated Treecreeper,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+341,986,White-throated Treecreeper,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+342,987,White-throated Treecreeper,GL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+343,988,White-throated Treecreeper,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+344,989,White-throated Treecreeper,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+345,990,White-throated Treecreeper,MN-BR-01,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+346,991,White-throated Treecreeper,MP-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+347,992,White-throated Treecreeper,TC-BR-04,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+348,993,White-throated Treecreeper,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+349,994,White-throated Treecreeper,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+350,995,White-throated Treecreeper,TL-BR-01,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+351,996,White-throated Treecreeper,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+352,997,White-throated Treecreeper,WP-BR-01,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+353,998,White-throated Treecreeper,WP-BR-02,Burnt,Rainforest,RainforestBurnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+354,999,White-throated Treecreeper,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+355,1000,White-throated Treecreeper,WP-UR-02,Unburnt,Rainforest,RainforestUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+883,1001,Willie Wagtail,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,20.7,0,0,0,0,0,1,0,0,0,0,0
+84,1002,Wompoo Fruit-Dove,BF-UR-01,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+85,1003,Wompoo Fruit-Dove,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+86,1004,Wompoo Fruit-Dove,BF-UR-EH2,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+87,1005,Wompoo Fruit-Dove,BR-BR-02,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+88,1006,Wompoo Fruit-Dove,BR-BR-03,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+89,1007,Wompoo Fruit-Dove,BR-BR-05,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+90,1008,Wompoo Fruit-Dove,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+91,1009,Wompoo Fruit-Dove,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+92,1010,Wompoo Fruit-Dove,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+93,1011,Wompoo Fruit-Dove,BR-UR-04,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+94,1012,Wompoo Fruit-Dove,GG-BR-01,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+95,1013,Wompoo Fruit-Dove,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+96,1014,Wompoo Fruit-Dove,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+97,1015,Wompoo Fruit-Dove,TC-BR-01,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+98,1016,Wompoo Fruit-Dove,TC-BR-02,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+99,1017,Wompoo Fruit-Dove,TC-BR-04,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+100,1018,Wompoo Fruit-Dove,TC-UR-01,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+101,1019,Wompoo Fruit-Dove,TC-UR-03,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+102,1020,Wompoo Fruit-Dove,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+103,1021,Wompoo Fruit-Dove,WP-BR-01,Burnt,Rainforest,RainforestBurnt,336,1,0,0,0,0,0,0,0,0,0,0
+104,1022,Wompoo Fruit-Dove,WP-UR-01,Unburnt,Rainforest,RainforestUnburnt,336,1,0,0,0,0,0,0,0,0,0,0
+54,1023,Wonga Pigeon,BF-BR-01,Burnt,Rainforest,RainforestBurnt,429,1,0,1,0,0,0,0,0,0,0,0
+55,1024,Wonga Pigeon,BR-BR-02,Burnt,Rainforest,RainforestBurnt,429,1,0,1,0,0,0,0,0,0,0,0
+56,1025,Wonga Pigeon,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
+57,1026,Wonga Pigeon,BR-UR-03,Unburnt,Rainforest,RainforestUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
+58,1027,Wonga Pigeon,GG-BR-01,Burnt,Rainforest,RainforestBurnt,429,1,0,1,0,0,0,0,0,0,0,0
+59,1028,Wonga Pigeon,GG-BR-04,Burnt,Rainforest,RainforestBurnt,429,1,0,1,0,0,0,0,0,0,0,0
+60,1029,Wonga Pigeon,GG-UR-01,Unburnt,Rainforest,RainforestUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
+61,1030,Wonga Pigeon,GG-UR-04,Unburnt,Rainforest,RainforestUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
+62,1031,Wonga Pigeon,TL-BR-01,Burnt,Rainforest,RainforestBurnt,429,1,0,1,0,0,0,0,0,0,0,0
+63,1032,Wonga Pigeon,TL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,429,1,0,1,0,0,0,0,0,0,0,0
+64,1033,Wonga Pigeon,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
+65,1034,Wonga Pigeon,TL-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,429,1,0,1,0,0,0,0,0,0,0,0
+477,1035,Yellow-faced Honeyeater,BY-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+478,1036,Yellow-faced Honeyeater,BY-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+479,1037,Yellow-faced Honeyeater,FC-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+480,1038,Yellow-faced Honeyeater,FC-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+481,1039,Yellow-faced Honeyeater,FC-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+482,1040,Yellow-faced Honeyeater,FC-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+483,1041,Yellow-faced Honeyeater,GI-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+484,1042,Yellow-faced Honeyeater,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+485,1043,Yellow-faced Honeyeater,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+486,1044,Yellow-faced Honeyeater,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+487,1045,Yellow-faced Honeyeater,GL-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+488,1046,Yellow-faced Honeyeater,GL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+489,1047,Yellow-faced Honeyeater,GL-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+490,1048,Yellow-faced Honeyeater,GL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+491,1049,Yellow-faced Honeyeater,GL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+492,1050,Yellow-faced Honeyeater,GL-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+493,1051,Yellow-faced Honeyeater,TL-BS-01,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+494,1052,Yellow-faced Honeyeater,TL-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+495,1053,Yellow-faced Honeyeater,TL-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+496,1054,Yellow-faced Honeyeater,TL-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,16.2,0,1,0,0,0,1,0,0,0,0,0
+207,1055,Yellow-tailed Black-Cockatoo,BR-BR-01,Burnt,Rainforest,RainforestBurnt,661,0,0,1,0,0,1,0,0,0,0,0
+208,1056,Yellow-tailed Black-Cockatoo,BR-UR-01,Unburnt,Rainforest,RainforestUnburnt,661,0,0,1,0,0,1,0,0,0,0,0
+209,1057,Yellow-tailed Black-Cockatoo,BR-UR-02,Unburnt,Rainforest,RainforestUnburnt,661,0,0,1,0,0,1,0,0,0,0,0
+210,1058,Yellow-tailed Black-Cockatoo,MP-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,661,0,0,1,0,0,1,0,0,0,0,0
+569,1059,Yellow-throated Scrubwren,BF-UR-03,Unburnt,Rainforest,RainforestUnburnt,16.6,0,0,1,0,0,1,0,0,0,0,0
+570,1060,Yellow-throated Scrubwren,BR-BR-05,Burnt,Rainforest,RainforestBurnt,16.6,0,0,1,0,0,1,0,0,0,0,0
+571,1061,Yellow-throated Scrubwren,GG-BR-01,Burnt,Rainforest,RainforestBurnt,16.6,0,0,1,0,0,1,0,0,0,0,0
+572,1062,Yellow-throated Scrubwren,TC-UR-04,Unburnt,Rainforest,RainforestUnburnt,16.6,0,0,1,0,0,1,0,0,0,0,0
+573,1063,Yellow-throated Scrubwren,TL-UR-01,Unburnt,Rainforest,RainforestUnburnt,16.6,0,0,1,0,0,1,0,0,0,0,0
+574,1064,Yellow-throated Scrubwren,WP-BR-02,Burnt,Rainforest,RainforestBurnt,16.6,0,0,1,0,0,1,0,0,0,0,0
+497,1065,Yellow-tufted Honeyeater,GI-BS-02,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+498,1066,Yellow-tufted Honeyeater,GI-BS-03,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+499,1067,Yellow-tufted Honeyeater,GI-BS-04,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+500,1068,Yellow-tufted Honeyeater,GI-BS-05,Burnt,Dry Sclerophyll,Dry SclerophyllBurnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+501,1069,Yellow-tufted Honeyeater,GI-US-01,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+502,1070,Yellow-tufted Honeyeater,GI-US-02,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+503,1071,Yellow-tufted Honeyeater,GI-US-03,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+504,1072,Yellow-tufted Honeyeater,GI-US-04,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,26.8,0,1,0,0,0,1,0,0,0,0,0
+505,1073,Yellow-tufted Honeyeater,GI-US-05,Unburnt,Dry Sclerophyll,Dry SclerophyllUnburnt,26.8,0,1,0,0,0,1,0,0,0,0,0

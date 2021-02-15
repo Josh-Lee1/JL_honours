@@ -10,8 +10,6 @@ birdtraits <- traits %>%
 
 #Trying to get the data to work with gllvm
 
-density<- read.csv("Data/Processed/density.csv")
-diversity <- read.csv("Data/Processed/diversity.csv")
 UG <- read.csv("Data/Processed/UGpts.csv") %>% 
   select(Group.1, sum) %>% 
   rename(Site = Group.1, UGpts = sum)
@@ -36,6 +34,7 @@ birdspread<- read.csv("Data/Processed/birdspread.csv") %>%
 
 traits<- birdtraits %>% 
   select(Species,
+         Site,
          Fire, 
          Formation, 
          Treatment,
@@ -66,11 +65,35 @@ bspread <- cbind(Species=Species, bspread)
 df1 <- bspread %>% 
   as.data.frame() %>% 
   select(Species:id) %>% 
-  left_join(df, by = "Species") %>% 
+  left_join(df, by = "Species")%>% 
   left_join(traits, by = "Species")%>%
-  select(-c(id.y, Species, id.x)) %>% 
-  rename(Species = sp) %>% 
-  select(Species, everything())
+  select(-c(Site.y, sp, Fire, Formation, Treatment))%>% 
+  rename(sp.id = Species, Species = id.x, Site = Site.x, id = id.y)
+
+##fix veg info
+veginfo <- birdtraits %>% 
+  select(Site,
+         Fire, 
+         Formation, 
+         Treatment) %>% 
+  distinct()
+
+#put density and diversity in here
+density<- read.csv("Data/Processed/density.csv") %>%
+  select(-c(X)) %>% 
+  distinct() %>% 
+  select(Site, Location, Estimate_abundance, Estimate_density)
+diversity <- read.csv("Data/Processed/diversity.csv") %>% 
+  select(Site, Species_richness, Shannon_diversity, Simpson_diversity)
+
+# problem here...????
+
+df2 <- df1 %>% 
+  right_join(veginfo, by = "Site") %>% 
+  select(sp.id, Species, Site, Treatment, everything()) %>% 
+  left_join(density, by = "Site")%>% 
+  left_join(diversity, by = "Site") %>% 
+  unique()
   
-write.csv(df1, "Data/Processed/ALLdata.csv")
+write.csv(df2, "Data/Processed/ALLdata.csv")
 

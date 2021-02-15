@@ -3,6 +3,9 @@ library(ggplot2)
 library(tidyverse)
 library(dplyr)
 library(cowplot)
+library(ggsn)
+library(ggspatial)
+
 
 #prepare df
 birds <- read.csv("Data/Raw/birds.csv")
@@ -14,6 +17,7 @@ Aus<- st_read("Data/Raw/1259030001_ste11aaust_shape/STE11aAust.shp")
 sites <- st_as_sf(siteinfo, coords = c("Longitude", "Latitude"), crs = st_crs(4326))
 wha <- st_read("Data/Raw/world_heritage_public/world_heritage_public.shp") %>% 
   filter(NAME == "Gondwana Rainforests of Australia")
+fire <- st_read("Data/Raw/NIAFED_v20200211/National_Indicative_Aggregated_Fire_Extent_Dataset_v20200211.shp")
 
 #make map
 map <- ggplot() +
@@ -24,28 +28,58 @@ map <- ggplot() +
 print(map)
 
 map1 <- ggplot() +
-  geom_sf(data=Aus, fill = "#FFFFCC") +
-  geom_sf(data=sites, aes(colour = sites$Treatment))+
+  geom_sf(data = Aus, fill = "#FFFFCC") +
+  geom_sf(data = wha, fill = NA, aes(colour = "A"), size = 1, show.legend = "line") +
+  geom_sf(data = fire, fill = NA, aes(colour = "B"), size = 1, show.legend = "line") +
+  geom_sf(data=sites, aes(colour = sites$Treatment)) +
   xlim(152.2, 153.7)+
   ylim(29.5, 28.2) +
   theme_void() +
   theme(panel.background = element_rect(fill = "lightblue")) +
-  theme(legend.position = c(0.88, 0.1))+
-  scale_fill_discrete(labels = c("Burnt Dry Sclerophyll", "Unburnt Dry Sclerophyll", "Burnt Rainforest", "Unburnt Rainforest"))+
-  scale_color_manual(values = c("#FF6600", "#66CC00", "#FF00FF", "#0000FF"))
+  theme(legend.position = c(0.85, 0.15)) +
+  scale_color_manual(values = c("A" = "#009900",
+                                "B" = "#FF0000",
+                                "#FF00FF",
+                                "#66CC00",
+                                "#FF6600",
+                                "#0000FF"),
+                     breaks = c("A", "B",
+                                "Dry SclerophyllBurnt",
+                                "Dry SclerophyllUnburnt",
+                                "RainforestBurnt",
+                                "RainforestUnburnt"),
+                     labels = c("World Heritage Area",
+                                "2019-20 Bushfire",
+                                "Burnt Dry Sclerophyll",
+                                "Unburnt Dry Sclerophyll",
+                                "Burnt Rainforest",
+                                "Unburnt Rainforest"),
+                     guide = guide_legend(override.aes = list(
+                       linetype = c("solid",
+                                    "solid",
+                                    "blank",
+                                    "blank",
+                                    "blank",
+                                    "blank")),
+                       shape = c(NA, NA, 16, 16, 16,16))) +
+  annotation_north_arrow(location = "tr", 
+                         which_north = "true",  
+                         pad_y = unit(0.5, "in"), 
+                         style = north_arrow_orienteering())+
+  annotation_scale(location = "tr", width_hint = 0.25, style = "ticks") +
+  theme(legend.title = element_blank(),
+        legend.key = element_rect(fill = "#FFFFCC", color = NA))
 
+  
+  
 print(map1)
 
-#add in 
-#WHA
-#GIS things?
-#Inset
-#
+
 study_area <- st_as_sfc(st_bbox(sites))
 
 map <- ggplot() +
   geom_sf(data=Aus, fill = "white") +
-  geom_sf(data = study_area, fill = "red", color = "red", size = 1.2) +
+  geom_sf(data = study_area, fill = "red", color = "red", size = 2) +
   xlim(114, 153)+
   ylim(43, 10)+
   theme_void()
@@ -53,7 +87,7 @@ print(map)
 
 gg_inset_map <-  ggdraw() +
   draw_plot(map1) +
-  draw_plot(map, x = 0.55, y = 0, width = 0.3, height = 0.3)
-gg_inset_map
+  draw_plot(map, x = 0.66, y = 0.26, width = 0.2, height = 0.2)
+print(gg_inset_map)
 
 ggsave("Outputs/Maps/insetmap.png", plot = gg_inset_map)

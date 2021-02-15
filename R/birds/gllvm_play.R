@@ -1,12 +1,35 @@
 library(gllvm)
 library(tidyverse)
 
-df <- read.csv("Data/Processed/ALLdata.csv")
+df <- read.csv("Data/Processed/ALLdata.csv") %>% 
+  select(-c(X)) %>% 
+  mutate(Burnt = Fire =="Burnt") %>% 
+  mutate(Rainforest = Formation =="Rainforest")
 
-gllvm(formula = Count ~ 1, data = df, family = "negative.binomial")
+df$Burnt<- as.integer(as.logical(df$Burnt))
+df$Rainforest<- as.integer(as.logical(df$Rainforest))
 
-gllvm(formula = Count ~ (Fire + Formation), data = df,  
+df$location.id <- as.numeric(factor(df$Location, 
+                                           levels=unique(df$Location)))
+
+
+mod<- gllvm(formula = Count ~ Burnt * Rainforest + location.id, data = df, num.lv = 2, 
       family = "negative.binomial")
+plot(mod)
+mod$params
+coefplot(mod, which.Xcoef = "Burnt:Rainforest")
+
+mod.null <-  gllvm ( data = df , formula = Count ~ Burnt + Rainforest + location.id, num.lv = 2, family = "negative.binomial")
+
+anova(mod.null , mod )
+
+
+
+
+
+
+
+
 
 
 #Ant Example ######### from: https://cran.r-project.org/web/packages/gllvm/vignettes/vignette1.html
