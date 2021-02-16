@@ -1,4 +1,4 @@
-library(dplyr)
+library(tidyverse)
 
 birds<- read.csv("Data/Raw/birds.csv")
 traits <- read.csv("Data/Raw/trait_data.csv") %>% 
@@ -22,37 +22,34 @@ veg <- read.csv("Data/Raw/veg.csv") %>%
          Growth..2m, 
          Canopy.Cover) %>% 
   left_join(UG, by = "Site")%>% 
+  tidyr::replace_na(list(Growth..2m = 40)) %>%
   group_by(Site) %>% 
   summarize(Litter.Depth = mean(Litter.Depth),
             Litter.Cover = mean(Litter.Cover),
-            Understory = mean(UGpts, na.rm = TRUE),
-            Mid.height = mean(Growth..2m, na.rm = TRUE),
-            Canopy.Cover = mean(Canopy.Cover, na.rm = TRUE))
+            Understory = mean(UGpts),
+            Mid.height = mean(Growth..2m),
+            Canopy.Cover = mean(Canopy.Cover))
 
 birdspread<- read.csv("Data/Processed/birdspread.csv") %>% 
   select(-c(X, Site))
 
 traits<- birdtraits %>% 
   select(Species,
-         Site,
-         Fire, 
-         Formation, 
-         Treatment,
          X99_Body_mass_average_8,
-         X163_Food_Fruit_10:X173_Food_fish_or_invertebrates_Inland_waters_10) %>% 
+         X163_Food_Fruit_10:X170_Food_Carrion_10) %>% 
   distinct()
 write.csv(traits, "Data/Processed/traitspre.csv")
 traits<- read.csv("Data/Processed/traitspost.csv") %>% 
-  rename(sp = Species) %>% 
-  rename(Species = X.1) %>% 
-  select(-c(X))
-traits$Species <- as.character(traits$Species)
+  rename(sp = Species)
+traits1 <- rownames_to_column(traits, var = "Species") %>% as_tibble()
+
+traits1$Species <- as.character(traits1$Species)
 
 
-df <- reshape(data.frame(cbind(birdspread, veg)), direction = "long", varying =
+df0 <- reshape(data.frame(cbind(birdspread, veg)), direction = "long", varying =
                 colnames(birdspread), v.names = "Count", timevar = "Species") 
   
-df$Species <- as.character(df$Species)
+df0$Species <- as.character(df0$Species)
 
 bspread <- birdspread %>% 
   t()
@@ -65,10 +62,10 @@ bspread <- cbind(Species=Species, bspread)
 df1 <- bspread %>% 
   as.data.frame() %>% 
   select(Species:id) %>% 
-  left_join(df, by = "Species")%>% 
-  left_join(traits, by = "Species")%>%
-  select(-c(Site.y, sp, Fire, Formation, Treatment))%>% 
-  rename(sp.id = Species, Species = id.x, Site = Site.x, id = id.y)
+  left_join(df0, by = "Species")%>% 
+  left_join(traits1, by = "Species")%>%
+  select(-c(sp))%>% 
+  rename(sp.id = Species, Species = id.x, id = id.y)
 
 ##fix veg info
 veginfo <- birdtraits %>% 

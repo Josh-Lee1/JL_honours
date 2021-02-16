@@ -30,11 +30,13 @@ anova(mod.null , mod)
 ####incorportaing traits
 X <-  df %>% 
   dplyr::select (Burnt, location.id, Rainforest, id, Litter.Depth, Litter.Cover, Understory, Mid.height, Canopy.Cover) %>% 
-  dplyr::distinct()
+  dplyr::distinct() %>% 
+  as.matrix()
 
 X$location.id <- as.character(X$location.id)
 
-X <-  model.matrix(object = ~ Burnt * Rainforest+location.id,  data = X)
+# need this line if making a matrix for sites/location
+#X <-  model.matrix(object = ~ Burnt * Rainforest+location.id,  data = X)
 
 y <-  df %>% 
   dplyr::select (Species, id, Count) %>% 
@@ -44,6 +46,7 @@ y <-  df %>%
 #looks like I have to do one guild at a time...?
 TR <- df %>% 
   dplyr::select (Species,
+                 X99_Body_mass_average_8,
                  X163_Food_Fruit_10,
                  X164_Food_Nectar_or_pollen_10,
                  X165_Food_Seeds_10,
@@ -57,7 +60,8 @@ TR <- df %>%
          Granivore = X165_Food_Seeds_10,
          Folivore = X166_Food_Foliage_or_herbs_10,
          Insectivore = X168_Food_Terrestrial_invertebrates_10,
-         Carnivore = X169_Food_Terrestrial_vertebrates_10)
+         Carnivore = X169_Food_Terrestrial_vertebrates_10,
+         Size = X99_Body_mass_average_8)
 
 #running trait mods
 
@@ -67,6 +71,7 @@ model.gllvm.traits <-  gllvm (y = y, X = X, TR = TR,  formula = model.formula, n
 
 plot(model.gllvm.traits)
 coefplot(model.gllvm.traits)
+
 
 ##4th Corner Model
 fit_4th <- gllvm(y, X, TR, family = "negative.binomial", num.lv = 2, 
@@ -85,3 +90,21 @@ plot.4th <- levelplot((as.matrix(fourth)), xlab = "Environmental Variables",
                       ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 
                       at = seq(-a, a, length = 100), scales = list(x = list(rot = 45)))
 plot.4th
+
+#with size
+fit_4th1 <- gllvm(y, X, TR, family = "negative.binomial", num.lv = 2, 
+                 formula = y ~ (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) +
+                   (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) : 
+                   (Frugivore + Nectarivore + Granivore + Folivore + Insectivore + Carnivore + Size), seed = 123,
+                 row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
+                 randomX = ~ Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover)
+
+
+coefplot(fit_4th1, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
+fourth <- fit_4th1$fourth.corner
+a <- max( abs(fourth) )
+colort <- colorRampPalette(c("blue", "white", "red"))
+plot.4th1 <- levelplot((as.matrix(fourth)), xlab = "Environmental Variables", 
+                      ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 
+                      at = seq(-a, a, length = 100), scales = list(x = list(rot = 45)))
+plot.4th1
