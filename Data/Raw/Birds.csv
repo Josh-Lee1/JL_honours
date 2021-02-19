@@ -1427,7 +1427,7 @@ TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclero
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Brush Cuckoo,1,60,E,,,,
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Brush Cuckoo,1,130,S,7:34,,,
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Crimson Rosella,1,30,E,,Flyover,,
-TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Crimson Rosella,4,80,N,,Out of Survey,,
+TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Crimson Rosella,4,80,N,,,Out of Survey,
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Eastern Whipbird,1,70,W,,,,
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Eastern Whipbird,1,100,W,,,,
 TL-BS-02,26/11/2020,7:30,152.361006,-28.506694,731.511,Captains Creek,Dry Sclerophyll,Burnt,Grey Fantail,1,60,S,,,,
@@ -1560,7 +1560,7 @@ TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerop
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Eastern Whipbird,1,100,W,,,,"Private property, grazed. "
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Eastern Whipbird,1,100,E,6:07,,,"Private property, grazed. "
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Fan-tailed Cuckoo,1,20,W,,Flyover,,"Private property, grazed. "
-TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Fan-tailed Cuckoo,1,60,N,,,,"Private property, grazed. "
+TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Fan-tailed Cuckoo,1,60,N,,Canopy,,"Private property, grazed. "
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Golden Whistler,1,40,W,,,,"Private property, grazed. "
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Green Catbird,1,100,E,6:08,,,"Private property, grazed. "
 TL-US-03,27/11/2020,6:00,152.36208,-28.504105,738.187,Captains Creek,Dry Sclerophyll,Unburnt,Grey Fantail,1,80,SE,,,,"Private property, grazed. "

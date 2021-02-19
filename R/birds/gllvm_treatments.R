@@ -22,8 +22,11 @@ br <- df %>%
   group_by(Species) %>% 
   mutate(total = sum(Count)) %>% 
   filter(total > 0) %>% 
-  ungroup()
+  ungroup() %>% 
+  as.data.frame()
 br$id <- as.integer(as.factor(br$Site))
+br$id <- as.numeric(factor(br$Site, levels=unique(br$Site)))
+br$id <- as.integer(br$id)
 
 ur <- df %>% 
   filter(Treatment == "RainforestUnburnt") %>% 
@@ -55,15 +58,16 @@ us$id <- as.integer(as.factor(us$Site))
 #format each df for 4thCM
 ##br###################################################################
 Xbr <-  br %>% 
-  dplyr::select (Litter.Depth, Litter.Cover, Understory, Mid.height, Canopy.Cover) %>% 
-  dplyr::distinct() %>% 
+  dplyr::select (Burnt, location.id, Rainforest, id, Litter.Depth, Litter.Cover, Understory, Mid.height, Canopy.Cover) %>% 
+  dplyr::distinct() %>%
   as.matrix()
+
 
 ybr <-  br %>% 
   dplyr::select (Species, id, Count) %>% 
   tidyr::pivot_wider(values_from = Count, names_from = Species, id_cols = id)%>%
   dplyr::select (-id) %>% 
-  as.matrix()
+  as_tibble()
 
 
 TRbr <- br %>% 
@@ -83,11 +87,10 @@ TRbr <- br %>%
          Folivore = X166_Food_Foliage_or_herbs_10,
          Insectivore = X168_Food_Terrestrial_invertebrates_10,
          Carnivore = X169_Food_Terrestrial_vertebrates_10,
-         Size = X99_Body_mass_average_8) %>% 
-  as.matrix()
+         Size = X99_Body_mass_average_8)
 
 
-#running Burnt Sclerophyll 
+#running Burnt Rainforest 
 fit_4thbr <- gllvm(ybr, Xbr, TRbr, family = "negative.binomial", num.lv = 2, 
                    formula = ybr ~ (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) +
                      (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) : 
