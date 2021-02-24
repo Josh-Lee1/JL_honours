@@ -17,3 +17,5 @@ sdspread$Understorey[29]=1
 sdspread$Ground[29]=1
 
 write.csv(sdspread, "Data/Processed/strata_data.csv")
+
+#git test

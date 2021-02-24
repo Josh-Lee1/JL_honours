@@ -6,7 +6,7 @@ library(lme4)
 library(sjPlot)
 library(sjmisc)
 library(pbkrtest)
-
+library(car)
 
 
 #Species Richness
@@ -124,6 +124,8 @@ summary(simpdiv)
 plot(simpdiv)
 anova(simpdiv2,simpdiv)
 confint(simpdiv)
+
+vif(simpdiv)
 
 
 plot_model(simpdiv, type = "int")
