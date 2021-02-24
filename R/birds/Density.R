@@ -76,4 +76,7 @@ summary(density.lmer)
 plot(density.lmer)
 anova(density.lmer2,density.lmer)
 
+library (car)
+vif(density.lmer)
+
 plot_model(density.lmer, type = "int")
