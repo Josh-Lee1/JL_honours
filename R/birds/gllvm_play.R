@@ -85,7 +85,7 @@ fit_4th1 <- gllvm(y, X, TR, family = "negative.binomial", num.lv = 2,
 
 coefplot(fit_4th1, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
 fourth <- fit_4th1$fourth.corner
-a <- max( abs(fourth))
+a <- max( abs(fourth) )
 colort <- colorRampPalette(c("blue", "white", "red"))
 plot.4th1 <- levelplot((as.matrix(fourth)), xlab = "Environmental Variables", 
                       ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 

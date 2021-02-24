@@ -9,7 +9,18 @@ df <- read.csv("Data/Processed/ALLdata.csv") %>%
   select(-c(X))
 
 X <-  df %>% 
-  dplyr::select (Site, Location, Fire, Formation, Treatment, Litter.Depth, Litter.Cover, Understory, Mid.height, Canopy.Cover) %>% 
+  dplyr::select (Site,
+                 Location,
+                 Fire,
+                 Formation,
+                 Treatment,
+                 Litter.Depth,
+                 Litter.Cover,
+                 Understory,
+                 Mid.height,
+                 Canopy.Cover,
+                 Estimate_density,
+                 Simpson_diversity) %>% 
   dplyr::distinct()
 
 #Litter Depth
@@ -72,3 +83,10 @@ plot_model(CC.lmer, type = "int")
 
 ##Variance inflation
 vif(CC.lmer)
+
+#All
+div_veg<- lmer(Simpson_diversity ~ Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover +(1|Location), data = X)
+vif(div_veg)
+dens_veg<- lmer(Estimate_density ~ Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover +(1|Location), data = X)
+vif(dens_veg)
+pairs(X[6:10])
