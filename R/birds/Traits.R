@@ -11,8 +11,8 @@ birdtraits <- traits %>%
 #Trying to get the data to work with gllvm
 
 UG <- read.csv("Data/Processed/UGpts.csv") %>% 
-  select(Group.1, sum) %>% 
-  rename(Site = Group.1, UGpts = sum)
+  select(Group.1, X1m) %>% 
+  rename(Site = Group.1, UGpts = X1m)
 
 veg <- read.csv("Data/Raw/veg.csv") %>% 
   filter(Point == 10 | Point == 20 | Point == 30 | Point == 40 | Point == 50) %>% 

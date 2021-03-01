@@ -3,7 +3,6 @@
 library(dplyr)
 library(ggplot2)
 library(tidyr)
-library()
 
 veg<- read.csv("Data/Processed/vegwp1.csv") %>% 
   filter(Point == 10 | Point == 20 | Point == 30 | Point == 40 | Point == 50)
@@ -17,8 +16,10 @@ meanptsQ1 <- aggregate(veg[221], list(veg$Site, veg$Treatment), mean, na.rm = TR
 meanptsQ2 <- aggregate(veg[222], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
 meanptsQ3 <- aggregate(veg[223], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
 meanptsQ4 <- aggregate(veg[224], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
-meanptsall <- aggregate(veg[225], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
-write.csv(meanptsall, "Data/Processed/UGpts.csv")
+meanptsall <- aggregate(veg[225], list(veg$Site, veg$Treatment), mean, na.rm = TRUE)
+meanpts1m <- aggregate(veg[226], list(veg$Site, veg$Treatment), mean, na.rm = TRUE) 
+
+write.csv(meanpts1m, "Data/Processed/UGpts.csv")
 
 
 #combine to one df

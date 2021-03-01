@@ -15,17 +15,17 @@ df$Rainforest<- as.integer(as.logical(df$Rainforest))
 df$location.id <- as.numeric(factor(df$Location, levels=unique(df$Location)))
 
 #run the mod
-mod<- gllvm(formula = Count ~ Burnt * Rainforest + location.id, data = df, num.lv = 2, 
-      family = "negative.binomial")
+#mod<- gllvm(formula = Count ~ Burnt * Rainforest + location.id, data = df, num.lv = 2, 
+#      family = "negative.binomial")
 
 #check assumptions
-plot(mod)
-mod$params
-coefplot(mod)
+#plot(mod)
+#mod$params
+#coefplot(mod)
 
-mod.null <-  gllvm ( data = df , formula = Count ~ Burnt + Rainforest + location.id, num.lv = 2, family = "negative.binomial")
+#mod.null <-  gllvm ( data = df , formula = Count ~ Burnt + Rainforest + location.id, num.lv = 2, family = "negative.binomial")
 
-anova(mod.null , mod)
+#anova(mod.null , mod)
 
 ####incorportaing traits
 X <-  df %>% 
@@ -33,7 +33,7 @@ X <-  df %>%
   dplyr::distinct() %>% 
   select(-c(id))
 
-X$location.id <- as.character(X$location.id)
+#X$location.id <- as.character(X$location.id)
 
 # need this line if making a matrix for sites/location
 X <-  model.matrix(object = ~ Burnt * Rainforest+location.id,  data = X)
@@ -74,7 +74,7 @@ coefplot(model.gllvm.traits)
 
 
 #4th Corner Model
-#with site
+#Functional groups and Treatments
 fit_4th1 <- gllvm(y, X, TR, family = "negative.binomial", num.lv = 2, 
                  formula =  ~ (Burnt + Rainforest + Burnt:Rainforest + location.id) +
                    (Burnt + Rainforest + Burnt:Rainforest) : 
@@ -82,12 +82,32 @@ fit_4th1 <- gllvm(y, X, TR, family = "negative.binomial", num.lv = 2,
                  row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
                  randomX = ~ Burnt + Rainforest + Burnt:Rainforest)
 
-
+##I can't get this plot to work
 coefplot(fit_4th1, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
-fourth <- fit_4th1$fourth.corner
-a <- max( abs(fourth) )
+fourth1 <- fit_4th1$fourth.corner
+a <- max( abs(fourth1) )
 colort <- colorRampPalette(c("blue", "white", "red"))
-plot.4th1 <- levelplot((as.matrix(fourth)), xlab = "Environmental Variables", 
+plot.4th1 <- levelplot((as.matrix(fourth1)), xlab = "Environmental Variables", 
                       ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 
                       at = seq(-a, a, length = 100), scales = list(x = list(rot = 45)))
 plot.4th1
+
+#Functional groups and Veg structure
+fit_4th3 <- gllvm(y, X, TR, family = "negative.binomial", num.lv = 2, 
+                  formula =  ~ (Litter.Depth + Litter.Cover + Understory + Canopy.Cover + location.id) +
+                    (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) : 
+                    (Frugivore + Nectarivore + Granivore + Folivore + Insectivore + Carnivore + Size), seed = 123,
+                  row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
+                  randomX = ~ Litter.Depth + Litter.Cover + Understory + Canopy.Cover)
+
+coefplot(fit_4th3, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
+fourth3 <- fit_4th3$fourth.corner
+b <- max( abs(fourth3) )
+colort <- colorRampPalette(c("blue", "white", "red"))
+plot.4th3 <- levelplot((as.matrix(fourth3)), xlab = "Environmental Variables", 
+                       ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 
+                       at = seq(-a, a, length = 100), scales = list(x = list(rot = 45)))
+plot.4th3
+
+
+

@@ -1,100 +1,100 @@
-"","Species","Understorey","Canopy","Flyover","Midstorey","Ground"
-"1","Grey Fantail",NA,1,NA,1,NA
-"2","Albert's Lyrebird",NA,NA,NA,NA,NA
-"3","Brown Cuckoo-Dove",1,1,1,1,NA
-"4","Lewin's Honeyeater",1,1,NA,1,NA
-"5","White-browed Scrubwren",1,NA,NA,1,NA
-"6","Wonga Pigeon",NA,NA,NA,NA,1
-"7","Black-faced Monarch",NA,1,NA,1,NA
-"8","Brown Gerygone",NA,1,NA,1,NA
-"9","Brown Thornbill",1,1,NA,NA,NA
-"10","Topknot Pigeon",NA,1,1,NA,NA
-"11","Golden Whistler",NA,NA,NA,1,NA
-"12","Mistletoebird",NA,1,1,NA,NA
-"13","Scarlet Honeyeater",NA,NA,NA,NA,NA
-"14","White-throated Treecreeper",NA,1,NA,1,NA
-"15","Australian Brush-turkey",NA,NA,NA,NA,NA
-"16","Crimson Rosella",NA,1,1,NA,NA
-"17","Green Catbird",NA,1,NA,1,NA
-"18","Laughing Kookaburra",NA,1,NA,NA,NA
-"19","Rufous Fantail",1,NA,NA,1,NA
-"20","Superb Fruit-Dove",NA,1,NA,NA,NA
-"21","Wompoo Fruit-Dove",NA,1,1,NA,NA
-"22","Large-billed Scrubwren",NA,1,NA,1,NA
-"23","Australian Logrunner",1,NA,NA,NA,NA
-"24","Paradise Riflebird",NA,1,NA,NA,NA
-"25","Pied Currawong",NA,1,NA,NA,NA
-"26","Rose-crowned Fruit-Dove",NA,1,NA,NA,NA
-"27","Russet-tailed Thrush",NA,NA,NA,NA,NA
-"28","Sulphur-crested Cockatoo",NA,1,1,NA,NA
-"29","Yellow-throated Scrubwren",1,NA,NA,NA,1
-"30","Australian King-Parrot",NA,1,1,1,NA
-"31","Spangled Drongo",NA,1,1,NA,NA
-"32","Cicadabird",NA,1,1,NA,NA
-"33","Eastern Whipbird",1,NA,NA,NA,NA
-"34","Eastern Yellow Robin",1,NA,NA,1,NA
-"35","Grey Shrike-thrush",NA,1,NA,1,NA
-"36","Silvereye",NA,1,1,1,NA
-"37","Spectacled Monarch",NA,1,NA,1,NA
-"38","Yellow-tailed Black-Cockatoo",NA,NA,1,NA,NA
-"39","Olive-backed Oriole",1,1,NA,NA,NA
-"40","Rainbow Lorikeet",NA,NA,1,NA,NA
-"41","Fan-tailed Cuckoo",NA,1,1,NA,NA
-"42","Noisy Pitta",NA,NA,NA,1,1
-"43","Australasian Figbird",NA,1,NA,NA,NA
-"44","Barred Cuckoo-shrike",NA,1,NA,NA,NA
-"45","Brush Cuckoo",NA,NA,NA,NA,NA
-"46","White-headed Pigeon",NA,1,1,NA,NA
-"47","Pale-yellow Robin",1,NA,NA,1,NA
-"48","Brown-capped Emerald Dove",NA,NA,1,1,NA
-"49","Bell Miner",NA,NA,NA,NA,NA
-"50","Eastern Koel",NA,NA,NA,NA,NA
-"51","Grey Butcherbird",NA,1,NA,NA,NA
-"52","Little Lorikeet",NA,1,1,NA,NA
-"53","Noisy Friarbird",NA,1,NA,1,NA
-"54","Rufous Whistler",NA,1,NA,1,NA
-"55","Torresian Crow",NA,NA,NA,NA,NA
-"56","Yellow-faced Honeyeater",NA,1,NA,1,NA
-"57","Brown Honeyeater",NA,1,NA,NA,NA
-"58","Fairy Martin",NA,NA,NA,NA,NA
-"59","Red-browed Finch",1,NA,NA,1,NA
-"60","Variegated Fairy-wren",1,NA,NA,NA,NA
-"61","White-throated Needletail",NA,NA,1,NA,NA
-"62","Peaceful Dove",NA,NA,NA,NA,NA
-"63","Dusky Woodswallow",NA,NA,NA,NA,NA
-"64","White-bellied Cuckoo-shrike",NA,1,1,NA,NA
-"65","White-cheeked Honeyeater",NA,1,NA,NA,NA
-"66","Leaden Flycatcher",NA,1,NA,NA,NA
-"67","White-throated Gerygone",NA,1,NA,1,NA
-"68","Australian Owlet-nightjar",NA,NA,NA,NA,NA
-"69","Rainbow Bee-eater",NA,1,1,NA,NA
-"70","White-naped Honeyeater",NA,1,NA,1,NA
-"71","Red Wattlebird",NA,NA,NA,NA,NA
-"72","Musk Lorikeet",NA,NA,1,NA,NA
-"73","Scaly-breasted Lorikeet",NA,1,1,NA,NA
-"74","Spotted Pardalote",NA,NA,NA,NA,NA
-"75","Eastern Spinebill",NA,NA,NA,1,NA
-"76","Little Shrike-thrush",1,NA,NA,NA,NA
-"77","Painted Button-quail",NA,NA,NA,NA,1
-"78","Australian Magpie",NA,NA,NA,1,NA
-"79","Restless Flycatcher",NA,NA,NA,NA,NA
-"80","Sacred Kingfisher",NA,1,NA,NA,NA
-"81","Yellow-tufted Honeyeater",1,1,NA,1,NA
-"82","Satin Bowerbird",NA,1,1,1,NA
-"83","Black-faced Cuckoo-shrike",NA,1,NA,NA,NA
-"84","Eastern Rosella",NA,NA,NA,NA,NA
-"85","Noisy Miner",NA,NA,NA,NA,NA
-"86","Varied Sittella",NA,1,NA,NA,NA
-"87","Superb Fairy-wren",1,NA,NA,NA,NA
-"88","Bar-shouldered Dove",NA,NA,1,NA,NA
-"89","Welcome Swallow",NA,NA,1,NA,NA
-"90","Striated Thornbill",NA,NA,NA,1,NA
-"91","Wedge-tailed Eagle",NA,NA,1,NA,NA
-"92","Willie Wagtail",NA,NA,NA,NA,NA
-"93","Glossy Black-Cockatoo",NA,1,NA,NA,NA
-"94","Regent Bowerbird",NA,NA,1,NA,NA
-"95","Collared Sparrowhawk",NA,1,NA,NA,NA
-"96","Spotted Quail-thrush",NA,NA,NA,NA,NA
-"97","Pacific Baza",NA,NA,1,NA,NA
-"98","Shining Bronze-Cuckoo",NA,1,NA,NA,NA
-"99","Superb Lyrebird",NA,NA,NA,NA,NA
+"","Species","Understorey","Canopy","Flyover","Midstorey","Ground","X9_Family_common_name_2","X10_Family_scientific_name_2"
+"1","Grey Fantail",NA,1,NA,1,NA,"Fantails","Rhipiduridae"
+"2","Albert's Lyrebird",NA,NA,NA,NA,NA,"Lyrebirds","Menuridae"
+"3","Brown Cuckoo-Dove",1,1,1,1,NA,"Pigeons and Doves","Columbidae"
+"4","Lewin's Honeyeater",1,1,NA,1,NA,"Honeyeaters and Chats","Meliphagidae"
+"5","White-browed Scrubwren",1,NA,NA,1,NA,"Thornbills and Gerygones","Acanthizidae"
+"6","Wonga Pigeon",NA,NA,NA,NA,1,"Pigeons and Doves","Columbidae"
+"7","Black-faced Monarch",NA,1,NA,1,NA,"Monarch and Flycatchers","Monarchidae"
+"8","Brown Gerygone",NA,1,NA,1,NA,"Thornbills and Gerygones","Acanthizidae"
+"9","Brown Thornbill",1,1,NA,NA,NA,"Thornbills and Gerygones","Acanthizidae"
+"10","Topknot Pigeon",NA,1,1,NA,NA,"Pigeons and Doves","Columbidae"
+"11","Golden Whistler",NA,NA,NA,1,NA,"Whistlers, Shrike-thrushes and allies","Pachycephalidae"
+"12","Mistletoebird",NA,1,1,NA,NA,"Flowerpeckers","Dicaeidae"
+"13","Scarlet Honeyeater",NA,NA,NA,NA,NA,"Honeyeaters and Chats","Meliphagidae"
+"14","White-throated Treecreeper",NA,1,NA,1,NA,"Treecreepers","Climacteridae"
+"15","Australian Brush-turkey",NA,NA,NA,NA,NA,"Megapodes","Megapodiidae"
+"16","Crimson Rosella",NA,1,1,NA,NA,"Parrots, Lorikeets and Rosellas","Psittaculidae"
+"17","Green Catbird",NA,1,NA,1,NA,"Bowerbirds and Catbirds","Ptilonorhynchidae"
+"18","Laughing Kookaburra",NA,1,NA,NA,NA,"Kingfishers","Alcedinidae"
+"19","Rufous Fantail",1,NA,NA,1,NA,"Fantails","Rhipiduridae"
+"20","Superb Fruit-Dove",NA,1,NA,NA,NA,"Pigeons and Doves","Columbidae"
+"21","Wompoo Fruit-Dove",NA,1,1,NA,NA,"Pigeons and Doves","Columbidae"
+"22","Large-billed Scrubwren",NA,1,NA,1,NA,"Thornbills and Gerygones","Acanthizidae"
+"23","Australian Logrunner",1,NA,NA,NA,NA,"Logrunners","Orthonychidae"
+"24","Paradise Riflebird",NA,1,NA,NA,NA,"Birds of Paradise","Paradisaeidae"
+"25","Pied Currawong",NA,1,NA,NA,NA,"Woodswallows, Currawongs, Butcherbirds and Magpie","Artamidae"
+"26","Rose-crowned Fruit-Dove",NA,1,NA,NA,NA,"Pigeons and Doves","Columbidae"
+"27","Russet-tailed Thrush",NA,NA,NA,NA,NA,"Thrushes","Turdidae"
+"28","Sulphur-crested Cockatoo",NA,1,1,NA,NA,"Cockatoos and Corellas","Cacatuidae"
+"29","Yellow-throated Scrubwren",1,NA,NA,NA,1,"Thornbills and Gerygones","Acanthizidae"
+"30","Australian King-Parrot",NA,1,1,1,NA,"Parrots, Lorikeets and Rosellas","Psittaculidae"
+"31","Spangled Drongo",NA,1,1,NA,NA,"Drongos","Dicruridae"
+"32","Cicadabird",NA,1,1,NA,NA,"Cuckoo-shrikes and Trillers","Campephagidae"
+"33","Eastern Whipbird",1,NA,NA,NA,NA,"Whipbirds and Wedgebills","Psophodidae"
+"34","Eastern Yellow Robin",1,NA,NA,1,NA,"Australian Robins","Petroicidae"
+"35","Grey Shrike-thrush",NA,1,NA,1,NA,"Whistlers, Shrike-thrushes and allies","Pachycephalidae"
+"36","Silvereye",NA,1,1,1,NA,"True Babblers","Zosteropidae"
+"37","Spectacled Monarch",NA,1,NA,1,NA,"Monarch and Flycatchers","Monarchidae"
+"38","Yellow-tailed Black-Cockatoo",NA,NA,1,NA,NA,"Cockatoos and Corellas","Cacatuidae"
+"39","Olive-backed Oriole",1,1,NA,NA,NA,"Orioles and Figbirds","Oriolidae"
+"40","Rainbow Lorikeet",NA,NA,1,NA,NA,"Parrots, Lorikeets and Rosellas","Psittaculidae"
+"41","Fan-tailed Cuckoo",NA,1,1,NA,NA,"Cuckoos","Cuculidae"
+"42","Noisy Pitta",NA,NA,NA,1,1,"Pittas","Pittidae"
+"43","Australasian Figbird",NA,1,NA,NA,NA,"Orioles and Figbirds","Oriolidae"
+"44","Barred Cuckoo-shrike",NA,1,NA,NA,NA,"Cuckoo-shrikes and Trillers","Campephagidae"
+"45","Brush Cuckoo",NA,NA,NA,NA,NA,"Cuckoos","Cuculidae"
+"46","White-headed Pigeon",NA,1,1,NA,NA,"Pigeons and Doves","Columbidae"
+"47","Pale-yellow Robin",1,NA,NA,1,NA,"Australian Robins","Petroicidae"
+"48","Brown-capped Emerald Dove",NA,NA,1,1,NA,"Pigeons and Doves","Columbidae"
+"49","Bell Miner",NA,NA,NA,NA,NA,"Honeyeaters and Chats","Meliphagidae"
+"50","Eastern Koel",NA,NA,NA,NA,NA,"Cuckoos","Cuculidae"
+"51","Grey Butcherbird",NA,1,NA,NA,NA,"Woodswallows, Currawongs, Butcherbirds and Magpie","Artamidae"
+"52","Little Lorikeet",NA,1,1,NA,NA,"Parrots, Lorikeets and Rosellas","Psittaculidae"
+"53","Noisy Friarbird",NA,1,NA,1,NA,"Honeyeaters and Chats","Meliphagidae"
+"54","Rufous Whistler",NA,1,NA,1,NA,"Whistlers, Shrike-thrushes and allies","Pachycephalidae"
+"55","Torresian Crow",NA,NA,NA,NA,NA,"Crows and Ravens","Corvidae"
+"56","Yellow-faced Honeyeater",NA,1,NA,1,NA,"Honeyeaters and Chats","Meliphagidae"
+"57","Brown Honeyeater",NA,1,NA,NA,NA,"Honeyeaters and Chats","Meliphagidae"
+"58","Fairy Martin",NA,NA,NA,NA,NA,"Swallows and Martins","Hirundinidae"
+"59","Red-browed Finch",1,NA,NA,1,NA,"Weaver Finches","Estrildidae"
+"60","Variegated Fairy-wren",1,NA,NA,NA,NA,"Fairy-wrens, Emu-wrens and Grasswrens","Maluridae"
+"61","White-throated Needletail",NA,NA,1,NA,NA,"Swifts and Swiftlets","Apodidae"
+"62","Peaceful Dove",NA,NA,NA,NA,NA,"Pigeons and Doves","Columbidae"
+"63","Dusky Woodswallow",NA,NA,NA,NA,NA,"Woodswallows, Currawongs, Butcherbirds and Magpie","Artamidae"
+"64","White-bellied Cuckoo-shrike",NA,1,1,NA,NA,"Cuckoo-shrikes and Trillers","Campephagidae"
+"65","White-cheeked Honeyeater",NA,1,NA,NA,NA,"Honeyeaters and Chats","Meliphagidae"
+"66","Leaden Flycatcher",NA,1,NA,NA,NA,"Monarch and Flycatchers","Monarchidae"
+"67","White-throated Gerygone",NA,1,NA,1,NA,"Thornbills and Gerygones","Acanthizidae"
+"68","Australian Owlet-nightjar",NA,NA,NA,NA,NA,"Owlet-nightjars","Aegothelidae"
+"69","Rainbow Bee-eater",NA,1,1,NA,NA,"Bee-eaters","Meropidae"
+"70","White-naped Honeyeater",NA,1,NA,1,NA,"Honeyeaters and Chats","Meliphagidae"
+"71","Red Wattlebird",NA,NA,NA,NA,NA,"Honeyeaters and Chats","Meliphagidae"
+"72","Musk Lorikeet",NA,NA,1,NA,NA,"Parrots, Lorikeets and Rosellas","Psittaculidae"
+"73","Scaly-breasted Lorikeet",NA,1,1,NA,NA,"Parrots, Lorikeets and Rosellas","Psittaculidae"
+"74","Spotted Pardalote",NA,NA,NA,NA,NA,"Pardalotes","Pardalotidae"
+"75","Eastern Spinebill",NA,NA,NA,1,NA,"Honeyeaters and Chats","Meliphagidae"
+"76","Little Shrike-thrush",1,NA,NA,NA,NA,"Whistlers, Shrike-thrushes and allies","Pachycephalidae"
+"77","Painted Button-quail",NA,NA,NA,NA,1,"Button-quail","Turnicidae"
+"78","Australian Magpie",NA,NA,NA,1,NA,"Woodswallows, Currawongs, Butcherbirds and Magpie","Artamidae"
+"79","Restless Flycatcher",NA,NA,NA,NA,NA,"Monarch and Flycatchers","Monarchidae"
+"80","Sacred Kingfisher",NA,1,NA,NA,NA,"Kingfishers","Alcedinidae"
+"81","Yellow-tufted Honeyeater",1,1,NA,1,NA,"Honeyeaters and Chats","Meliphagidae"
+"82","Satin Bowerbird",NA,1,1,1,NA,"Bowerbirds and Catbirds","Ptilonorhynchidae"
+"83","Black-faced Cuckoo-shrike",NA,1,NA,NA,NA,"Cuckoo-shrikes and Trillers","Campephagidae"
+"84","Eastern Rosella",NA,NA,NA,NA,NA,"Parrots, Lorikeets and Rosellas","Psittaculidae"
+"85","Noisy Miner",NA,NA,NA,NA,NA,"Honeyeaters and Chats","Meliphagidae"
+"86","Varied Sittella",NA,1,NA,NA,NA,"Sittellas","Neosittidae"
+"87","Superb Fairy-wren",1,NA,NA,NA,NA,"Fairy-wrens, Emu-wrens and Grasswrens","Maluridae"
+"88","Bar-shouldered Dove",NA,NA,1,NA,NA,"Pigeons and Doves","Columbidae"
+"89","Welcome Swallow",NA,NA,1,NA,NA,"Swallows and Martins","Hirundinidae"
+"90","Striated Thornbill",NA,NA,NA,1,NA,"Thornbills and Gerygones","Acanthizidae"
+"91","Wedge-tailed Eagle",NA,NA,1,NA,NA,"Eagles, Kites, Goshawks and Osprey","Accipitridae"
+"92","Willie Wagtail",NA,NA,NA,NA,NA,"Fantails","Rhipiduridae"
+"93","Glossy Black-Cockatoo",NA,1,NA,NA,NA,"Cockatoos and Corellas","Cacatuidae"
+"94","Regent Bowerbird",NA,NA,1,NA,NA,"Bowerbirds and Catbirds","Ptilonorhynchidae"
+"95","Collared Sparrowhawk",NA,1,NA,NA,NA,"Eagles, Kites, Goshawks and Osprey","Accipitridae"
+"96","Spotted Quail-thrush",NA,NA,NA,NA,NA,"Whipbirds and Wedgebills","Cinclosomatidae"
+"97","Pacific Baza",NA,NA,1,NA,NA,"Eagles, Kites, Goshawks and Osprey","Accipitridae"
+"98","Shining Bronze-Cuckoo",NA,1,NA,NA,NA,"Cuckoos","Cuculidae"
+"99","Superb Lyrebird",NA,NA,NA,NA,NA,"Lyrebirds","Menuridae"

@@ -1,5 +1,6 @@
 library(car)
 library(tidyverse)
+library(ggplot2)
 library(lme4)
 library(sjPlot)
 library(sjmisc)
@@ -30,7 +31,8 @@ LD.lmer2<- lmer(Litter.Depth ~ Formation + (1|Location), data = X)
 summary(LD.lmer)
 plot(LD.lmer)
 anova(LD.lmer2,LD.lmer)
-plot_model(LD.lmer, type = "int")
+ld<- plot_model(LD.lmer, type = "int")
+ggsave(filename = "Outputs/lme/veg/Litter_Depth.png", plot = ld)
 
 ##Variance inflation
 LD.lmer<- lmer(Litter.Depth ~ Formation * Fire +(1|Location), data = X)
@@ -43,7 +45,9 @@ LC.lmer2<- lmer(Litter.Cover ~ Formation + (1|Location), data = X)
 summary(LC.lmer)
 plot(LC.lmer)
 anova(LC.lmer2,LC.lmer)
-plot_model(LC.lmer, type = "int")
+ggsave(filename = "Outputs/lme/veg/Litter_Cover.png", plot =  
+         plot_model(LC.lmer, type = "int"))
+
 
 ##Variance inflation
 vif(LC.lmer)
@@ -55,7 +59,8 @@ U.lmer2<- lmer(Understory ~ Formation + (1|Location), data = X)
 summary(U.lmer)
 plot(U.lmer)
 anova(U.lmer2,U.lmer)
-plot_model(U.lmer, type = "int")
+ggsave(filename = "Outputs/lme/veg/Understorey.png", plot = 
+         plot_model(U.lmer, type = "int"))
 
 ##Variance inflation
 vif(U.lmer)
@@ -67,7 +72,8 @@ M.lmer2<- lmer(Mid.height ~ Formation + (1|Location), data = X)
 summary(M.lmer)
 plot(M.lmer)
 anova(M.lmer2,M.lmer)
-plot_model(M.lmer, type = "int")
+ggsave(filename = "Outputs/lme/veg/Midstory.png", plot = 
+         plot_model(M.lmer, type = "int"))
 
 ##Variance inflation
 vif(M.lmer)
@@ -79,7 +85,8 @@ CC.lmer2<- lmer(Canopy.Cover ~ Formation + (1|Location), data = X)
 summary(CC.lmer)
 plot(CC.lmer)
 anova(CC.lmer2, CC.lmer)
-plot_model(CC.lmer, type = "int")
+ggsave(filename = "Outputs/lme/veg/Canopy_Cover.png", plot = 
+         plot_model(CC.lmer, type = "int"))
 
 ##Variance inflation
 vif(CC.lmer)
