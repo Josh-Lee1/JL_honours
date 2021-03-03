@@ -69,8 +69,8 @@ model.formula <-  as.formula(paste0( "y ~ Burnt * Rainforest + Burnt:Rainforest:
 
 model.gllvm.traits <-  gllvm (y = y, X = X, TR = TR,  formula = model.formula, num.lv = 2, family = "negative.binomial")
 
-plot(model.gllvm.traits)
-coefplot(model.gllvm.traits)
+#plot(model.gllvm.traits)
+#coefplot(model.gllvm.traits)
 
 
 #4th Corner Model
@@ -82,11 +82,12 @@ fit_4th1 <- gllvm(y, X, TR, family = "negative.binomial", num.lv = 2,
                  row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
                  randomX = ~ Burnt + Rainforest + Burnt:Rainforest)
 
-##I can't get this plot to work
+
 coefplot(fit_4th1, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
 fourth1 <- fit_4th1$fourth.corner
 a <- max( abs(fourth1) )
 colort <- colorRampPalette(c("blue", "white", "red"))
+##I can't get this plot to work
 plot.4th1 <- levelplot((as.matrix(fourth1)), xlab = "Environmental Variables", 
                       ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 
                       at = seq(-a, a, length = 100), scales = list(x = list(rot = 45)))
@@ -106,7 +107,7 @@ b <- max( abs(fourth3) )
 colort <- colorRampPalette(c("blue", "white", "red"))
 plot.4th3 <- levelplot((as.matrix(fourth3)), xlab = "Environmental Variables", 
                        ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 
-                       at = seq(-a, a, length = 100), scales = list(x = list(rot = 45)))
+                       at = seq(-b, b, length = 100), scales = list(x = list(rot = 45)))
 plot.4th3
 
 

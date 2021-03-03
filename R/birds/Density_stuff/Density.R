@@ -12,6 +12,8 @@ birds <- birds %>%
   mutate(species_richness = n_distinct(Species)) %>% 
   rename(distance = Distance) %>% 
   rename(Region.Label = Site) %>%
+  filter(Position != "Flyover") %>%
+  filter(Notes != "Out of Survey")%>% 
   as.data.frame()
 birds$Area <- '628'
 birds$Effort <- '1'
@@ -41,8 +43,6 @@ print(totbirds100)
 #birds_hr <- ds(birds, truncation = 400, key = "hr")
 #birds_hr_tre <- ds(birds, truncation = 400, key = "hr",  formula = ~ Treatment)
 birds_hr_loc <- ds(birds, truncation = 400, key = "hr",  formula = ~ Location)
-birds_hr_loc_100 <- ds(birds100, truncation = 400, key = "hr",  formula = ~ Location)
-birds_hr_loc_100 <- ds(birds, truncation = 100, key = "hr",  formula = ~ Location)
 
 
 #summarize_ds_models(birds_hr_loc, birds_det, birds_hr, birds_hr_tre)
@@ -50,12 +50,6 @@ birds_hr_loc_100 <- ds(birds, truncation = 100, key = "hr",  formula = ~ Locatio
 plot(birds_hr_loc)
 summary(birds_hr_loc)
 gof_ds(birds_hr_loc)
-
-##100
-plot(birds_hr_loc_100)
-summary(birds_hr_loc_100)
-gof_ds(birds_hr_loc_100)
-
 
 #summary to get abundance and density
 summary(birds_hr_loc)
@@ -75,23 +69,6 @@ density <- abund_table %>%
   filter(Site != "Total")
 write.csv(density, "Data/Processed/density.csv")
 
-##100
-summary(birds_hr_loc_100)
-
-abund_table100 <- summary(birds_hr_loc_100)$dht$individuals$N
-abund_table100$lcl <- abund_table100$ucl <- abund_table100$df <- NULL
-colnames(abund_table100) <- c("Site", "Estimate_abundance", "se_abundance", "CV_abundance")
-
-dense_table100 <- summary(birds_hr_loc_100)$dht$individuals$D
-dense_table100$lcl <- dense_table100$ucl <- dense_table100$df <- NULL
-colnames(dense_table100) <- c("Site", "Estimate_density", "se_density",
-                           "CV_density")
-density100 <- abund_table100 %>%
-  left_join(dense_table100, by = "Site") %>% 
-  left_join(siteinfo, by = "Site") %>% 
-  filter(Site != "Total")
-write.csv(density100, "Data/Processed/density100.csv")
-
 #Plot and ANOVA
 abundplot<- ggplot(density, aes(x = Treatment, y = Estimate_abundance)) + geom_boxplot() +ylab("Abundance")
 print(abundplot)
@@ -102,17 +79,6 @@ density.lmer2<- lmer(Estimate_density ~ Formation + (1|Location), data = density
 summary(density.lmer)
 plot(density.lmer)
 anova(density.lmer2,density.lmer)
-
-##100
-abundplot100<- ggplot(density100, aes(x = Treatment, y = Estimate_abundance)) + geom_boxplot() +ylab("Abundance")
-print(abundplot100)
-
-density.lmer100<- lmer(Estimate_density ~ Formation * Fire +(1|Location), data = density100)
-density.lmer2100<- lmer(Estimate_density ~ Formation + (1|Location), data = density100)
-
-summary(density.lmer100)
-plot(density.lmer100)
-anova(density.lmer2100,density.lmer100)
 
 library (car)
 vif(density.lmer)

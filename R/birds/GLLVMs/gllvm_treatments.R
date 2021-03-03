@@ -94,11 +94,11 @@ TRbr <- br %>%
 
 #running Burnt Rainforest 
 fit_4thbr <- gllvm(ybr, Xbr, TRbr, family = "negative.binomial", num.lv = 2, 
-                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) +
-                     (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) : 
+                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) +
+                     (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) : 
                      (Frugivore + Nectarivore + Granivore + Folivore + Insectivore + Carnivore + Size), seed = 123,
                    row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
-                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover)
+                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Canopy.Cover)
 
 
 br_coef<- coefplot(fit_4thbr, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
@@ -150,11 +150,11 @@ TRbs <- bs %>%
 
 #running Burnt Sclerophyll 
 fit_4thbs <- gllvm(ybs, Xbs, TRbs, family = "negative.binomial", num.lv = 2, 
-                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) +
-                     (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) : 
+                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) +
+                     (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) : 
                      (Frugivore + Nectarivore + Granivore + Folivore + Insectivore + Carnivore + Size), seed = 123,
                    row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
-                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover)
+                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Canopy.Cover)
 
 
 bs_coef<- coefplot(fit_4thbs, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
@@ -204,11 +204,11 @@ TRur <- ur %>%
 
 #running Unburnt Rainforest
 fit_4thur <- gllvm(yur, Xur, TRur, family = "negative.binomial", num.lv = 2, 
-                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) +
-                     (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) : 
+                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) +
+                     (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) : 
                      (Frugivore + Nectarivore + Granivore + Folivore + Insectivore + Carnivore + Size), seed = 123,
                    row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
-                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover)
+                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Canopy.Cover)
 
 
 ur_coef<- coefplot(fit_4thur, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
@@ -258,11 +258,11 @@ TRus <- us %>%
 
 #running Unburnt Rainforest
 fit_4thus <- gllvm(yus, Xus, TRus, family = "negative.binomial", num.lv = 2, 
-                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) +
-                     (Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover) : 
+                   formula =  ~ (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) +
+                     (Litter.Depth + Litter.Cover + Understory + Canopy.Cover) : 
                      (Frugivore + Nectarivore + Granivore + Folivore + Insectivore + Carnivore + Size), seed = 123,
                    row.eff = "random", control.start =list(n.init = 3, jitter.var = 0.01),
-                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Mid.height + Canopy.Cover)
+                   randomX = ~ Litter.Depth + Litter.Cover + Understory + Canopy.Cover)
 
 
 us_coef<- coefplot.gllvm(fit_4thus, mar = c(4, 11, 1, 1), cex.ylab = 0.8)
