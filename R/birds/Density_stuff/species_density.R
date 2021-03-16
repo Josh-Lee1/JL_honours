@@ -86,12 +86,3 @@ ggplot(data = both,
   coord_flip()
 
 
-
-
-#Get species lists for each habitat
-##Rainforest, Both, Dry Scl
-#leftjoin x3 to make dfs
-#Plot abundances
-#
-#
-#
