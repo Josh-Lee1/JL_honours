@@ -1,6 +1,11 @@
 library(tidyverse)
 
-birds<- read.csv("Data/Raw/birds.csv")
+birds100<- read.csv("Data/Raw/birds.csv") %>% 
+  filter(Position != "Flyover") %>%
+  filter(Notes != "Out of Survey") %>% 
+  filter(Distance <= 100)
+birds100$Treatment<- with(birds100, paste0(Formation, Fire))
+
 traits <- read.csv("Data/Raw/trait_data.csv") %>% 
   rename(Species = X3_Taxon_common_name_2)
 
@@ -31,7 +36,7 @@ veg <- read.csv("Data/Raw/veg.csv") %>%
             Canopy.Cover = mean(Canopy.Cover))
 
 birdspread<- read.csv("Data/Processed/birdspread.csv") %>% 
-  select(-c(X, Site))
+  select(-c(X, Site, "Musk.Lorikeet", "Pacific.Baza", "Regent.Bowerbird", "Wedge.tailed.Eagle", "Welcome.Swallow", "White.throated.Needletail"))
 
 traits<- birdtraits %>% 
   select(Species,
@@ -55,7 +60,7 @@ bspread <- birdspread %>%
   t()
 id <- rownames(bspread)
 bspread <- cbind(id=id, bspread)
-rownames(bspread)<-c(1:99)
+rownames(bspread)<-c(1:93)
 Species <- rownames(bspread)
 bspread <- cbind(Species=Species, bspread)
 

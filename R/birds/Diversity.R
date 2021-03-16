@@ -14,7 +14,8 @@ library(car)
 birds <- read.csv("Data/Raw/Birds.csv")
 birds$Treatment<- with(birds, paste0(Formation, Fire))
 birds <- birds %>%
-  filter(Notes != "Out of Survey") %>% 
+  filter(Notes != "Out of Survey") %>%
+  filter(Position != "Flyover") %>% 
   dplyr::group_by(Site) %>%
   dplyr::mutate(species_richness = n_distinct(Species))
 
