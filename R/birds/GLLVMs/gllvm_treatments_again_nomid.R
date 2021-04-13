@@ -273,3 +273,15 @@ plot.4thus <- levelplot((as.matrix(fourthus)), xlab = "Environmental Variables",
                         ylab = "Species traits", col.regions = colort(100), cex.lab = 1.3, 
                         at = seq(-d, d, length = 100), scales = list(x = list(rot = 45)))
 plot.4thus
+
+#put into a 4 panel figure
+#a-bR, b-ur, c-bs, d-us
+
+as.ggplot(plot.4thbr) + ggtitle("a)")
+as.ggplot(plot.4thur)+ ggtitle("b)")
+as.ggplot(plot.4thbs)+ ggtitle("c)")
+as.ggplot(plot.4thus)+ ggtitle("d)")
+
+ggarrange(plot.4thbr, plot.4thur, plot.4thbs, plot.4thus,
+          labels = c("a", "b", "c", "d"),
+          ncol = 2, nrow = 2)

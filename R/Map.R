@@ -27,20 +27,22 @@ map <- ggplot() +
   ylim(37, 28)
 print(map)
 
+#better map
+##study area with layers
 map1 <- ggplot() +
   geom_sf(data = Aus, fill = "#FFFFCC") +
   geom_sf(data = wha, fill = NA, aes(colour = "A"), size = 1, show.legend = "line") +
-  geom_sf(data = fire, fill = NA, aes(colour = "B"), size = 1, show.legend = "line") +
-  geom_sf(data=sites, aes(colour = sites$Treatment)) +
+  geom_sf(data = fire, colour = alpha("red", 0.2), aes(colour = "B"), size = 1, show.legend = "line") +
+  geom_sf(data=sites, aes(shape = sites$Formation, colour = sites$Fire)) +
   xlim(152.2, 153.7)+
   ylim(29.5, 28.2) +
   theme_void() +
   theme(panel.background = element_rect(fill = "lightblue")) +
-  theme(legend.position = c(0.85, 0.15)) +
+  theme(legend.position = "none") +
   scale_color_manual(values = c("A" = "#009900",
                                 "B" = "#FF0000",
-                                "#FF00FF",
-                                "#66CC00",
+                                "#330000",
+                                "#3399FF",
                                 "#FF6600",
                                 "#0000FF"),
                      breaks = c("A", "B",
@@ -69,14 +71,15 @@ map1 <- ggplot() +
   annotation_scale(location = "tr", width_hint = 0.25, style = "ticks") +
   theme(legend.title = element_blank(),
         legend.key = element_rect(fill = "#FFFFCC", color = NA))
-
-  
   
 print(map1)
 
+#still have to shade in fire
 
+#define study area (redbox)
 study_area <- st_as_sfc(st_bbox(sites))
 
+##Make inset
 map <- ggplot() +
   geom_sf(data=Aus, fill = "white") +
   geom_sf(data = study_area, fill = "red", color = "red", size = 2) +
@@ -85,9 +88,44 @@ map <- ggplot() +
   theme_void()
 print(map)
 
+##combine map and inset
 gg_inset_map <-  ggdraw() +
   draw_plot(map1) +
   draw_plot(map, x = 0.66, y = 0.26, width = 0.2, height = 0.2)
 print(gg_inset_map)
 
 ggsave("Outputs/Maps/insetmap.png", plot = gg_inset_map)
+
+
+
+#more tests
+
+
+
+mapx <- ggplot() +
+  geom_sf(data = Aus, fill = "#FFFFCC") +
+  geom_sf(data = fire, fill = alpha("#FF0000", 0.5), colour = "Red", size = 1) +
+  geom_sf(data = wha, fill = alpha("#009900", 0.5), colour = "Green", size = 1) +
+  scale_fill_manual(values = "red", 0.2)+
+  geom_sf(data=sites, aes(shape = sites$Formation, colour = sites$Fire)) +
+  scale_colour_manual(values = c("#FF33FF", "#00CCFF")) +
+  xlim(152.2, 153.7)+
+  ylim(29.5, 28.2) +
+  theme_void() +
+  theme(panel.background = element_rect(fill = "lightblue")) +
+  theme(legend.position = "none") +
+  annotation_north_arrow(location = "tr", 
+                         which_north = "true",  
+                         pad_y = unit(0.5, "in"), 
+                         style = north_arrow_orienteering())+
+  annotation_scale(location = "tr", width_hint = 0.25, style = "ticks")
+
+print(mapx)
+
+##combine map and inset
+gg_inset_map <-  ggdraw() +
+  draw_plot(mapx) +
+  draw_plot(map, x = 0.73, y = 0.1, width = 0.2, height = 0.2)
+print(gg_inset_map)
+
+ggsave("Outputs/Maps/insetmap1.png", plot = gg_inset_map)
