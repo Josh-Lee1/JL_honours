@@ -21,21 +21,17 @@ birds$Area <- as.numeric(birds$Area)
 birds$Effort <- as.numeric(birds$Effort)
 
 
-#isolate Lewin's Honeyeater and add zeros
+#
 sites <- birds %>% 
   select(Region.Label, Location, Formation, Fire, Treatment, Area, Effort, Sample.Label) %>% 
-  distinct() %>% 
-  mutate(Species = "Lewin's Honeyeater")
+  distinct()
   
-leho <- birds %>%
-  select(Region.Label, Location, Formation, Fire, Treatment, Species, Count, distance, Area, Effort, Sample.Label)%>% 
-  filter(Species == "Lewin's Honeyeater") %>% 
-  bind_rows(sites) %>% 
-  unique() %>% 
-  replace(., is.na(.), "0")
+#Do the Analysis:
+##just have to replace species name in first line
 
-#distance bits
-leho_hr_loc <- ds(leho, truncation = 400, key = "hr", monotonicity = "strict", formula = ~ Location)
+birds %>% filter(Species=="Black-faced Monarch")->oo
+woom<-ds(data = oo,truncation = 400,key="hn",monotonicity = "strict")
+oo %>%
+  right_join(sites,c("Region.Label", "Location", "Formation", "Fire",  "Treatment","Sample.Label","Effort","Area"))->pp
+out<-dht2(woom,flatfile=pp,strat_formula=~Treatment)
 
-
-leho_hr_loc_dht2 <- dht2(leho_hr_loc, flatfile = leho, stratification = "object", strat_formula = ~Treatment)
